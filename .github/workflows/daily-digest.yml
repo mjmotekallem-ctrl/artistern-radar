@@ -3,7 +3,7 @@ name: Daily digest
 on:
   schedule:
     # 05:00 UTC daily. GitHub queues cron jobs under load, so a run may land
-    # up to ~30 minutes late; that is expected and harmless for a 30-day window.
+    # up to ~30 minutes late; that is harmless for a 180-day window.
     - cron: "0 5 * * *"
   workflow_dispatch:            # lets you force a run right after fixing a feed
   push:
@@ -28,6 +28,12 @@ jobs:
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
+        with:
+          # Always take the branch tip. workflow_dispatch pins github.sha to
+          # the commit at dispatch time, so without this a manual run that
+          # overlaps a scheduled one checks out a stale SHA and its push is
+          # rejected as non-fast-forward.
+          ref: ${{ github.ref_name }}
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -45,23 +51,51 @@ jobs:
 
       - name: Commit data.json if it changed
         run: |
+          set -euo pipefail
+          BRANCH="${GITHUB_REF_NAME}"
+
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          # Ignore a pure timestamp change: generated_at moves every run, so
-          # comparing the whole file would produce a commit every single day
-          # even when no publisher posted anything.
           if git diff --quiet -- data.json; then
             echo "data.json unchanged — nothing to commit."
             exit 0
           fi
 
+          # Ignore a pure timestamp change: generated_at moves every run, so
+          # comparing the whole file would produce a commit every single day
+          # even when no publisher posted anything.
           if [ -z "$(git diff -- data.json | grep -E '^[+-]' | grep -vE '^[+-]{3}' | grep -v '"generated_at"')" ]; then
             echo "Only generated_at changed — skipping commit."
             git checkout -- data.json
             exit 0
           fi
 
-          git add data.json
-          git commit -m "Update digest — $(date -u '+%Y-%m-%d %H:%M UTC')"
-          git push
+          commit_and_push() {
+            git add data.json
+            git commit -m "Update digest — $(date -u '+%Y-%m-%d %H:%M UTC')"
+            git push origin "HEAD:${BRANCH}"
+          }
+
+          # data.json is a regenerated artifact, so on a race the newest build
+          # simply wins: rebuild our commit on top of whatever landed instead
+          # of rebasing two versions of the same generated file against
+          # each other.
+          for attempt in 1 2 3; do
+            if commit_and_push; then
+              echo "Pushed on attempt ${attempt}."
+              exit 0
+            fi
+            echo "Push rejected — remote moved. Rebuilding on top of it (attempt ${attempt})."
+            cp data.json /tmp/data.json.keep
+            git fetch origin "${BRANCH}"
+            git reset --hard "origin/${BRANCH}"
+            cp /tmp/data.json.keep data.json
+            if git diff --quiet -- data.json; then
+              echo "Remote is already current — nothing left to push."
+              exit 0
+            fi
+          done
+
+          echo "::error::Could not push data.json after 3 attempts."
+          exit 1
