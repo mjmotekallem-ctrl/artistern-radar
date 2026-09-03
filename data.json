@@ -1,0 +1,1641 @@
+{
+ "generated_at": "2026-09-03T12:19:20.024861Z",
+ "window_days": 180,
+ "max_items_per_feed": 8,
+ "totals": {
+  "feeds_configured": 21,
+  "feeds_with_items": 13,
+  "feeds_failed": 3,
+  "feeds_quiet": 5,
+  "manual_sources": 42,
+  "items": 78
+ },
+ "categories": [
+  {
+   "name": "News & Market",
+   "item_count": 40,
+   "sources": [
+    {
+     "name": "ArtNews",
+     "site": "https://www.artnews.com/",
+     "feed_url": "https://www.artnews.com/feed/",
+     "lang": "en",
+     "newest_ts": 1788437513.0,
+     "items": [
+      {
+       "title": "King Charles, Emmanuel Macron, Andy Burnham Visit the Bayeux Tapestry for a VIP Preview",
+       "link": "https://www.artnews.com/art-news/news/king-charles-emmanuel-macron-vip-visit-bayeux-tapestry-1234796876/",
+       "summary": "In a speech, King Charles said that the tapestry \"tells the story of the beginning of what I like to think of as the French side of my family's history in these islands.”",
+       "published": "2026-09-03T12:11:53Z",
+       "published_ts": 1788437513.0,
+       "source": "ArtNews",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Nan Goldin Photographs 30th Anniversary Campaign for Acne Studios",
+       "link": "https://www.artnews.com/art-news/news/nan-goldin-acne-studios-30th-anniversary-campaign-1234796847/",
+       "summary": "Her sitters include Jonathan Lyndon Chase, Peter Schlesinger, Sandra Poulson, and Juliette Lewis, all of whom come from Acne's \"creative family.\"",
+       "published": "2026-09-03T08:00:00Z",
+       "published_ts": 1788422400.0,
+       "source": "ArtNews",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Politics Is Personal in “Turn the Volume Up!,” a Powerful Show of Protest Art at the Nasher Museum",
+       "link": "https://www.artnews.com/art-news/news/politics-is-personal-powerful-show-protest-art-nasher-museum-1234796737/",
+       "summary": "Taking its name from a line from a Zohran Mamdani speech, “Turn the volume up!” at Duke University's Nasher Museum of Art urges visitors to get political this fall.",
+       "published": "2026-09-02T20:38:09Z",
+       "published_ts": 1788381489.0,
+       "source": "ArtNews",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Kerstin Brätsch Wins the $160,000 Zurich Art Prize",
+       "link": "https://www.artnews.com/art-news/news/kerstin-bratsch-wins-2027-zurich-art-prize-1234796793/",
+       "summary": "The German artist will receive prize money and a solo exhibition at the Museum Haus Konstruktiv next year.",
+       "published": "2026-09-02T19:48:17Z",
+       "published_ts": 1788378497.0,
+       "source": "ArtNews",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Your Fall Guide: 17 Art World Highlights Not to Miss",
+       "link": "https://www.artnews.com/list/art-in-america/columns/fall-guide-art-world-datebook-1234796445/",
+       "summary": "See a survey of essential openings and other kinds of offerings in the art world.",
+       "published": "2026-09-02T19:15:57Z",
+       "published_ts": 1788376557.0,
+       "source": "ArtNews",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Mildred Howard Wins $25,000 Artist Award, Anonymous Was A Woman Names Environmental Art Grants, and More: Industry Moves for September 2, 2026",
+       "link": "https://www.artnews.com/art-news/market/industry-moves-september-2-2026-mildred-howard-1234796678/",
+       "summary": "Plus, the New Yorker profiles Susan Te Kahurangi King.",
+       "published": "2026-09-02T19:15:00Z",
+       "published_ts": 1788376500.0,
+       "source": "ArtNews",
+       "category": "News & Market",
+       "mena": true,
+       "needs_translation": false
+      },
+      {
+       "title": "Dealers Are Betting on the Future of South Korea Despite Measured First-Day Sales at Frieze and Kiaf",
+       "link": "https://www.artnews.com/art-news/market/frieze-seoul-kiaf-2026-sales-report-1234796717/",
+       "summary": "The fairs saw a bustling VIP day with crowded aisles, though sales moved at a measured pace.",
+       "published": "2026-09-02T19:15:00Z",
+       "published_ts": 1788376500.0,
+       "source": "ArtNews",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Paul Durand-Ruel’s €43 M. Collection of Monet, Picasso, and Renoir Comes to Christie’s During Paris Art Week",
+       "link": "https://www.artnews.com/art-news/news/paul-durand-collection-auction-christies-1234796746/",
+       "summary": "The October sale will also include works from Pierre-Auguste Renoir, Eugène Boudin, and Alfred Sisley.",
+       "published": "2026-09-02T18:51:14Z",
+       "published_ts": 1788375074.0,
+       "source": "ArtNews",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      }
+     ]
+    },
+    {
+     "name": "The Art Newspaper",
+     "site": "https://www.theartnewspaper.com/",
+     "feed_url": "https://www.theartnewspaper.com/rss.xml",
+     "lang": "en",
+     "newest_ts": 1788436203.0,
+     "items": [
+      {
+       "title": "Houston exhibition explores memory and mythmaking in the American landscape",
+       "link": "https://www.theartnewspaper.com/2026/09/03/memory-and-mythmaking-in-the-american-landscape-explored-through-houston-exhibition",
+       "summary": "‘Divination: Beverly Buchanan & Dionne Lee’ brings together work of Beverly Buchanan and Dionne Lee that highlights histories hidden in the environment",
+       "published": "2026-09-03T11:50:03Z",
+       "published_ts": 1788436203.0,
+       "source": "The Art Newspaper",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Man discovers Denmark’s largest Viking Age silver hoard while digging a terrace in his garden",
+       "link": "https://www.theartnewspaper.com/2026/09/03/man-discovers-denmarks-largest-viking-age-silver-hoard-while-digging-a-terrace-in-his-garden",
+       "summary": "Treasure trove comprises 700 10th-century objects and fragments, weighing almost 18.5kg",
+       "published": "2026-09-03T11:21:59Z",
+       "published_ts": 1788434519.0,
+       "source": "The Art Newspaper",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Rembrandt self-portrait returns to German city 80 years after it was illegally removed",
+       "link": "https://www.theartnewspaper.com/2026/09/03/rembrandt-self-portrait-returns-to-gotha-80-years-after-illegally-removed",
+       "summary": "The work is on loan to the exhibition ‘Rembrandt 1632: The Creation of a Brand’ at the Ducal Museum Gotha",
+       "published": "2026-09-03T11:00:17Z",
+       "published_ts": 1788433217.0,
+       "source": "The Art Newspaper",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Answering to the AfD? What Germany’s regional elections could mean for arts funding",
+       "link": "https://www.theartnewspaper.com/2026/09/03/answering-to-the-afd-what-germanys-regional-elections-could-mean-for-arts-funding",
+       "summary": "With the far-right party projected to win a high proportion of votes in the state of Saxony-Anhalt this weekend, German museum leaders are sounding the alarm about potential restrictions on programming",
+       "published": "2026-09-03T10:32:30Z",
+       "published_ts": 1788431550.0,
+       "source": "The Art Newspaper",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "‘We are united’: King Charles III and President Macron attend private preview of London's Bayeux Tapestry exhibition",
+       "link": "https://www.theartnewspaper.com/2026/09/03/we-are-united-king-charles-iii-and-president-macron-attend-private-preview-of-londons-bayeux-tapestry-exhibition",
+       "summary": "Likely commissioned in France but made in England, the tapestry could have been called ‘the Canterbury Embroidery’ joked the King in a speech",
+       "published": "2026-09-03T10:28:46Z",
+       "published_ts": 1788431326.0,
+       "source": "The Art Newspaper",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Leader of the Art Gallery of Ontario will step down after a decade at the helm",
+       "link": "https://www.theartnewspaper.com/2026/09/02/art-gallery-ontario-director-stephan-jost-stepping-down",
+       "summary": "During Stephan Jost’s tenure, the leading art museum in Toronto has launched construction of a new contemporary art gallery, added more than 18,000 pieces to its collection and navigated plenty of drama",
+       "published": "2026-09-02T19:43:02Z",
+       "published_ts": 1788378182.0,
+       "source": "The Art Newspaper",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Paris prosecutors seek trial for Giuliano Ruffini over allegedly forged Old Master paintings",
+       "link": "https://www.theartnewspaper.com/2026/09/02/paris-prosecutors-seek-trial-for-giuliano-ruffini-over-allegedly-forged-old-master-paintings",
+       "summary": "Ruffini has been the focus of an international forgery scandal dating back to 2016",
+       "published": "2026-09-02T19:00:46Z",
+       "published_ts": 1788375646.0,
+       "source": "The Art Newspaper",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "The Big Review: Frida, The Making of an Icon ★★★½",
+       "link": "https://www.theartnewspaper.com/2026/09/02/the-big-review-frida-the-making-of-an-icon12",
+       "summary": "Tate show provides a decent selection of the artist’s work but somewhat unravels in its attempt to fully assess her star status",
+       "published": "2026-09-02T16:33:50Z",
+       "published_ts": 1788366830.0,
+       "source": "The Art Newspaper",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      }
+     ]
+    },
+    {
+     "name": "Hyperallergic",
+     "site": "https://hyperallergic.com/",
+     "feed_url": "https://hyperallergic.com/feed/",
+     "lang": "en",
+     "newest_ts": 1788429647.0,
+     "items": [
+      {
+       "title": "Trump Somehow Mad at Stick Figure",
+       "link": "https://hyperallergic.com/trump-somehow-mad-at-stick-figure/",
+       "summary": "Joel Shapiro sculpture removed at the Kennedy Center, how Snoopy unleashed America's imagination, the untold history of Black American dyeing traditions, and more.",
+       "published": "2026-09-03T10:00:47Z",
+       "published_ts": 1788429647.0,
+       "source": "Hyperallergic",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Venice Biennale President Defends Russia Inclusion in New Interview",
+       "link": "https://hyperallergic.com/venice-biennale-president-defends-russia-inclusion-in-new-interview/",
+       "summary": "Pietrangelo Buttafuoco said he would do “everything” again if he had to, despite the Italian Culture Ministry’s backlash and the European Commission's stripped funding.",
+       "published": "2026-09-02T20:29:28Z",
+       "published_ts": 1788380968.0,
+       "source": "Hyperallergic",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Remembering Geles Cabrera, Helch, and Jay Maisel",
+       "link": "https://hyperallergic.com/remembering-geles-cabrera-helch-and-jay-maisel/",
+       "summary": "This week, we honor a sculptor who explored the body, a street artist who upset Queen Elizabeth, and a commercial photographer who shaped the medium.",
+       "published": "2026-09-02T19:44:50Z",
+       "published_ts": 1788378290.0,
+       "source": "Hyperallergic",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Israel's Smotrich Calls to Destroy 40 Palestinian Memorials in West Bank",
+       "link": "https://hyperallergic.com/israels-smotrich-calls-to-destroy-40-palestinian-memorials-in-west-bank/",
+       "summary": "The demand comes after a member of Smotrich's party shattered a monument in a Palestinian village with a sledgehammer.",
+       "published": "2026-09-02T18:27:53Z",
+       "published_ts": 1788373673.0,
+       "source": "Hyperallergic",
+       "category": "News & Market",
+       "mena": true,
+       "needs_translation": false
+      },
+      {
+       "title": "The Missing Colors of Black American Pigment-Making",
+       "link": "https://hyperallergic.com/the-missing-colors-of-black-american-pigment-making/",
+       "summary": "George Washington Carver is remembered as an innovative agricultural scientist, but his overlooked artistic work places him in a lineage of Black American natural dyeing traditions.",
+       "published": "2026-09-02T17:47:13Z",
+       "published_ts": 1788371233.0,
+       "source": "Hyperallergic",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Critics Slam “Petty” Removal of Joel Shapiro Sculpture From Kennedy Center",
+       "link": "https://hyperallergic.com/critics-slam-petty-removal-of-joel-shapiro-sculpture-from-kennedy-center/",
+       "summary": "Artists and activists condemned the National Park Service’s dismantling of \"Blue” (2019), calling it an example of “Trump’s continued vandalism of the nation’s artistic treasures.”",
+       "published": "2026-09-02T17:30:38Z",
+       "published_ts": 1788370238.0,
+       "source": "Hyperallergic",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "NYC Exhibition Celebrates Snoopy's Enduring Influence on Art and Fashion",
+       "link": "https://hyperallergic.com/nyc-exhibition-celebrates-snoopys-enduring-influence-on-art-and-fashion/",
+       "summary": "Our staff reporter, a die-hard Snoopy fan, got emotional at \"Snoopy in Style.\"",
+       "published": "2026-09-02T15:50:51Z",
+       "published_ts": 1788364251.0,
+       "source": "Hyperallergic",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Two Artists' Odyssey Up the Erie Canal",
+       "link": "https://hyperallergic.com/two-artists-odyssey-up-the-erie-canal/",
+       "summary": "The shared origins of Liberian and Gullah basketry, artists Z Behl and Kim Moloney’s 350-mile durational performance, and a massive zine library hidden in a Texas apartment.",
+       "published": "2026-09-02T10:00:22Z",
+       "published_ts": 1788343222.0,
+       "source": "Hyperallergic",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      }
+     ]
+    },
+    {
+     "name": "Artnet News",
+     "site": "https://news.artnet.com/",
+     "feed_url": "https://news.artnet.com/feed",
+     "lang": "en",
+     "newest_ts": 1788417055.0,
+     "items": [
+      {
+       "title": "ICE Seizes Thousands of Ancient Artifacts—and Other Art World Matters",
+       "link": "https://news.artnet.com/artnet-bulletin/ice-seizes-antiquities-sep-3-2806003",
+       "summary": "Plus: British Museum drops a Bayeux Tapestry trailer, and high-end art history courses benefit the rich.",
+       "published": "2026-09-03T06:30:55Z",
+       "published_ts": 1788417055.0,
+       "source": "Artnet News",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "A New James Turrell Work Just Landed at Miami’s Superblue",
+       "link": "https://news.artnet.com/art-world/superblue-miami-james-turrell-ganzfeld-installation-2806132",
+       "summary": "The artist's work has anchored the Miami institution since its opening in 2021.",
+       "published": "2026-09-02T23:42:03Z",
+       "published_ts": 1788392523.0,
+       "source": "Artnet News",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Untitled Art, Houston Reveals a Stacked Lineup for Sophomore Edition",
+       "link": "https://news.artnet.com/art-world/untitled-art-houston-2804186",
+       "summary": "The fair brings together artists whose work appears on the global stage with those actively shaping the city's contemporary art identity.",
+       "published": "2026-09-02T20:30:55Z",
+       "published_ts": 1788381055.0,
+       "source": "Artnet News",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Meow Wolf L.A. Unveils Star-Studded Artist List",
+       "link": "https://news.artnet.com/art-world/meow-wolf-los-angeles-artists-2806029",
+       "summary": "The lineup aims to encapsulate the city's rich art scene.",
+       "published": "2026-09-02T19:19:15Z",
+       "published_ts": 1788376755.0,
+       "source": "Artnet News",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Kennedy Center Removes Beloved Joel Shapiro Sculpture",
+       "link": "https://news.artnet.com/art-world/kennedy-center-removes-joel-shapiro-sculpture-2805926",
+       "summary": "One activist group described the public sculpture's deinstallation as 'the latest example of Trump's authoritarian tendencies.'",
+       "published": "2026-09-02T14:57:43Z",
+       "published_ts": 1788361063.0,
+       "source": "Artnet News",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Serpentine Taps Four Artists For New Tech-Focused Fellowship",
+       "link": "https://news.artnet.com/art-world/serpentine-future-art-ecosystems-fellowship-2805385",
+       "summary": "Alice Bucknell, Reina Mun, Alfredo Salazar-Caro, and Auriea Harvey were chosen from nearly 1,000 applicants for the R&D program.",
+       "published": "2026-09-02T09:30:33Z",
+       "published_ts": 1788341433.0,
+       "source": "Artnet News",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Iconic ‘Mondrian Dress’ Heads to Auction—and Other Art World Matters",
+       "link": "https://news.artnet.com/artnet-bulletin/fair-warning-fashion-auction-sep-2-2805513",
+       "summary": "Plus: The Latino Museum finds a permanent home, and Cards Against Humanity plots an anti-Musk monument.",
+       "published": "2026-09-02T07:00:03Z",
+       "published_ts": 1788332403.0,
+       "source": "Artnet News",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Decades-Old Feud Reignites Over Painting Hidden Beneath Chagall’s Paris Opera Ceiling",
+       "link": "https://news.artnet.com/art-world/chagall-garnier-opera-paris-lenepveu-2805723",
+       "summary": "Chagall's painted ceiling has long covered a 19th-century work by Jules-Eugène Lenepveu. The artist's heir wants it revealed.",
+       "published": "2026-09-02T01:32:08Z",
+       "published_ts": 1788312728.0,
+       "source": "Artnet News",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      }
+     ]
+    },
+    {
+     "name": "Ocula Magazine",
+     "site": "https://ocula.com/magazine/",
+     "feed_url": "https://ocula.com/magazine/feed/",
+     "lang": "en",
+     "newest_ts": 1788388525.0,
+     "items": [
+      {
+       "title": "Serpentine Announces Winners of Inaugural Fellowship Linking Art and Emerging Technologies",
+       "link": "https://ocula.com/magazine/art-news/serpentine-winners-fellowship-art-ai/",
+       "summary": "The London space has named four artists as recipients of £10,000 grants as part of a programme exploring how AI is reshaping cultural production and institutions.",
+       "published": "2026-09-02T22:35:25Z",
+       "published_ts": 1788388525.0,
+       "source": "Ocula Magazine",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Frieze Seoul Award-Winners Dismantle the Fair Stand",
+       "link": "https://ocula.com/magazine/art-news/frieze-seoul-award-winners-dismantle-the-fair/",
+       "summary": "Seoul‑based visual art collective Yagwang, winners of the 2026 Frieze Seoul Artist Award, have removed the walls of their stand to produce “a structure that keeps expanding and changing”.",
+       "published": "2026-09-02T22:05:43Z",
+       "published_ts": 1788386743.0,
+       "source": "Ocula Magazine",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Minor Attractions, London’s ‘Transgressive’ Art Fair, Expands—and Adds a Touch of Kink",
+       "link": "https://ocula.com/magazine/art-news/minor-attractions-london-art-fair-expands-kink/",
+       "summary": "The alternative art fair will move to a new central London home this October and will stage events in clubs and arts spaces across the capital, including at Dalston’s Stück.",
+       "published": "2026-09-02T21:00:06Z",
+       "published_ts": 1788382806.0,
+       "source": "Ocula Magazine",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Sydney's Powerhouse Parramatta Under Scrutiny After Bosses Replaced",
+       "link": "https://ocula.com/magazine/art-news/sydneys-powerhouse-parramatta-under-scrutiny/",
+       "summary": "The flagship cultural project is scheduled to open in November, but senior staff have been replaced by government officials while investigations into procurement irregularities are carried out.",
+       "published": "2026-09-02T03:39:45Z",
+       "published_ts": 1788320385.0,
+       "source": "Ocula Magazine",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "As Fallout Continues, Gwangju Biennale Apologises for Taiwan Pavilion Row",
+       "link": "https://ocula.com/magazine/art-news/gwangju-biennale-apologises-taiwan-pavilion/",
+       "summary": "The city’s government has also released its own apology, aligning Gwangju with the South Korean government’s “One China” principle.",
+       "published": "2026-09-02T00:12:49Z",
+       "published_ts": 1788307969.0,
+       "source": "Ocula Magazine",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Ryoji Ikeda Wins Nam June Paik Prize",
+       "link": "https://ocula.com/magazine/art-news/ryoji-ikeda-wins-nam-june-paik-prize/",
+       "summary": "The Japanese composer and visual artist, described by the jury as a “visionary”, will formally receive the £27,000 prize at a ceremony on 8 September.",
+       "published": "2026-09-01T22:26:31Z",
+       "published_ts": 1788301591.0,
+       "source": "Ocula Magazine",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "‘Super Nature’ and the Power of Collective Film-Making",
+       "link": "https://ocula.com/magazine/opinion/super-nature-ed-sayers-daisy-hildyard-film/",
+       "summary": "Ed Sayers’ old‑tech movie about the planet is a reminder of the video camera’s potential as a tool of resistance and testimony, writes Daisy Hildyard.",
+       "published": "2026-09-01T19:00:00Z",
+       "published_ts": 1788289200.0,
+       "source": "Ocula Magazine",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "The 10 Exhibitions Not to Miss During September",
+       "link": "https://ocula.com/magazine/spotlight/10-exhibitions-not-to-miss-during-september-2026/",
+       "summary": "Ocula’s editors select the must‑visit shows for the month, including the latest Anne Imhof performance, a focus on the shapeshifting works of Leonora Carrington, and public art installations throughout St Louis.",
+       "published": "2026-09-01T03:51:00Z",
+       "published_ts": 1788234660.0,
+       "source": "Ocula Magazine",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      }
+     ]
+    }
+   ],
+   "quiet_sources": [],
+   "manual_sources": [
+    {
+     "name": "e-flux Announcements",
+     "url": "https://www.e-flux.com/announcements/",
+     "category": "News & Market",
+     "reason": "No RSS/Atom endpoint. Next.js site; every /feed, /rss and /rss.xml path returns 404."
+    },
+    {
+     "name": "ArtTactic",
+     "url": "https://arttactic.com/",
+     "category": "News & Market",
+     "reason": "No feed. All feed paths return the HTML site. Reports are gated behind a paid login."
+    }
+   ]
+  },
+  {
+   "name": "MENA Magazines",
+   "item_count": 20,
+   "sources": [
+    {
+     "name": "Canvas",
+     "site": "https://canvasonline.com/",
+     "feed_url": "https://canvasonline.com/feed/",
+     "lang": "en",
+     "newest_ts": 1788415243.0,
+     "items": [
+      {
+       "title": "Yto Barrada",
+       "link": "https://canvasonline.com/yto-barrada-2/?utm_source=rss&utm_medium=rss&utm_campaign=yto-barrada-2",
+       "summary": "Imagine the kind of political courage that spreads like dye. The stain may be slow,...",
+       "published": "2026-09-03T06:00:43Z",
+       "published_ts": 1788415243.0,
+       "source": "Canvas",
+       "category": "MENA Magazines",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Ayan Farah",
+       "link": "https://canvasonline.com/ayan-farah/?utm_source=rss&utm_medium=rss&utm_campaign=ayan-farah",
+       "summary": "Canvas: What does it mean to you personally to represent Somalia in its first-ever national...",
+       "published": "2026-09-02T05:55:05Z",
+       "published_ts": 1788328505.0,
+       "source": "Canvas",
+       "category": "MENA Magazines",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "The Material of Memory: Majd Abdel Hamid at Cample Line",
+       "link": "https://canvasonline.com/the-material-of-memory-majd-abdel-hamid-at-cample-line/?utm_source=rss&utm_medium=rss&utm_campaign=the-material-of-memory-majd-abdel-hamid-at-cample-line",
+       "summary": "Cample Line is not a place you’re likely to stumble upon. A converted mill in...",
+       "published": "2026-09-01T15:37:56Z",
+       "published_ts": 1788277076.0,
+       "source": "Canvas",
+       "category": "MENA Magazines",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Qatar Museums Reveals Details of Design Doha 2026",
+       "link": "https://canvasonline.com/qatar-museums-reveals-details-of-design-doha-2026/?utm_source=rss&utm_medium=rss&utm_campaign=qatar-museums-reveals-details-of-design-doha-2026",
+       "summary": "Qatar Museums has announced the second edition of Design Doha, which will take place from...",
+       "published": "2026-09-01T11:38:59Z",
+       "published_ts": 1788262739.0,
+       "source": "Canvas",
+       "category": "MENA Magazines",
+       "mena": true,
+       "needs_translation": false
+      },
+      {
+       "title": "Craft in Miniature: Vacheron Constantin’s Métiers d’Art Tribute to the Animal Kingdom",
+       "link": "https://canvasonline.com/craft-in-miniature-vacheron-constantins-metiers-dart-tribute-to-the-animal-kingdom/?utm_source=rss&utm_medium=rss&utm_campaign=craft-in-miniature-vacheron-constantins-metiers-dart-tribute-to-the-animal-kingdom",
+       "summary": "For more than 270 years, Vacheron Constantin has cultivated the decorative arts that define haute...",
+       "published": "2026-08-31T10:07:54Z",
+       "published_ts": 1788170874.0,
+       "source": "Canvas",
+       "category": "MENA Magazines",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Frieze Abu Dhabi Reveals Details of Inaugural Edition",
+       "link": "https://canvasonline.com/frieze-abu-dhabi-reveals-details-of-inaugural-edition/?utm_source=rss&utm_medium=rss&utm_campaign=frieze-abu-dhabi-reveals-details-of-inaugural-edition",
+       "summary": "Frieze Abu Dhabi has revealed further details of its inaugural edition, set to take place...",
+       "published": "2026-08-27T22:17:20Z",
+       "published_ts": 1787869040.0,
+       "source": "Canvas",
+       "category": "MENA Magazines",
+       "mena": true,
+       "needs_translation": false
+      },
+      {
+       "title": "The Phantom is a Haunt: Hera Büyüktaşcıyan at Arter",
+       "link": "https://canvasonline.com/the-phantom-is-a-haunt-hera-buyuktasciyan-at-arter/?utm_source=rss&utm_medium=rss&utm_campaign=the-phantom-is-a-haunt-hera-buyuktasciyan-at-arter",
+       "summary": "Phantoms, as they appear, leave only traces for us to remember. As they linger, we...",
+       "published": "2026-08-27T07:41:18Z",
+       "published_ts": 1787816478.0,
+       "source": "Canvas",
+       "category": "MENA Magazines",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Reclaiming Narratives: Group Show at ACP Palazzo Franchetti",
+       "link": "https://canvasonline.com/reclaiming-narratives-group-show-at-acp-palazzo-franchetti/?utm_source=rss&utm_medium=rss&utm_campaign=reclaiming-narratives-group-show-at-acp-palazzo-franchetti",
+       "summary": "Parasol Unit’s TURANDOT: To the Daughters of the East, curated by Dr Ziba Ardalan, delves into a range of...",
+       "published": "2026-08-26T05:34:46Z",
+       "published_ts": 1787722486.0,
+       "source": "Canvas",
+       "category": "MENA Magazines",
+       "mena": false,
+       "needs_translation": false
+      }
+     ]
+    },
+    {
+     "name": "Selections Arts",
+     "site": "https://selectionsarts.com/",
+     "feed_url": "https://selectionsarts.com/feed/",
+     "lang": "en",
+     "newest_ts": 1787816286.0,
+     "items": [
+      {
+       "title": "The Insider’s Brief: N°724 | 15 August – 27 August 2026",
+       "link": "https://selectionsarts.com/the-insiders-brief-n724-15-august-27-august-2026/?utm_source=rss&utm_medium=rss&utm_campaign=the-insiders-brief-n724-15-august-27-august-2026",
+       "summary": "LEBANON After eight years, Khalil Rabah returns to Lebanon with a two-part solo exhibition Some Other Things Ruled It (27 August – 30 December, 2026) at Sfeir Semler Gallery’s Karantina and Downtown spaces. The Karantina presentation revisits and expands Transition,…",
+       "published": "2026-08-27T07:38:06Z",
+       "published_ts": 1787816286.0,
+       "source": "Selections Arts",
+       "category": "MENA Magazines",
+       "mena": true,
+       "needs_translation": false
+      },
+      {
+       "title": "The Insider’s Brief: N°723 | 7 August – 14 August 2026",
+       "link": "https://selectionsarts.com/he-insiders-brief-n723-7-august-14-august-2026/?utm_source=rss&utm_medium=rss&utm_campaign=he-insiders-brief-n723-7-august-14-august-2026",
+       "summary": "LEBANON A few more days left to see the archival display at Sursock Museum, The Butterflies and Bumblebees of Middle East Airlines (until 22 August 2026), tracing the history of the Middle East Airlines (MEA) folkloric dance troupe. Presented as part…",
+       "published": "2026-08-13T07:03:10Z",
+       "published_ts": 1786604590.0,
+       "source": "Selections Arts",
+       "category": "MENA Magazines",
+       "mena": true,
+       "needs_translation": false
+      },
+      {
+       "title": "The Insider’s Brief: N°722 | 31 July – 6 August 2026",
+       "link": "https://selectionsarts.com/the-insiders-brief-n722-31-july-6-august-2026/?utm_source=rss&utm_medium=rss&utm_campaign=the-insiders-brief-n722-31-july-6-august-2026",
+       "summary": "UNITED ARAB EMIRATES Sharjah Art Foundation has announced its summer and autumn 2026 programme, bringing together exhibitions, photography, performance, film and publishing initiatives across its cultural spaces. A highlight of the season is Vantage Point 13, (8 August – 29…",
+       "published": "2026-08-06T09:36:54Z",
+       "published_ts": 1786009014.0,
+       "source": "Selections Arts",
+       "category": "MENA Magazines",
+       "mena": true,
+       "needs_translation": false
+      },
+      {
+       "title": "The Insider’s Brief: N°721 | 24 July – 30 July 2026",
+       "link": "https://selectionsarts.com/the-insiders-brief-n721-24-july-30-july-2026/?utm_source=rss&utm_medium=rss&utm_campaign=the-insiders-brief-n721-24-july-30-july-2026",
+       "summary": "LEBANON Nabil Kanso: Darkness and Light (Part II) (30 July – 25 September 2026) opened this week at the Dalloul Art Foundation, completing the first major presentation of the late artist’s work in his native Lebanon. Following the monumental canvases…",
+       "published": "2026-07-29T20:07:28Z",
+       "published_ts": 1785355648.0,
+       "source": "Selections Arts",
+       "category": "MENA Magazines",
+       "mena": true,
+       "needs_translation": false
+      },
+      {
+       "title": "Nicolas Marbeau on Curating As Close As It Gets",
+       "link": "https://selectionsarts.com/nicolas-marbeau-on-curating-as-close-as-it-gets/?utm_source=rss&utm_medium=rss&utm_campaign=nicolas-marbeau-on-curating-as-close-as-it-gets",
+       "summary": "On the occasion of As Close As It Gets, the solo exhibition of Lebanese photographer Tarek Haddad at Galerie Tanit, Beirut, Selections spoke with curator Nicolas Marbeau (N.M.) about the ideas underpinning the exhibition. Marbeau discusses photography as a medium…",
+       "published": "2026-07-28T11:44:39Z",
+       "published_ts": 1785239079.0,
+       "source": "Selections Arts",
+       "category": "MENA Magazines",
+       "mena": true,
+       "needs_translation": false
+      },
+      {
+       "title": "Gilbert Halaby on Echoes of Existence",
+       "link": "https://selectionsarts.com/gilbert-halaby-on-echoes-of-existence/?utm_source=rss&utm_medium=rss&utm_campaign=gilbert-halaby-on-echoes-of-existence",
+       "summary": "Echoes of Existence opened last week at Nuhad Es-Said Pavilion for Culture in Beirut, exploring the pine tree as a shared symbol of cultural memory connecting Lebanon and Italy. Curated by Muriel Asmar and initiated by the Embassy of Italy…",
+       "published": "2026-07-28T10:08:49Z",
+       "published_ts": 1785233329.0,
+       "source": "Selections Arts",
+       "category": "MENA Magazines",
+       "mena": true,
+       "needs_translation": false
+      },
+      {
+       "title": "A Long-Awaited Homecoming: Nabil Kanso Returns to Beirut",
+       "link": "https://selectionsarts.com/a-long-awaited-homecoming-nabil-kanso-returns-to-beirut/?utm_source=rss&utm_medium=rss&utm_campaign=a-long-awaited-homecoming-nabil-kanso-returns-to-beirut",
+       "summary": "More than six years after his passing, Nabil Kanso (1940–2019) returns to the city where his story began. Darkness and Light (Part I), opening at DAC Beirut on 23 July, marks the first major solo exhibition of the Lebanese-born artist…",
+       "published": "2026-07-21T10:17:56Z",
+       "published_ts": 1784629076.0,
+       "source": "Selections Arts",
+       "category": "MENA Magazines",
+       "mena": true,
+       "needs_translation": false
+      },
+      {
+       "title": "The Insider’s Brief: N°720 | 10 July – 23 July 2026",
+       "link": "https://selectionsarts.com/the-insiders-brief-n720-10-july-23-july-2026/?utm_source=rss&utm_medium=rss&utm_campaign=the-insiders-brief-n720-10-july-23-july-2026",
+       "summary": "LEBANON Echoes of Existence (22 July–21 October 2026) unfolds across the Nuhad Es-Said Pavilion for Culture at the National Museum of Beirut, exploring the pine tree as a shared emblem of cultural memory linking Lebanon and Italy. Initiated by the…",
+       "published": "2026-07-16T11:05:35Z",
+       "published_ts": 1784199935.0,
+       "source": "Selections Arts",
+       "category": "MENA Magazines",
+       "mena": true,
+       "needs_translation": false
+      }
+     ]
+    },
+    {
+     "name": "Something Curated",
+     "site": "https://somethingcurated.com/",
+     "feed_url": "https://somethingcurated.com/feed/",
+     "lang": "en",
+     "newest_ts": 1785871759.0,
+     "items": [
+      {
+       "title": "Wallace Chan’s New Sculptures Challenge the Idea of Monumentality",
+       "link": "https://somethingcurated.com/2026/08/04/inside-wallace-chans-monumental-new-world-in-shanghai/",
+       "summary": "The air hangs heavy, wet against my skin. It’s July and it’s 40 degrees in Shanghai. As I take a few more steps in this city-sized sauna, the vast concrete architecture of the Long Museum rises into view. Designed by Liu Yichun of Atelier Deshaus on the site of a former coal transportation wharf, its...",
+       "published": "2026-08-04T19:29:19Z",
+       "published_ts": 1785871759.0,
+       "source": "Something Curated",
+       "category": "MENA Magazines",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Why Artists Are Travelling to This Tiny Town on Latvia’s Baltic Coast",
+       "link": "https://somethingcurated.com/2026/07/22/why-artists-are-travelling-to-this-tiny-town-on-latvias-baltic-coast/",
+       "summary": "The drive from Riga to Pāvilosta takes just over two hours, meandering through forests, farmland and bucolic villages where countless white storks nest. Their enormous homes perch precariously on telephone poles, some so large they appear to outweigh the structures beneath them. In Latvia, the majestic bird is known…",
+       "published": "2026-07-22T17:20:24Z",
+       "published_ts": 1784740824.0,
+       "source": "Something Curated",
+       "category": "MENA Magazines",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "From Extreme to Shock: Revisiting the Visual Output of the Industrial Music Scene",
+       "link": "https://somethingcurated.com/2026/06/19/from-extreme-to-shock-revisiting-the-visual-output-of-the-industrial-music-scene/",
+       "summary": "Speaking after Ozzy Osbourne passed, art historian and curator Nicolas Ballet said it was actually listening to extreme metal that led him to discover early noise and industrial music. Industrial is a genre that continues to remain submerged away from the mainstream and thrived in that manner in the early ’70s and…",
+       "published": "2026-06-19T10:20:24Z",
+       "published_ts": 1781864424.0,
+       "source": "Something Curated",
+       "category": "MENA Magazines",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "The Emotional Jasper Johns: A New Exhibition Reframes an American Icon",
+       "link": "https://somethingcurated.com/2026/06/16/the-emotional-jasper-johns-a-new-exhibition-reframes-an-american-icon/",
+       "summary": "Inside Jasper Johns: Night Driver at the Guggenheim Bilbao, a film of Walkaround Time (1968) flickers alongside the translucent set pieces Johns designed for American choreographer Merce Cunningham’s dance. Based on Marcel Duchamp’s The Large Glass, the structures appear improbably light within Frank Gehry’s titanium…",
+       "published": "2026-06-16T11:27:52Z",
+       "published_ts": 1781609272.0,
+       "source": "Something Curated",
+       "category": "MENA Magazines",
+       "mena": false,
+       "needs_translation": false
+      }
+     ]
+    }
+   ],
+   "quiet_sources": [],
+   "manual_sources": [
+    {
+     "name": "Ibraaz",
+     "url": "https://www.ibraaz.org/",
+     "category": "MENA Magazines",
+     "reason": "Archived/dormant platform. No feed; publishing stopped."
+    },
+    {
+     "name": "Harper's Bazaar Art Arabia",
+     "url": "https://www.harpersbazaararabia.com/",
+     "category": "MENA Magazines",
+     "reason": "The Art edition has no feed of its own, and /art/feed returns 404. The main magazine feed carries fashion and beauty only - zero art items across its latest 30 entries - so automating it would only add noise."
+    }
+   ]
+  },
+  {
+   "name": "Iranian Art",
+   "item_count": 0,
+   "sources": [],
+   "quiet_sources": [
+    {
+     "name": "Persbook Annual of Contemporary Art",
+     "site": "https://persbookart.com/",
+     "lang": "en",
+     "age_days": 631,
+     "item": {
+      "title": "«من اینجا هستم»ِ تمرینی برای مرکز زدایی | مهدیار جمشیدی و الهام پوریامهر",
+      "link": "https://persbookart.com/4015/mahdyarjamshidi/",
+      "summary": "گفتگوی سوم از سلسله نشست های سیزدهمین رویداد هنر معاصر پرسبوک: مهدیار جمشیدی و الهام پوریا مهر| «من اینجا هستم»ِ تمرینی برای مرکز زدایی| ساعت: ۱۹:۳۰| ۲۷ آبان ۱۴۰۳| گالری ایرانشهر، تهران | مهدیار جمشیدی، مدیر پنل و الهام پوریامهر کیوریتور پروژه (در گفتگوی اسکایپی) از دل‌مشغولی های تمرکز زدایی و مرکز گریزی در راستای…",
+      "published": "2024-12-10T19:11:44Z",
+      "published_ts": 1733857904.0,
+      "source": "Persbook Annual of Contemporary Art",
+      "category": "Iranian Art",
+      "mena": false,
+      "needs_translation": true,
+      "age_days": 631
+     }
+    },
+    {
+     "name": "Iranian.com Arts & Culture",
+     "site": "https://iranian.com/",
+     "lang": "en",
+     "age_days": 1799,
+     "item": {
+      "title": "We’re back",
+      "link": "https://iranian.com/2021/09/29/were-back/",
+      "summary": "In mid-summer 1995 I printed a thousand postcards to mail them to Iranians in the U.S. announcing the launch of iranian.com. It was the best way to get the word out since most people did not have email yet. On the back I wrote: \"THE IRANIAN Online! Your nightmare has come to the internet? Well, not exactly.\"",
+      "published": "2021-09-30T03:23:14Z",
+      "published_ts": 1632972194.0,
+      "source": "Iranian.com Arts & Culture",
+      "category": "Iranian Art",
+      "mena": true,
+      "needs_translation": false,
+      "age_days": 1799
+     }
+    }
+   ],
+   "manual_sources": [
+    {
+     "name": "Tehran Auction",
+     "url": "https://www.tehranauction.com/",
+     "category": "Iranian Art",
+     "reason": "Host unreachable from the build environment and no feed advertised. Sale results are published as pages, not a feed."
+    },
+    {
+     "name": "Dastan Gallery",
+     "url": "https://dastan.gallery/",
+     "category": "Iranian Art",
+     "reason": "Its /feed/ is an Artlogic artwork-inventory image feed (undated, links to CDN images), not news."
+    },
+    {
+     "name": "Mohit.art",
+     "url": "https://mohit.art/",
+     "category": "Iranian Art",
+     "reason": "No feed; all candidate paths return 404."
+    },
+    {
+     "name": "Sazmanab",
+     "url": "https://sazmanab.com/",
+     "category": "Iranian Art",
+     "reason": "Host did not resolve/connect. Programme appears inactive."
+    }
+   ]
+  },
+  {
+   "name": "North African Art",
+   "item_count": 5,
+   "sources": [
+    {
+     "name": "Kamel Lazaar Foundation",
+     "site": "https://www.kamellazaarfoundation.org/",
+     "feed_url": "https://www.kamellazaarfoundation.org/rss.xml",
+     "lang": "en",
+     "newest_ts": 1781706317.0,
+     "items": [
+      {
+       "title": "Where Memory Takes Place",
+       "link": "https://www.kamellazaarfoundation.org/exhibtion/where-memory-takes-place",
+       "summary": "Where Memory Takes Place",
+       "published": "2026-06-17T14:25:17Z",
+       "published_ts": 1781706317.0,
+       "source": "Kamel Lazaar Foundation",
+       "category": "North African Art",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "I Hear the Old Sound of The World’s Future",
+       "link": "https://www.kamellazaarfoundation.org/node/2775",
+       "summary": "I Hear the Old Sound of The World’s Future",
+       "published": "2026-04-14T09:57:29Z",
+       "published_ts": 1776160649.0,
+       "source": "Kamel Lazaar Foundation",
+       "category": "North African Art",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "I HEAR THE OLD SOUND OF THE WORLD'S FUTURE",
+       "link": "https://www.kamellazaarfoundation.org/exhibtion/i-hear-old-sound-worlds-future",
+       "summary": "I HEAR THE OLD SOUND OF THE WORLD'S FUTURE",
+       "published": "2026-04-14T09:51:48Z",
+       "published_ts": 1776160308.0,
+       "source": "Kamel Lazaar Foundation",
+       "category": "North African Art",
+       "mena": false,
+       "needs_translation": false
+      }
+     ]
+    },
+    {
+     "name": "1-54 Contemporary African Art Fair",
+     "site": "https://www.1-54.com/",
+     "feed_url": "https://www.1-54.com/feed/",
+     "lang": "en",
+     "newest_ts": 1780081489.0,
+     "items": [
+      {
+       "title": "Building a Collection: The Art of Collecting African & Diasporic Art (With Subash Chulani)",
+       "link": "https://www.1-54.com/building-a-collection-the-art-of-collecting-african-diasporic-art-with-subash-chulani/",
+       "summary": "I began collecting roughly twenty years ago, shortly after relocating from Hong Kong to London. At the time, it was less a defined practice than an extension of how I spent my time: weekends in South Kensington, moving between museums …",
+       "published": "2026-05-29T19:04:49Z",
+       "published_ts": 1780081489.0,
+       "source": "1-54 Contemporary African Art Fair",
+       "category": "North African Art",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "11 Emerging African & Diasporic Artists to Watch, According to Monique Long",
+       "link": "https://www.1-54.com/11-emerging-african-diasporic-artists-to-watch-according-to-monique-long/",
+       "summary": "This selection brings together a group of artists whose practices I have followed with particular attention in recent years. It is, by design, partial rather than exhaustive. Working within a post-disciplinary landscape, many of these emerging voices move fluidly across …",
+       "published": "2026-05-10T12:21:48Z",
+       "published_ts": 1778415708.0,
+       "source": "1-54 Contemporary African Art Fair",
+       "category": "North African Art",
+       "mena": false,
+       "needs_translation": false
+      }
+     ]
+    }
+   ],
+   "quiet_sources": [],
+   "manual_sources": [
+    {
+     "name": "L'Atelier 21",
+     "url": "https://www.latelier21.ma/",
+     "category": "North African Art",
+     "reason": "Artlogic artwork-inventory image feed only, not news."
+    },
+    {
+     "name": "Loft Art Gallery",
+     "url": "https://www.loftartgallery.net/",
+     "category": "North African Art",
+     "reason": "Artlogic artwork-inventory image feed only, not news."
+    },
+    {
+     "name": "MACAAL",
+     "url": "https://macaal.org/",
+     "category": "North African Art",
+     "reason": "No feed; all candidate paths return 404."
+    },
+    {
+     "name": "Le Cube - Independent Art Room",
+     "url": "https://www.lecuberabat.com/",
+     "category": "North African Art",
+     "reason": "Host unreachable from the build environment; no feed advertised."
+    },
+    {
+     "name": "Fondation Montresso*",
+     "url": "https://www.montressoart.com/",
+     "category": "North African Art",
+     "reason": "Host unreachable from the build environment; no feed advertised."
+    },
+    {
+     "name": "Dar Al-Ma'mun",
+     "url": "https://www.daralmamun.org/",
+     "category": "North African Art",
+     "reason": "Host unreachable from the build environment; no feed advertised."
+    },
+    {
+     "name": "B7L9 Art Station",
+     "url": "https://b7l9.org/",
+     "category": "North African Art",
+     "reason": "Host unreachable from the build environment; no feed advertised."
+    },
+    {
+     "name": "Mashrabia Gallery",
+     "url": "https://mashrabiagallery.com/",
+     "category": "North African Art",
+     "reason": "Invalid TLS certificate and no feed path resolves."
+    },
+    {
+     "name": "Karim Francis Gallery",
+     "url": "https://karimfrancisgallery.com/",
+     "category": "North African Art",
+     "reason": "Host unreachable from the build environment; no feed advertised."
+    }
+   ]
+  },
+  {
+   "name": "Museums & Institutions",
+   "item_count": 1,
+   "sources": [
+    {
+     "name": "Barjeel Art Foundation",
+     "site": "https://www.barjeelartfoundation.org/",
+     "feed_url": "https://www.barjeelartfoundation.org/feed/",
+     "lang": "en",
+     "newest_ts": 1773223815.0,
+     "items": [
+      {
+       "title": "Palestinian Family",
+       "link": "https://www.barjeelartfoundation.org/collection/palestinian-family/",
+       "summary": "",
+       "published": "2026-03-11T10:10:15Z",
+       "published_ts": 1773223815.0,
+       "source": "Barjeel Art Foundation",
+       "category": "Museums & Institutions",
+       "mena": true,
+       "needs_translation": false
+      }
+     ]
+    }
+   ],
+   "quiet_sources": [
+    {
+     "name": "Institut du Monde Arabe",
+     "site": "https://www.imarabe.org/",
+     "lang": "fr",
+     "age_days": 954,
+     "item": {
+      "title": "Étienne Dinet, passions algériennes",
+      "link": "http://www.imarabe.org/fr/agenda/expositions-musee/etienne-dinet-passions-algeriennes",
+      "summary": "Étienne Dinet, passions algériennes bnerou@imarabe.org mar 23/01/2024 - 10:20 Majeur Étienne Dinet naît en 1861 dans le milieu cultivé d’une famille d’avoués parisiens. Il se détourne tôt du modèle familial, qui l’orientait vers des études de droit : après son service militaire, pour avoir manifesté précocement un…",
+      "published": "2024-01-23T09:20:52Z",
+      "published_ts": 1706001652.0,
+      "source": "Institut du Monde Arabe",
+      "category": "Museums & Institutions",
+      "mena": true,
+      "needs_translation": false,
+      "age_days": 954
+     }
+    }
+   ],
+   "manual_sources": [
+    {
+     "name": "Louvre Abu Dhabi",
+     "url": "https://www.louvreabudhabi.ae/",
+     "category": "Museums & Institutions",
+     "reason": "Bot-protected (HTTP 403) and no feed advertised in the page source."
+    },
+    {
+     "name": "Mathaf: Arab Museum of Modern Art",
+     "url": "https://mathaf.org.qa/",
+     "category": "Museums & Institutions",
+     "reason": "No feed; all candidate paths return 404."
+    },
+    {
+     "name": "Sharjah Art Foundation",
+     "url": "https://sharjahart.org/",
+     "category": "Museums & Institutions",
+     "reason": "No feed. Programme and news are rendered as pages only."
+    },
+    {
+     "name": "Jameel Arts Centre",
+     "url": "https://jameelartscentre.org/",
+     "category": "Museums & Institutions",
+     "reason": "A /feed/ endpoint exists but is permanently empty (zero entries)."
+    },
+    {
+     "name": "Ithra",
+     "url": "https://www.ithra.com/",
+     "category": "Museums & Institutions",
+     "reason": "Host times out from the build environment; no feed advertised."
+    },
+    {
+     "name": "Sursock Museum",
+     "url": "https://sursock.museum/",
+     "category": "Museums & Institutions",
+     "reason": "No feed; all candidate paths return 404."
+    }
+   ]
+  },
+  {
+   "name": "Galleries",
+   "item_count": 0,
+   "sources": [],
+   "quiet_sources": [],
+   "manual_sources": [
+    {
+     "name": "The Third Line",
+     "url": "https://thethirdline.com/",
+     "category": "Galleries",
+     "reason": "Artlogic artwork-inventory image feed only, not news."
+    },
+    {
+     "name": "Isabelle van den Eynde",
+     "url": "https://www.ivde.net/",
+     "category": "Galleries",
+     "reason": "Artlogic artwork-inventory image feed only, not news."
+    },
+    {
+     "name": "Ayyam Gallery",
+     "url": "https://www.ayyamgallery.com/",
+     "category": "Galleries",
+     "reason": "Artlogic artwork-inventory image feed only, not news."
+    },
+    {
+     "name": "Athr Gallery",
+     "url": "https://www.athrart.com/",
+     "category": "Galleries",
+     "reason": "Artlogic artwork-inventory image feed only, not news."
+    },
+    {
+     "name": "Green Art Gallery",
+     "url": "https://gagallery.com/",
+     "category": "Galleries",
+     "reason": "No feed; all candidate paths return the HTML site."
+    },
+    {
+     "name": "Sfeir-Semler Gallery",
+     "url": "https://www.sfeir-semler.com/",
+     "category": "Galleries",
+     "reason": "No feed; all candidate paths return 404."
+    },
+    {
+     "name": "Agial Art Gallery",
+     "url": "https://agialart.com/",
+     "category": "Galleries",
+     "reason": "Invalid TLS certificate; no feed path resolves."
+    },
+    {
+     "name": "Hafez Gallery",
+     "url": "https://www.hafezgallery.com/",
+     "category": "Galleries",
+     "reason": "No feed; candidate paths return 400/404."
+    },
+    {
+     "name": "Zilberman Gallery",
+     "url": "https://www.zilbermangallery.com/",
+     "category": "Galleries",
+     "reason": "No feed; all candidate paths return the HTML site."
+    }
+   ]
+  },
+  {
+   "name": "Auction Houses",
+   "item_count": 0,
+   "sources": [],
+   "quiet_sources": [],
+   "manual_sources": [
+    {
+     "name": "Christie's Middle East",
+     "url": "https://www.christies.com/en/stories",
+     "category": "Auction Houses",
+     "reason": "Retired its public RSS. Stories and sale results are JS-rendered only."
+    },
+    {
+     "name": "Sotheby's",
+     "url": "https://www.sothebys.com/en/articles",
+     "category": "Auction Houses",
+     "reason": "No public RSS endpoint; all candidate paths return 404."
+    },
+    {
+     "name": "Bonhams",
+     "url": "https://www.bonhams.com/",
+     "category": "Auction Houses",
+     "reason": "Bot-protected (HTTP 403); no feed advertised."
+    }
+   ]
+  },
+  {
+   "name": "Fairs & Events",
+   "item_count": 0,
+   "sources": [],
+   "quiet_sources": [
+    {
+     "name": "Art Dubai",
+     "site": "https://www.artdubai.ae/",
+     "lang": "en",
+     "age_days": 1960,
+     "item": {
+      "title": "Art Dubai 2021 leads the way back to normality",
+      "link": "https://www.artdubai.ae/art-dubai-2021-leads-the-way-back-to-normality/",
+      "summary": "Held under the patronage of His Highness Sheikh Mohammed bin Rashid Al Maktoum, Vice President and Prime Minister of the UAE and Ruler of Dubai and hosted by Dubai International Financial Centre (DIFC), Art Dubai returned, signaling the...",
+      "published": "2021-04-22T08:59:24Z",
+      "published_ts": 1619081964.0,
+      "source": "Art Dubai",
+      "category": "Fairs & Events",
+      "mena": true,
+      "needs_translation": false,
+      "age_days": 1960
+     }
+    }
+   ],
+   "manual_sources": [
+    {
+     "name": "Sharjah Biennial",
+     "url": "https://sharjahart.org/sharjah-biennial",
+     "category": "Fairs & Events",
+     "reason": "Runs on the Sharjah Art Foundation site, which has no feed."
+    },
+    {
+     "name": "Islamic Arts Biennale",
+     "url": "https://biennale.org.sa/",
+     "category": "Fairs & Events",
+     "reason": "Bot-protected (HTTP 403); no feed advertised."
+    },
+    {
+     "name": "Diriyah Contemporary Art Biennale",
+     "url": "https://biennale.org.sa/",
+     "category": "Fairs & Events",
+     "reason": "Shares the bot-protected Diriyah Biennale Foundation site; no feed."
+    },
+    {
+     "name": "ArtBAB (Art Bahrain Across Borders)",
+     "url": "https://artbab.com/",
+     "category": "Fairs & Events",
+     "reason": "No feed; all candidate paths return the HTML site."
+    },
+    {
+     "name": "Cairo Biennale",
+     "url": "https://fineart.gov.eg/",
+     "category": "Fairs & Events",
+     "reason": "No standing official site or feed. Announced ad hoc via the Egyptian Ministry of Culture Fine Arts Sector."
+    },
+    {
+     "name": "Istanbul Biennial",
+     "url": "https://bienal.iksv.org/",
+     "category": "Fairs & Events",
+     "reason": "No feed; all candidate paths return 404."
+    }
+   ]
+  },
+  {
+   "name": "Foundations, Research & Archives",
+   "item_count": 4,
+   "sources": [
+    {
+     "name": "Delfina Foundation",
+     "site": "https://www.delfinafoundation.com/",
+     "feed_url": "https://www.delfinafoundation.com/feed/",
+     "lang": "en",
+     "newest_ts": 1783523609.0,
+     "items": [
+      {
+       "title": "The Jorge M. Pérez Collection, El Espacio 23 and Delfina Foundation Announce Selected Artists for International Residency Programme",
+       "link": "https://www.delfinafoundation.com/the-jorge-m-perez-collection-el-espacio-23-and-delfina-foundation-announce-selected-artists-for-international-residency-program/",
+       "summary": "Hellen Ascoli and José Morbán to Participate in fully funded London residencies designed to foster artistic development and cross-cultural exchange. The Jorge M. Pérez Collection and El Espacio 23 , in partnership with Delfina Foundation , are pleased to announce the selection of artists Hellen Ascoli and José Morbán…",
+       "published": "2026-07-08T15:13:29Z",
+       "published_ts": 1783523609.0,
+       "source": "Delfina Foundation",
+       "category": "Foundations, Research & Archives",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "‘Harbour Exchange Fellowship Programme’ Announces Inaugural Artists",
+       "link": "https://www.delfinafoundation.com/harbour-exchange-fellowship-programme-announces-inaugural-artists-vvzela-kook-hong-kong-and-shiraz-bayjoo-united-kingdom/",
+       "summary": "Introducing ‘Harbour Exchange Fellowship Programme’ – a new reciprocal residency connecting artists from the United Kingdom and Hong Kong, launching Summer 2026 to foster cross‑regional artistic dialogue and research. Cheng‑Lan Foundation , Delfina Foundation , and Para Site are proud to announce the two participating…",
+       "published": "2026-04-23T11:22:16Z",
+       "published_ts": 1776943336.0,
+       "source": "Delfina Foundation",
+       "category": "Foundations, Research & Archives",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Delfina Foundation Receives Changemaker Award",
+       "link": "https://www.delfinafoundation.com/delfina-foundation-receives-changemaker-award/",
+       "summary": "Delfina Foundation has been awarded the Changemaker Award by Hamburger Bahnhof, recognising our role in shaping spaces for artistic exchange across borders.",
+       "published": "2026-04-07T16:22:46Z",
+       "published_ts": 1775578966.0,
+       "source": "Delfina Foundation",
+       "category": "Foundations, Research & Archives",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Venice Biennale 2026",
+       "link": "https://www.delfinafoundation.com/venice-biennale-2026/",
+       "summary": "We celebrate alumni-artists of Delfina Foundation and Delfina Studio Trust (our predecessor) presenting work in and around the 61 st Venice Biennale of Art. International Art Exhibition in the Giardini and Arsenale In Minor Keys , this year’s International Exhibition curated by the late Koyo Kouoh, includes six…",
+       "published": "2026-03-09T13:01:29Z",
+       "published_ts": 1773061289.0,
+       "source": "Delfina Foundation",
+       "category": "Foundations, Research & Archives",
+       "mena": false,
+       "needs_translation": false
+      }
+     ]
+    }
+   ],
+   "quiet_sources": [
+    {
+     "name": "AMCA",
+     "site": "https://amcainternational.org/",
+     "lang": "en",
+     "age_days": 353,
+     "item": {
+      "title": "Call for Submissions: Special Issue of the Getty Research Journal",
+      "link": "https://amcainternational.org/call-for-submissions-special-issue-of-the-getty-research-journal/",
+      "summary": "We invite submissions for a special issue of the Getty Research Journal titled “Artistic Exchanges between the Eastern Bloc and Northern Africa during the Global Cold War.”",
+      "published": "2025-09-14T15:34:07Z",
+      "published_ts": 1757864047.0,
+      "source": "AMCA",
+      "category": "Foundations, Research & Archives",
+      "mena": false,
+      "needs_translation": false,
+      "age_days": 353
+     }
+    }
+   ],
+   "manual_sources": [
+    {
+     "name": "Arab Image Foundation",
+     "url": "https://arabimagefoundation.com/",
+     "category": "Foundations, Research & Archives",
+     "reason": "Host unreachable from the build environment; no feed advertised."
+    }
+   ]
+  },
+  {
+   "name": "Podcasts",
+   "item_count": 8,
+   "sources": [
+    {
+     "name": "Ottoman History Podcast",
+     "site": "https://www.ottomanhistorypodcast.com/",
+     "feed_url": "https://www.ottomanhistorypodcast.com/feeds/posts/default",
+     "lang": "en",
+     "newest_ts": 1787925582.0,
+     "items": [
+      {
+       "title": "The Jeweled Gun of Sultan Mahmud I",
+       "link": "https://www.ottomanhistorypodcast.com/2026/05/dimmig.html",
+       "summary": "with Ashley Dimmig hosted by Abbey Stockstill and Musa Kazım Azimli | The jewel-encrusted musket of Mahmud I is one of the most popular pieces at the Walters Art Museum in Baltimore. In this episode, curator Ashley Dimmig joins us to discuss her experience curating Islamic art and the manifold mysteries of the ornate…",
+       "published": "2026-08-28T13:59:42Z",
+       "published_ts": 1787925582.0,
+       "source": "Ottoman History Podcast",
+       "category": "Podcasts",
+       "mena": true,
+       "needs_translation": false
+      },
+      {
+       "title": "WWI and the End of the Ottoman Empire",
+       "link": "https://www.ottomanhistorypodcast.com/2026/08/aksakal.html",
+       "summary": "with Mustafa Aksakal hosted by Chris Gratien and Sıla Önder | The First World War brought an end to six centuries of Ottoman imperial rule and in many ways, made the Middle East region as it is known today. In this episode recorded live at the University of Virginia Institute for the Arts and Humanities, we are joined…",
+       "published": "2026-08-22T13:22:00Z",
+       "published_ts": 1787404920.0,
+       "source": "Ottoman History Podcast",
+       "category": "Podcasts",
+       "mena": true,
+       "needs_translation": false
+      },
+      {
+       "title": "Astrologers and Authority in the Ottoman Empire",
+       "link": "https://www.ottomanhistorypodcast.com/2026/08/sen.html",
+       "summary": "with A. Tunç Şen hosted by Maryam Patton | What did it mean to know the future in the early modern Ottoman Empire? And who had the authority to interpret the heavens? In this episode, A. Tunç Şen discusses his new book Forgotten Experts: Astrologers, Science, and Authority in the Ottoman Empire, 1450–1600 . Şen takes…",
+       "published": "2026-08-14T13:31:41Z",
+       "published_ts": 1786714301.0,
+       "source": "Ottoman History Podcast",
+       "category": "Podcasts",
+       "mena": true,
+       "needs_translation": false
+      },
+      {
+       "title": "The Ottoman World of Sports",
+       "link": "https://www.ottomanhistorypodcast.com/2026/07/sports.html",
+       "summary": "with Murat Yıldız hosted by Sam Dolbee | In the late Ottoman capital, imperial politics became a field of collaboration and competition between Muslim, Christian, and Jewish communities, especially in the years following the 1908 constitutional revolution. And as our guest Murat Yıldız argues in a new book , the world…",
+       "published": "2026-08-02T21:42:54Z",
+       "published_ts": 1785706974.0,
+       "source": "Ottoman History Podcast",
+       "category": "Podcasts",
+       "mena": true,
+       "needs_translation": false
+      },
+      {
+       "title": "All's Fair in Love and War",
+       "link": "https://www.ottomanhistorypodcast.com/2026/06/doap4.html",
+       "summary": "Lafky entered the United States as a teenager on false pretenses, when her cousin presented her to immigration authorities as his legal wife. A decade later, when her real marriage devolved into a messy divorce, her husband used her prior illicit entry against her, reporting Lafky to immigration authorities and…",
+       "published": "2026-06-20T22:44:07Z",
+       "published_ts": 1781995447.0,
+       "source": "Ottoman History Podcast",
+       "category": "Podcasts",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Between Care and Violence: The Dogs of Istanbul",
+       "link": "https://www.ottomanhistorypodcast.com/2026/05/dogs.html",
+       "summary": "with Mine Yıldırım hosted by Önder Eren Akgül | What does canine life reveal about the human worlds of modern Istanbul? In this special collaboration with Keyman Podcast at Northwestern University, we sit down with Mine Yıldırım, curator of the exhibition \"Between Care and Violence: The Dogs of Istanbul,\" to discuss…",
+       "published": "2026-06-13T17:35:30Z",
+       "published_ts": 1781372130.0,
+       "source": "Ottoman History Podcast",
+       "category": "Podcasts",
+       "mena": true,
+       "needs_translation": false
+      },
+      {
+       "title": "Film Diplomacy in Turkey-US Relations",
+       "link": "https://www.ottomanhistorypodcast.com/2026/05/etem.html",
+       "summary": "with Ayşehan Jülide Etem hosted by Chris Gratien and Sıla Önder | During the Cold War period, Turkish cinema flourished, as American films entered local theaters, television sets, and the studios of Yeşilçam. Yet as Jülide Etem argues in her new book, Film Diplomacy , the cinematic story of Turkey-US relations begins…",
+       "published": "2026-06-04T18:16:30Z",
+       "published_ts": 1780596990.0,
+       "source": "Ottoman History Podcast",
+       "category": "Podcasts",
+       "mena": true,
+       "needs_translation": false
+      },
+      {
+       "title": "The Ottoman Genizah",
+       "link": "https://www.ottomanhistorypodcast.com/2026/05/hathaway.html",
+       "summary": "with Jane Hathaway hosted by Maryam Patton | What can a single, discarded scrap of paper reveal about life in Ottoman-era Cairo? In this episode, Jane Hathaway discusses her open-access book Ottoman-Era Documents from the Cairo Genizah . A genizah is a storeroom or repository where Jewish communities preserved…",
+       "published": "2026-05-23T13:05:43Z",
+       "published_ts": 1779541543.0,
+       "source": "Ottoman History Podcast",
+       "category": "Podcasts",
+       "mena": true,
+       "needs_translation": false
+      }
+     ]
+    }
+   ],
+   "quiet_sources": [],
+   "manual_sources": []
+  }
+ ],
+ "errors": [
+  {
+   "source": "The Markaz Review",
+   "category": "MENA Magazines",
+   "url": "https://themarkaz.org/feed/",
+   "stage": "fetch",
+   "error": "HTTP 429 Too Many Requests"
+  },
+  {
+   "source": "MOJEH",
+   "category": "MENA Magazines",
+   "url": "https://mojeh.com/feed/",
+   "stage": "parse",
+   "error": "feed returned zero entries (SAXParseException: <unknown>:2:112: not well-formed (invalid token))"
+  },
+  {
+   "source": "Honar Online",
+   "category": "Iranian Art",
+   "url": "https://honaronline.ir/rss",
+   "stage": "fetch",
+   "error": "connection failed: [Errno 104] Connection reset by peer"
+  },
+  {
+   "source": "Persbook Annual of Contemporary Art",
+   "category": "Iranian Art",
+   "url": "https://persbookart.com/feed/",
+   "stage": "window",
+   "error": "feed OK (10 entries) but nothing published in the last 180 days; newest is 631 days old",
+   "severity": "info"
+  },
+  {
+   "source": "Iranian.com Arts & Culture",
+   "category": "Iranian Art",
+   "url": "https://iranian.com/feed/",
+   "stage": "window",
+   "error": "feed OK (15 entries) but nothing published in the last 180 days; newest is 1799 days old",
+   "severity": "info"
+  },
+  {
+   "source": "Institut du Monde Arabe",
+   "category": "Museums & Institutions",
+   "url": "https://www.imarabe.org/fr/rss.xml",
+   "stage": "window",
+   "error": "feed OK (3 entries) but nothing published in the last 180 days; newest is 954 days old",
+   "severity": "info"
+  },
+  {
+   "source": "Art Dubai",
+   "category": "Fairs & Events",
+   "url": "https://www.artdubai.ae/feed/",
+   "stage": "window",
+   "error": "feed OK (1 entries) but nothing published in the last 180 days; newest is 1960 days old",
+   "severity": "info"
+  },
+  {
+   "source": "AMCA",
+   "category": "Foundations, Research & Archives",
+   "url": "https://amcainternational.org/feed/",
+   "stage": "window",
+   "error": "feed OK (1 entries) but nothing published in the last 180 days; newest is 353 days old",
+   "severity": "info"
+  }
+ ],
+ "stats": [
+  {
+   "source": "The Art Newspaper",
+   "category": "News & Market",
+   "fetched": 61,
+   "kept": 8
+  },
+  {
+   "source": "ArtNews",
+   "category": "News & Market",
+   "fetched": 10,
+   "kept": 8
+  },
+  {
+   "source": "Artnet News",
+   "category": "News & Market",
+   "fetched": 10,
+   "kept": 8
+  },
+  {
+   "source": "Hyperallergic",
+   "category": "News & Market",
+   "fetched": 15,
+   "kept": 8
+  },
+  {
+   "source": "Ocula Magazine",
+   "category": "News & Market",
+   "fetched": 10,
+   "kept": 8
+  },
+  {
+   "source": "Selections Arts",
+   "category": "MENA Magazines",
+   "fetched": 10,
+   "kept": 8
+  },
+  {
+   "source": "Canvas",
+   "category": "MENA Magazines",
+   "fetched": 12,
+   "kept": 8
+  },
+  {
+   "source": "Something Curated",
+   "category": "MENA Magazines",
+   "fetched": 4,
+   "kept": 4
+  },
+  {
+   "source": "The Markaz Review",
+   "category": "MENA Magazines",
+   "fetched": 0,
+   "kept": 0
+  },
+  {
+   "source": "MOJEH",
+   "category": "MENA Magazines",
+   "fetched": 0,
+   "kept": 0
+  },
+  {
+   "source": "Honar Online",
+   "category": "Iranian Art",
+   "fetched": 0,
+   "kept": 0
+  },
+  {
+   "source": "Persbook Annual of Contemporary Art",
+   "category": "Iranian Art",
+   "fetched": 10,
+   "kept": 0
+  },
+  {
+   "source": "Iranian.com Arts & Culture",
+   "category": "Iranian Art",
+   "fetched": 15,
+   "kept": 0
+  },
+  {
+   "source": "1-54 Contemporary African Art Fair",
+   "category": "North African Art",
+   "fetched": 10,
+   "kept": 2
+  },
+  {
+   "source": "Kamel Lazaar Foundation",
+   "category": "North African Art",
+   "fetched": 10,
+   "kept": 3
+  },
+  {
+   "source": "Institut du Monde Arabe",
+   "category": "Museums & Institutions",
+   "fetched": 3,
+   "kept": 0
+  },
+  {
+   "source": "Barjeel Art Foundation",
+   "category": "Museums & Institutions",
+   "fetched": 10,
+   "kept": 1
+  },
+  {
+   "source": "Art Dubai",
+   "category": "Fairs & Events",
+   "fetched": 1,
+   "kept": 0
+  },
+  {
+   "source": "Delfina Foundation",
+   "category": "Foundations, Research & Archives",
+   "fetched": 10,
+   "kept": 4
+  },
+  {
+   "source": "AMCA",
+   "category": "Foundations, Research & Archives",
+   "fetched": 1,
+   "kept": 0
+  },
+  {
+   "source": "Ottoman History Podcast",
+   "category": "Podcasts",
+   "fetched": 25,
+   "kept": 8
+  }
+ ],
+ "social": {
+  "instagram": [
+   "selectionsarts",
+   "canvasonline",
+   "sharjahart",
+   "artdubai",
+   "barjeelartfoundation",
+   "artjameel",
+   "ithracenter",
+   "louvreabudhabi",
+   "sfeirsemler",
+   "athrgallery",
+   "thethirdline",
+   "ayyamgallery",
+   "dastan.artgallery",
+   "1_54artfair",
+   "latelier21galerie",
+   "macaal_museum",
+   "mashrabiagallery",
+   "b7l9artstation"
+  ],
+  "x": [
+   "TheArtNewspaper",
+   "artnetnews",
+   "hyperallergic",
+   "Art_Dubai",
+   "SharjahArt"
+  ]
+ }
+}

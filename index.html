@@ -1,0 +1,515 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Artistern Radar</title>
+<meta name="description" content="Daily digest of Middle Eastern, North African and Iranian art news, market, events and institutional sources.">
+<meta name="robots" content="noindex, nofollow">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Jost:wght@300;400;500;600&family=Cormorant:ital,wght@0,400;0,500;0,600;1,400&display=swap" rel="stylesheet">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' fill='%23F4F1EA'/%3E%3Cpath d='M16 4 28 16 16 28 4 16Z' fill='none' stroke='%2324397B' stroke-width='2.5'/%3E%3Cpath d='M16 11 21 16 16 21 11 16Z' fill='%23C98A2B'/%3E%3C/svg%3E">
+
+<style>
+:root{
+  --paper:#F4F1EA;      --paper-2:#EDE8DE;    --card:#FBF9F5;
+  --ink:#1C1B19;        --ink-2:#4A4741;      --ink-3:#7C776E;
+  --lapis:#24397B;      --lapis-lt:#3C55A5;   --lapis-wash:#E7EAF4;
+  --saffron:#C98A2B;    --saffron-wash:#F6EBD8;
+  --rule:#DAD3C6;       --rule-2:#C7BFAE;
+  --ok:#4A7A52;         --warn:#9A6414;       --bad:#96422E;
+  --sans:'Jost',system-ui,-apple-system,'Segoe UI',sans-serif;
+  --serif:'Cormorant',Georgia,'Times New Roman',serif;
+  --wrap:1180px;
+}
+@media (prefers-color-scheme:dark){
+  :root{
+    --paper:#16151A;    --paper-2:#1E1D23;    --card:#1F1E25;
+    --ink:#EDE9E1;      --ink-2:#B8B2A6;      --ink-3:#8B8578;
+    --lapis:#8FA4E0;    --lapis-lt:#A9BAEC;   --lapis-wash:#232945;
+    --saffron:#D9A251;  --saffron-wash:#332918;
+    --rule:#33313A;     --rule-2:#45424E;
+    --ok:#7FB089;       --warn:#D2A05A;       --bad:#D98A70;
+  }
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth;scroll-padding-top:5.5rem}
+body{
+  margin:0;background:var(--paper);color:var(--ink);
+  font-family:var(--serif);font-size:17px;line-height:1.55;
+  -webkit-font-smoothing:antialiased;
+}
+a{color:var(--lapis);text-decoration:none}
+a:hover{text-decoration:underline;text-underline-offset:2px}
+.wrap{max-width:var(--wrap);margin:0 auto;padding:0 clamp(1rem,3vw,2.25rem)}
+
+/* ---------- header ---------- */
+.masthead{
+  background:var(--paper-2);border-bottom:1px solid var(--rule);
+  padding:2rem 0 1.5rem;position:relative;overflow:hidden;
+}
+.lattice-bg{position:absolute;inset:0;opacity:.5;pointer-events:none}
+.masthead .wrap{position:relative}
+.brandrow{display:flex;align-items:center;gap:1rem;flex-wrap:wrap}
+.mark{flex:0 0 auto}
+.brandtext h1{
+  font-family:var(--sans);font-weight:500;font-size:clamp(1.6rem,4vw,2.3rem);
+  letter-spacing:.055em;text-transform:uppercase;margin:0;line-height:1.05;
+}
+.brandtext h1 em{font-style:normal;color:var(--lapis)}
+.tagline{
+  font-family:var(--sans);font-size:.72rem;font-weight:400;letter-spacing:.19em;
+  text-transform:uppercase;color:var(--ink-3);margin:.4rem 0 0;
+}
+.meta{
+  margin-top:1.25rem;display:flex;gap:.5rem .9rem;flex-wrap:wrap;align-items:center;
+  font-family:var(--sans);font-size:.76rem;letter-spacing:.05em;color:var(--ink-2);
+}
+.pill{
+  display:inline-flex;align-items:center;gap:.42em;background:var(--card);
+  border:1px solid var(--rule);border-radius:2rem;padding:.3rem .8rem;
+  font-variant-numeric:tabular-nums;
+}
+.pill b{font-weight:600;color:var(--ink)}
+.pill.live::before{
+  content:"";width:6px;height:6px;border-radius:50%;background:var(--ok);
+  box-shadow:0 0 0 3px color-mix(in srgb,var(--ok) 22%,transparent);
+}
+
+/* ---------- controls ---------- */
+.controls{
+  position:sticky;top:0;z-index:40;background:color-mix(in srgb,var(--paper) 93%,transparent);
+  backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);
+  border-bottom:1px solid var(--rule);
+}
+.controls .wrap{display:flex;gap:.6rem;align-items:center;padding-top:.6rem;padding-bottom:.6rem;flex-wrap:wrap}
+#search{
+  flex:1 1 200px;min-width:150px;font-family:var(--sans);font-size:.84rem;
+  padding:.5rem .8rem;border:1px solid var(--rule-2);border-radius:.3rem;
+  background:var(--card);color:var(--ink);
+}
+#search:focus{outline:2px solid var(--lapis);outline-offset:1px;border-color:transparent}
+#search::placeholder{color:var(--ink-3)}
+.toggle{
+  font-family:var(--sans);font-size:.76rem;letter-spacing:.06em;text-transform:uppercase;
+  padding:.5rem .85rem;border:1px solid var(--rule-2);border-radius:.3rem;
+  background:var(--card);color:var(--ink-2);cursor:pointer;white-space:nowrap;
+  transition:background .15s,color .15s,border-color .15s;
+}
+.toggle:hover{border-color:var(--lapis);color:var(--lapis)}
+.toggle[aria-pressed="true"]{background:var(--lapis);border-color:var(--lapis);color:#fff}
+@media (prefers-color-scheme:dark){.toggle[aria-pressed="true"]{color:#12121A}}
+.jump{
+  font-family:var(--sans);font-size:.78rem;padding:.5rem .6rem;border:1px solid var(--rule-2);
+  border-radius:.3rem;background:var(--card);color:var(--ink-2);max-width:210px;
+}
+
+/* ---------- sections ---------- */
+main{padding:2.25rem 0 4rem}
+.cat{margin-bottom:3.25rem;scroll-margin-top:5.5rem}
+.cat-head{
+  display:flex;align-items:baseline;gap:.85rem;border-bottom:2px solid var(--ink);
+  padding-bottom:.45rem;margin-bottom:1.5rem;flex-wrap:wrap;
+}
+.cat-head h2{
+  font-family:var(--sans);font-weight:500;font-size:clamp(1.05rem,2.4vw,1.35rem);
+  letter-spacing:.13em;text-transform:uppercase;margin:0;
+}
+.cat-head .count{
+  font-family:var(--sans);font-size:.72rem;letter-spacing:.1em;color:var(--ink-3);
+  text-transform:uppercase;margin-left:auto;
+}
+
+.src{margin-bottom:1.9rem;break-inside:avoid}
+.src-head{display:flex;align-items:baseline;gap:.6rem;margin-bottom:.7rem;flex-wrap:wrap}
+.src-head h3{
+  font-family:var(--sans);font-weight:500;font-size:.87rem;letter-spacing:.1em;
+  text-transform:uppercase;margin:0;
+}
+.src-head h3 a{color:var(--ink)}
+.src-head h3 a:hover{color:var(--lapis)}
+.src-rule{flex:1;height:1px;background:var(--rule);min-width:1rem}
+
+.items{list-style:none;margin:0;padding:0;display:grid;gap:.55rem;
+  grid-template-columns:repeat(auto-fill,minmax(310px,1fr))}
+.item{
+  background:var(--card);border:1px solid var(--rule);border-left:2px solid var(--rule-2);
+  border-radius:.25rem;padding:.8rem .95rem;transition:border-left-color .15s,transform .15s;
+}
+.item:hover{border-left-color:var(--lapis);transform:translateX(1px)}
+.item.is-mena{border-left-color:var(--saffron)}
+.item-title{font-family:var(--sans);font-weight:500;font-size:.93rem;line-height:1.35;margin:0 0 .3rem;letter-spacing:.005em}
+.item-title a{color:var(--ink)}
+.item-title a:hover{color:var(--lapis)}
+.item-sum{font-size:.95rem;color:var(--ink-2);margin:.3rem 0 .45rem;line-height:1.45}
+.item-foot{display:flex;gap:.45rem;align-items:center;flex-wrap:wrap;
+  font-family:var(--sans);font-size:.68rem;letter-spacing:.07em;color:var(--ink-3);text-transform:uppercase}
+.tag{border-radius:2rem;padding:.12rem .5rem;font-size:.62rem;letter-spacing:.09em;border:1px solid transparent}
+.tag-mena{background:var(--saffron-wash);color:var(--saffron);border-color:color-mix(in srgb,var(--saffron) 35%,transparent)}
+.tag-tr{background:var(--lapis-wash);color:var(--lapis);border-color:color-mix(in srgb,var(--lapis) 30%,transparent)}
+
+/* quiet + manual */
+.sub{margin-top:1.5rem;background:var(--paper-2);border:1px solid var(--rule);border-radius:.3rem;padding:1rem 1.1rem}
+.sub > summary{
+  font-family:var(--sans);font-size:.73rem;letter-spacing:.12em;text-transform:uppercase;
+  color:var(--ink-2);cursor:pointer;list-style:none;display:flex;align-items:center;gap:.5rem;
+}
+.sub > summary::-webkit-details-marker{display:none}
+.sub > summary::before{content:"▸";color:var(--lapis);font-size:.8rem;transition:transform .15s;display:inline-block}
+.sub[open] > summary::before{transform:rotate(90deg)}
+.sub > summary:hover{color:var(--lapis)}
+.quiet-list,.manual-list{list-style:none;margin:.9rem 0 0;padding:0;display:grid;gap:.5rem;
+  grid-template-columns:repeat(auto-fill,minmax(290px,1fr))}
+.quiet-list li,.manual-list li{
+  border-left:2px solid var(--rule-2);padding:.15rem 0 .15rem .7rem;font-size:.92rem;color:var(--ink-2);
+}
+.quiet-list .qname,.manual-list .mname{
+  display:block;font-family:var(--sans);font-size:.76rem;letter-spacing:.08em;
+  text-transform:uppercase;color:var(--ink);margin-bottom:.15rem;
+}
+.age{font-family:var(--sans);font-size:.66rem;letter-spacing:.08em;color:var(--ink-3);text-transform:uppercase}
+.why{display:block;font-size:.85rem;color:var(--ink-3);font-style:italic;margin-top:.1rem}
+
+/* social */
+.social-grid{display:grid;gap:1.5rem;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));margin-top:1.2rem}
+.social-col h3{
+  font-family:var(--sans);font-weight:500;font-size:.76rem;letter-spacing:.13em;text-transform:uppercase;
+  margin:0 0 .7rem;color:var(--ink-2);display:flex;align-items:center;gap:.5rem;
+}
+.handles{display:flex;flex-wrap:wrap;gap:.4rem}
+.handle{
+  font-family:var(--sans);font-size:.78rem;letter-spacing:.02em;background:var(--card);
+  border:1px solid var(--rule);border-radius:2rem;padding:.28rem .72rem;color:var(--ink-2);
+}
+.handle:hover{border-color:var(--lapis);color:var(--lapis);text-decoration:none}
+
+/* status log */
+.status-tbl{width:100%;border-collapse:collapse;margin-top:.9rem;font-family:var(--sans);font-size:.8rem}
+.status-tbl th{
+  text-align:left;font-weight:500;font-size:.68rem;letter-spacing:.11em;text-transform:uppercase;
+  color:var(--ink-3);border-bottom:1px solid var(--rule-2);padding:.4rem .6rem .4rem 0;
+}
+.status-tbl td{padding:.45rem .6rem .45rem 0;border-bottom:1px solid var(--rule);vertical-align:top;color:var(--ink-2)}
+.status-tbl td:first-child{color:var(--ink);white-space:nowrap}
+.sev{font-size:.64rem;letter-spacing:.1em;text-transform:uppercase;border-radius:2rem;padding:.1rem .5rem;white-space:nowrap}
+.sev-fail{background:color-mix(in srgb,var(--bad) 15%,transparent);color:var(--bad)}
+.sev-info{background:color-mix(in srgb,var(--warn) 15%,transparent);color:var(--warn)}
+code{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:.78em;color:var(--ink-3);word-break:break-all}
+
+.lead .items{grid-template-columns:repeat(auto-fill,minmax(268px,1fr))}
+.lead .cat-head{border-bottom-color:var(--saffron)}
+.lead .item{background:var(--paper-2);border-left-color:var(--saffron)}
+.src-label{color:var(--lapis);font-weight:500}
+.note{
+  background:var(--lapis-wash);border-left:2px solid var(--lapis);border-radius:.2rem;
+  padding:.75rem .95rem;font-size:.93rem;color:var(--ink-2);margin:1rem 0 0;
+}
+.empty{color:var(--ink-3);font-style:italic;padding:1.5rem 0}
+footer{border-top:1px solid var(--rule);padding:1.75rem 0 3rem;margin-top:2rem;
+  font-family:var(--sans);font-size:.73rem;letter-spacing:.06em;color:var(--ink-3)}
+footer a{color:var(--ink-2)}
+.hidden{display:none !important}
+@media (max-width:620px){
+  .items,.quiet-list,.manual-list{grid-template-columns:1fr}
+  .cat-head .count{margin-left:0;width:100%}
+}
+</style>
+</head>
+<body>
+
+<header class="masthead">
+  <svg class="lattice-bg" aria-hidden="true" width="100%" height="100%">
+    <defs>
+      <pattern id="lat" width="56" height="56" patternUnits="userSpaceOnUse" patternTransform="translate(0 0)">
+        <path d="M28 0 56 28 28 56 0 28Z" fill="none" stroke="var(--lapis)" stroke-width="0.6" opacity="0.30"/>
+        <path d="M28 14 42 28 28 42 14 28Z" fill="none" stroke="var(--saffron)" stroke-width="0.5" opacity="0.22"/>
+      </pattern>
+    </defs>
+    <rect width="100%" height="100%" fill="url(#lat)"/>
+  </svg>
+
+  <div class="wrap">
+    <div class="brandrow">
+      <svg class="mark" width="52" height="52" viewBox="0 0 52 52" aria-label="Artistern diamond lattice mark" role="img">
+        <g fill="none" stroke="var(--lapis)" stroke-width="1.5">
+          <path d="M26 1 51 26 26 51 1 26Z"/>
+          <path d="M26 13 39 26 26 39 13 26Z"/>
+          <path d="M13.5 13.5 26 26 13.5 38.5 1 26Z" opacity=".45"/>
+          <path d="M38.5 13.5 51 26 38.5 38.5 26 26Z" opacity=".45"/>
+        </g>
+        <path d="M26 20 32 26 26 32 20 26Z" fill="var(--saffron)"/>
+      </svg>
+      <div class="brandtext">
+        <h1>Artistern <em>Radar</em></h1>
+        <p class="tagline">Middle East &middot; North Africa &middot; Iran &mdash; daily source sweep</p>
+      </div>
+    </div>
+    <div class="meta" id="meta"><span class="pill">Loading…</span></div>
+  </div>
+</header>
+
+<nav class="controls">
+  <div class="wrap">
+    <input id="search" type="search" placeholder="Filter headlines and summaries…" aria-label="Filter items">
+    <button class="toggle" id="menaBtn" aria-pressed="false" title="Show only items mentioning the region">MENA only</button>
+    <select class="jump" id="jump" aria-label="Jump to category"><option value="">Jump to section…</option></select>
+  </div>
+</nav>
+
+<main class="wrap" id="main">
+  <p class="empty">Loading digest…</p>
+</main>
+
+<footer class="wrap">
+  <p>
+    <strong>Artistern Radar</strong> — internal source sweep for the content team.
+    Rebuilt daily at 05:00 UTC by GitHub Actions.
+    Feeds are fetched from their publishers; all headlines link to the original.
+  </p>
+</footer>
+
+<script>
+const REGION_LABEL = "MENA";
+
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c =>
+  ({ "&":"&amp;", "<":"&lt;", ">":"&gt;", '"':"&quot;", "'":"&#39;" }[c]));
+
+const fmtDate = iso => {
+  if (!iso) return "undated";
+  const d = new Date(iso);
+  if (isNaN(d)) return "undated";
+  return d.toLocaleDateString("en-GB", { day:"numeric", month:"short", year:"numeric" });
+};
+
+const relative = iso => {
+  if (!iso) return "";
+  const days = Math.floor((Date.now() - new Date(iso).getTime()) / 86400000);
+  if (days <= 0) return "today";
+  if (days === 1) return "yesterday";
+  if (days < 7) return days + "d ago";
+  if (days < 60) return Math.floor(days / 7) + "w ago";
+  return Math.floor(days / 30) + "mo ago";
+};
+
+const slug = s => s.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
+
+function renderItem(it, showSource) {
+  const tags = [];
+  if (it.mena) tags.push(`<span class="tag tag-mena">${REGION_LABEL}</span>`);
+  if (it.needs_translation) tags.push(`<span class="tag tag-tr">needs translation</span>`);
+  return `<li class="item${it.mena ? " is-mena" : ""}"
+      data-text="${esc((it.title + " " + it.summary).toLowerCase())}"
+      data-mena="${it.mena ? "1" : "0"}">
+    <p class="item-title"><a href="${esc(it.link)}" target="_blank" rel="noopener noreferrer">${esc(it.title)}</a></p>
+    ${it.summary ? `<p class="item-sum">${esc(it.summary)}</p>` : ""}
+    <p class="item-foot">
+      ${showSource ? `<span class="src-label">${esc(it.source)}</span>&middot;` : ""}
+      <time datetime="${esc(it.published || "")}">${fmtDate(it.published)}</time>
+      ${it.published ? `<span>&middot; ${relative(it.published)}</span>` : ""}
+      ${tags.join("")}
+    </p>
+  </li>`;
+}
+
+function renderSource(src) {
+  return `<section class="src" data-src="${esc(src.name)}">
+    <div class="src-head">
+      <h3><a href="${esc(src.site)}" target="_blank" rel="noopener noreferrer">${esc(src.name)}</a></h3>
+      <span class="src-rule"></span>
+      <span class="age">${src.items.length} item${src.items.length === 1 ? "" : "s"}</span>
+    </div>
+    <ul class="items">${src.items.map(renderItem).join("")}</ul>
+  </section>`;
+}
+
+function renderQuiet(list, windowDays) {
+  if (!list || !list.length) return "";
+  return `<details class="sub">
+    <summary>Quiet sources — nothing in the last ${windowDays} days (${list.length})</summary>
+    <p class="note">These publish on a slow cadence. Their most recent post is shown so the
+       source stays visible; check the age before treating anything here as news.</p>
+    <ul class="quiet-list">${list.map(q => `
+      <li>
+        <span class="qname"><a href="${esc(q.site)}" target="_blank" rel="noopener noreferrer">${esc(q.name)}</a></span>
+        <a href="${esc(q.item.link)}" target="_blank" rel="noopener noreferrer">${esc(q.item.title)}</a>
+        <span class="age"> — ${fmtDate(q.item.published)} · ${q.age_days} days ago</span>
+      </li>`).join("")}</ul>
+  </details>`;
+}
+
+function renderManual(list) {
+  if (!list || !list.length) return "";
+  return `<details class="sub">
+    <summary>Also worth checking manually — no usable feed (${list.length})</summary>
+    <p class="note">These have no working RSS/Atom feed, so they cannot be automated.
+       Someone has to open them. Reason each one is here is noted below.</p>
+    <ul class="manual-list">${list.map(m => `
+      <li>
+        <span class="mname"><a href="${esc(m.url)}" target="_blank" rel="noopener noreferrer">${esc(m.name)}</a></span>
+        <span class="why">${esc(m.reason || "")}</span>
+      </li>`).join("")}</ul>
+  </details>`;
+}
+
+function renderLead(data, limit) {
+  const all = [];
+  (data.categories || []).forEach(cat =>
+    (cat.sources || []).forEach(src =>
+      (src.items || []).forEach(it => { if (it.mena) all.push(it); })));
+  if (!all.length) return "";
+  all.sort((a, b) => (b.published_ts || 0) - (a.published_ts || 0));
+  const lead = all.slice(0, limit);
+  return `<section class="cat lead" id="regional" data-filterable>
+    <div class="cat-head">
+      <h2>Regional signal</h2>
+      <span class="count">${all.length} of ${data.totals.items} items mention the region</span>
+    </div>
+    <p class="note">Every item across all categories that names a MENA or Iranian
+      place, institution or subject &mdash; pulled to the top so the regional story is not
+      buried under the general art wires. Each also appears in its own category below.</p>
+    <ul class="items">${lead.map(it => renderItem(it, true)).join("")}</ul>
+  </section>`;
+}
+
+function renderSocial(social) {
+  const ig = (social && social.instagram) || [];
+  const x  = (social && social.x) || [];
+  return `<section class="cat" id="social">
+    <div class="cat-head">
+      <h2>Social Media Directory</h2>
+      <span class="count">${ig.length + x.length} accounts · checked by hand</span>
+    </div>
+    <p class="note">Instagram and X have no reliable free feed API, so these are
+      <strong>not</strong> fetched — nothing here is scraped or invented. This is a
+      link directory for the daily manual sweep.</p>
+    <div class="social-grid">
+      <div class="social-col">
+        <h3>Instagram</h3>
+        <div class="handles">${ig.map(h =>
+          `<a class="handle" href="https://instagram.com/${encodeURIComponent(h)}" target="_blank" rel="noopener noreferrer">@${esc(h)}</a>`).join("")}</div>
+      </div>
+      <div class="social-col">
+        <h3>X / Twitter</h3>
+        <div class="handles">${x.map(h =>
+          `<a class="handle" href="https://x.com/${encodeURIComponent(h)}" target="_blank" rel="noopener noreferrer">@${esc(h)}</a>`).join("")}</div>
+      </div>
+    </div>
+  </section>`;
+}
+
+function renderStatus(data) {
+  const errs = data.errors || [];
+  const fails = errs.filter(e => e.severity !== "info");
+  const infos = errs.filter(e => e.severity === "info");
+  const rows = [...fails, ...infos].map(e => `<tr>
+      <td>${esc(e.source)}</td>
+      <td><span class="sev ${e.severity === "info" ? "sev-info" : "sev-fail"}">${e.severity === "info" ? "quiet" : "failed"}</span></td>
+      <td>${esc(e.error)}<br><code>${esc(e.url)}</code></td>
+    </tr>`).join("");
+
+  return `<section class="cat" id="status">
+    <div class="cat-head">
+      <h2>Feed status log</h2>
+      <span class="count">${fails.length} failing · ${infos.length} quiet</span>
+    </div>
+    <details class="sub" ${fails.length ? "open" : ""}>
+      <summary>Every feed that did not deliver, and why (${errs.length})</summary>
+      <p class="note">Failures are logged rather than hidden. A source that fails here for
+        several days running usually means its feed URL moved — fix it in
+        <code>scripts/feeds_config.json</code> and re-run the workflow.</p>
+      ${errs.length
+        ? `<table class="status-tbl"><thead><tr><th>Source</th><th>State</th><th>Detail</th></tr></thead><tbody>${rows}</tbody></table>`
+        : `<p class="empty">Every configured feed returned items. Nothing to fix.</p>`}
+    </details>
+  </section>`;
+}
+
+function applyFilters() {
+  const q = document.getElementById("search").value.trim().toLowerCase();
+  const menaOnly = document.getElementById("menaBtn").getAttribute("aria-pressed") === "true";
+
+  document.querySelectorAll(".item").forEach(el => {
+    const hitText = !q || el.dataset.text.includes(q);
+    const hitMena = !menaOnly || el.dataset.mena === "1";
+    el.classList.toggle("hidden", !(hitText && hitMena));
+  });
+  // Hide a source block, then a category, once everything inside it is filtered out.
+  document.querySelectorAll(".src").forEach(s => {
+    s.classList.toggle("hidden", !s.querySelector(".item:not(.hidden)"));
+  });
+  document.querySelectorAll(".cat[data-filterable]").forEach(c => {
+    const dead = !c.querySelector(".src:not(.hidden)") && !c.querySelector(".item:not(.hidden)");
+    c.classList.toggle("hidden", dead && (q !== "" || menaOnly));
+  });
+}
+
+function render(data) {
+  const t = data.totals || {};
+  document.getElementById("meta").innerHTML = `
+    <span class="pill live">Updated <b>${fmtDate(data.generated_at)}</b></span>
+    <span class="pill"><b>${t.items ?? 0}</b> items</span>
+    <span class="pill"><b>${t.feeds_with_items ?? 0}/${t.feeds_configured ?? 0}</b> feeds live</span>
+    <span class="pill"><b>${t.manual_sources ?? 0}</b> manual sources</span>
+    <span class="pill"><b>${data.window_days}</b>-day window</span>`;
+
+  const jump = document.getElementById("jump");
+  const parts = [];
+  const lead = renderLead(data, 12);
+  if (lead) {
+    parts.push(lead);
+    jump.insertAdjacentHTML("beforeend", `<option value="regional">Regional signal</option>`);
+  }
+
+  (data.categories || []).forEach(cat => {
+    const id = "cat-" + slug(cat.name);
+    jump.insertAdjacentHTML("beforeend", `<option value="${id}">${esc(cat.name)} (${cat.item_count})</option>`);
+    parts.push(`<section class="cat" id="${id}" data-filterable>
+      <div class="cat-head">
+        <h2>${esc(cat.name)}</h2>
+        <span class="count">${cat.item_count} item${cat.item_count === 1 ? "" : "s"} · ${cat.sources.length} live source${cat.sources.length === 1 ? "" : "s"}</span>
+      </div>
+      ${cat.sources.length
+        ? cat.sources.map(renderSource).join("")
+        : `<p class="empty">No source in this category published in the last ${data.window_days} days.</p>`}
+      ${renderQuiet(cat.quiet_sources, data.window_days)}
+      ${renderManual(cat.manual_sources)}
+    </section>`);
+  });
+
+  jump.insertAdjacentHTML("beforeend",
+    `<option value="social">Social Media Directory</option><option value="status">Feed status log</option>`);
+
+  parts.push(renderSocial(data.social));
+  parts.push(renderStatus(data));
+  document.getElementById("main").innerHTML = parts.join("");
+
+  jump.addEventListener("change", e => {
+    if (!e.target.value) return;
+    document.getElementById(e.target.value)?.scrollIntoView({ behavior: "smooth" });
+    e.target.value = "";
+  });
+}
+
+document.getElementById("search").addEventListener("input", applyFilters);
+document.getElementById("menaBtn").addEventListener("click", e => {
+  const on = e.currentTarget.getAttribute("aria-pressed") === "true";
+  e.currentTarget.setAttribute("aria-pressed", String(!on));
+  applyFilters();
+});
+
+fetch("data.json?" + Date.now())
+  .then(r => { if (!r.ok) throw new Error("HTTP " + r.status); return r.json(); })
+  .then(render)
+  .catch(err => {
+    document.getElementById("meta").innerHTML = `<span class="pill">Could not load data.json</span>`;
+    document.getElementById("main").innerHTML =
+      `<div class="note"><strong>Could not load <code>data.json</code>: ${esc(err.message)}</strong><br>
+       If you opened this file directly from disk, browsers block <code>fetch</code> on
+       <code>file://</code>. Serve the folder instead — <code>python3 -m http.server</code> —
+       or use the published GitHub Pages URL. If it is failing on Pages, check that the
+       daily-digest workflow has run at least once and committed <code>data.json</code>.</div>`;
+  });
+</script>
+</body>
+</html>

@@ -1,0 +1,120 @@
+{
+  "_comment": "Artistern Radar source registry. 'feeds' are machine-fetched via RSS/Atom by scripts/build_digest.py. 'manual_sources' have no usable feed and are rendered as a static check-manually list. 'social' is a static directory. See README.md for how to add or fix a source.",
+
+  "_window_note": "180 days. The regional institutions publish on a 2-6 month cadence (Delfina ~56d, Kamel Lazaar ~77d, 1-54 ~96d, Barjeel ~176d), so a shorter window keeps every one of them out of the digest and leaves only the daily Western art wires. Lower this if the page starts feeling stale rather than broad.",
+  "window_days": 180,
+  "max_items_per_feed": 8,
+
+  "category_order": [
+    "News & Market",
+    "MENA Magazines",
+    "Iranian Art",
+    "North African Art",
+    "Museums & Institutions",
+    "Galleries",
+    "Auction Houses",
+    "Fairs & Events",
+    "Foundations, Research & Archives",
+    "Podcasts"
+  ],
+
+  "feeds": [
+    { "name": "The Art Newspaper",          "url": "https://www.theartnewspaper.com/rss.xml",            "category": "News & Market", "site": "https://www.theartnewspaper.com/" },
+    { "name": "ArtNews",                    "url": "https://www.artnews.com/feed/",                      "category": "News & Market", "site": "https://www.artnews.com/" },
+    { "name": "Artnet News",                "url": "https://news.artnet.com/feed",                       "category": "News & Market", "site": "https://news.artnet.com/" },
+    { "name": "Hyperallergic",              "url": "https://hyperallergic.com/feed/",                    "category": "News & Market", "site": "https://hyperallergic.com/" },
+    { "name": "Ocula Magazine",             "url": "https://ocula.com/magazine/feed/",                   "category": "News & Market", "site": "https://ocula.com/magazine/" },
+
+    { "name": "Selections Arts",            "url": "https://selectionsarts.com/feed/",                   "category": "MENA Magazines", "site": "https://selectionsarts.com/" },
+    { "name": "Canvas",                     "url": "https://canvasonline.com/feed/",                     "category": "MENA Magazines", "site": "https://canvasonline.com/" },
+    { "name": "Something Curated",          "url": "https://somethingcurated.com/feed/",                 "category": "MENA Magazines", "site": "https://somethingcurated.com/" },
+    { "name": "The Markaz Review",          "url": "https://themarkaz.org/feed/",                        "category": "MENA Magazines", "site": "https://themarkaz.org/",
+      "note": "WordPress feed. Rate-limited (HTTP 429) from the build sandbox; verify in the Actions log." },
+    { "name": "MOJEH",                      "url": "https://mojeh.com/feed/",                            "category": "MENA Magazines", "site": "https://mojeh.com/",
+      "note": "Sits behind a bot-challenge (HTTP 202) from the build sandbox; verify in the Actions log." },
+
+    { "name": "Honar Online",               "url": "https://honaronline.ir/rss",                         "category": "Iranian Art", "site": "https://honaronline.ir/", "lang": "fa",
+      "note": "Farsi-language. Host unreachable from the build sandbox (egress block); verify in the Actions log." },
+    { "name": "Persbook Annual of Contemporary Art", "url": "https://persbookart.com/feed/",             "category": "Iranian Art", "site": "https://persbookart.com/",
+      "note": "Valid feed but archival - newest post was Dec 2024. Kept so it resurfaces automatically if it revives." },
+    { "name": "Iranian.com Arts & Culture", "url": "https://iranian.com/feed/",                          "category": "Iranian Art", "site": "https://iranian.com/",
+      "note": "Valid feed but dormant - newest post was Sep 2021." },
+
+    { "name": "1-54 Contemporary African Art Fair", "url": "https://www.1-54.com/feed/",                 "category": "North African Art", "site": "https://www.1-54.com/" },
+    { "name": "Kamel Lazaar Foundation",    "url": "https://www.kamellazaarfoundation.org/rss.xml",      "category": "North African Art", "site": "https://www.kamellazaarfoundation.org/" },
+
+    { "name": "Institut du Monde Arabe",    "url": "https://www.imarabe.org/fr/rss.xml",                 "category": "Museums & Institutions", "site": "https://www.imarabe.org/", "lang": "fr" },
+    { "name": "Barjeel Art Foundation",     "url": "https://www.barjeelartfoundation.org/feed/",         "category": "Museums & Institutions", "site": "https://www.barjeelartfoundation.org/" },
+
+    { "name": "Art Dubai",                  "url": "https://www.artdubai.ae/feed/",                      "category": "Fairs & Events", "site": "https://www.artdubai.ae/",
+      "note": "Valid feed but dormant - newest post was Apr 2021. Kept so a relaunch is picked up automatically." },
+
+    { "name": "Delfina Foundation",         "url": "https://www.delfinafoundation.com/feed/",            "category": "Foundations, Research & Archives", "site": "https://www.delfinafoundation.com/" },
+    { "name": "AMCA",                       "url": "https://amcainternational.org/feed/",                "category": "Foundations, Research & Archives", "site": "https://amcainternational.org/" },
+
+    { "name": "Ottoman History Podcast",    "url": "https://www.ottomanhistorypodcast.com/feeds/posts/default", "category": "Podcasts", "site": "https://www.ottomanhistorypodcast.com/" }
+  ],
+
+  "manual_sources": [
+    { "name": "e-flux Announcements", "url": "https://www.e-flux.com/announcements/", "category": "News & Market", "reason": "No RSS/Atom endpoint. Next.js site; every /feed, /rss and /rss.xml path returns 404." },
+    { "name": "ArtTactic", "url": "https://arttactic.com/", "category": "News & Market", "reason": "No feed. All feed paths return the HTML site. Reports are gated behind a paid login." },
+
+    { "name": "Ibraaz", "url": "https://www.ibraaz.org/", "category": "MENA Magazines", "reason": "Archived/dormant platform. No feed; publishing stopped." },
+    { "name": "Harper's Bazaar Art Arabia", "url": "https://www.harpersbazaararabia.com/", "category": "MENA Magazines", "reason": "The Art edition has no feed of its own, and /art/feed returns 404. The main magazine feed carries fashion and beauty only - zero art items across its latest 30 entries - so automating it would only add noise." },
+
+    { "name": "Tehran Auction", "url": "https://www.tehranauction.com/", "category": "Iranian Art", "reason": "Host unreachable from the build environment and no feed advertised. Sale results are published as pages, not a feed." },
+    { "name": "Dastan Gallery", "url": "https://dastan.gallery/", "category": "Iranian Art", "reason": "Its /feed/ is an Artlogic artwork-inventory image feed (undated, links to CDN images), not news." },
+    { "name": "Mohit.art", "url": "https://mohit.art/", "category": "Iranian Art", "reason": "No feed; all candidate paths return 404." },
+    { "name": "Sazmanab", "url": "https://sazmanab.com/", "category": "Iranian Art", "reason": "Host did not resolve/connect. Programme appears inactive." },
+
+    { "name": "L'Atelier 21", "url": "https://www.latelier21.ma/", "category": "North African Art", "reason": "Artlogic artwork-inventory image feed only, not news." },
+    { "name": "Loft Art Gallery", "url": "https://www.loftartgallery.net/", "category": "North African Art", "reason": "Artlogic artwork-inventory image feed only, not news." },
+    { "name": "MACAAL", "url": "https://macaal.org/", "category": "North African Art", "reason": "No feed; all candidate paths return 404." },
+    { "name": "Le Cube - Independent Art Room", "url": "https://www.lecuberabat.com/", "category": "North African Art", "reason": "Host unreachable from the build environment; no feed advertised." },
+    { "name": "Fondation Montresso*", "url": "https://www.montressoart.com/", "category": "North African Art", "reason": "Host unreachable from the build environment; no feed advertised." },
+    { "name": "Dar Al-Ma'mun", "url": "https://www.daralmamun.org/", "category": "North African Art", "reason": "Host unreachable from the build environment; no feed advertised." },
+    { "name": "B7L9 Art Station", "url": "https://b7l9.org/", "category": "North African Art", "reason": "Host unreachable from the build environment; no feed advertised." },
+    { "name": "Mashrabia Gallery", "url": "https://mashrabiagallery.com/", "category": "North African Art", "reason": "Invalid TLS certificate and no feed path resolves." },
+    { "name": "Karim Francis Gallery", "url": "https://karimfrancisgallery.com/", "category": "North African Art", "reason": "Host unreachable from the build environment; no feed advertised." },
+
+    { "name": "Louvre Abu Dhabi", "url": "https://www.louvreabudhabi.ae/", "category": "Museums & Institutions", "reason": "Bot-protected (HTTP 403) and no feed advertised in the page source." },
+    { "name": "Mathaf: Arab Museum of Modern Art", "url": "https://mathaf.org.qa/", "category": "Museums & Institutions", "reason": "No feed; all candidate paths return 404." },
+    { "name": "Sharjah Art Foundation", "url": "https://sharjahart.org/", "category": "Museums & Institutions", "reason": "No feed. Programme and news are rendered as pages only." },
+    { "name": "Jameel Arts Centre", "url": "https://jameelartscentre.org/", "category": "Museums & Institutions", "reason": "A /feed/ endpoint exists but is permanently empty (zero entries)." },
+    { "name": "Ithra", "url": "https://www.ithra.com/", "category": "Museums & Institutions", "reason": "Host times out from the build environment; no feed advertised." },
+    { "name": "Sursock Museum", "url": "https://sursock.museum/", "category": "Museums & Institutions", "reason": "No feed; all candidate paths return 404." },
+
+    { "name": "The Third Line", "url": "https://thethirdline.com/", "category": "Galleries", "reason": "Artlogic artwork-inventory image feed only, not news." },
+    { "name": "Isabelle van den Eynde", "url": "https://www.ivde.net/", "category": "Galleries", "reason": "Artlogic artwork-inventory image feed only, not news." },
+    { "name": "Ayyam Gallery", "url": "https://www.ayyamgallery.com/", "category": "Galleries", "reason": "Artlogic artwork-inventory image feed only, not news." },
+    { "name": "Athr Gallery", "url": "https://www.athrart.com/", "category": "Galleries", "reason": "Artlogic artwork-inventory image feed only, not news." },
+    { "name": "Green Art Gallery", "url": "https://gagallery.com/", "category": "Galleries", "reason": "No feed; all candidate paths return the HTML site." },
+    { "name": "Sfeir-Semler Gallery", "url": "https://www.sfeir-semler.com/", "category": "Galleries", "reason": "No feed; all candidate paths return 404." },
+    { "name": "Agial Art Gallery", "url": "https://agialart.com/", "category": "Galleries", "reason": "Invalid TLS certificate; no feed path resolves." },
+    { "name": "Hafez Gallery", "url": "https://www.hafezgallery.com/", "category": "Galleries", "reason": "No feed; candidate paths return 400/404." },
+    { "name": "Zilberman Gallery", "url": "https://www.zilbermangallery.com/", "category": "Galleries", "reason": "No feed; all candidate paths return the HTML site." },
+
+    { "name": "Christie's Middle East", "url": "https://www.christies.com/en/stories", "category": "Auction Houses", "reason": "Retired its public RSS. Stories and sale results are JS-rendered only." },
+    { "name": "Sotheby's", "url": "https://www.sothebys.com/en/articles", "category": "Auction Houses", "reason": "No public RSS endpoint; all candidate paths return 404." },
+    { "name": "Bonhams", "url": "https://www.bonhams.com/", "category": "Auction Houses", "reason": "Bot-protected (HTTP 403); no feed advertised." },
+
+    { "name": "Sharjah Biennial", "url": "https://sharjahart.org/sharjah-biennial", "category": "Fairs & Events", "reason": "Runs on the Sharjah Art Foundation site, which has no feed." },
+    { "name": "Islamic Arts Biennale", "url": "https://biennale.org.sa/", "category": "Fairs & Events", "reason": "Bot-protected (HTTP 403); no feed advertised." },
+    { "name": "Diriyah Contemporary Art Biennale", "url": "https://biennale.org.sa/", "category": "Fairs & Events", "reason": "Shares the bot-protected Diriyah Biennale Foundation site; no feed." },
+    { "name": "ArtBAB (Art Bahrain Across Borders)", "url": "https://artbab.com/", "category": "Fairs & Events", "reason": "No feed; all candidate paths return the HTML site." },
+    { "name": "Cairo Biennale", "url": "https://fineart.gov.eg/", "category": "Fairs & Events", "reason": "No standing official site or feed. Announced ad hoc via the Egyptian Ministry of Culture Fine Arts Sector." },
+    { "name": "Istanbul Biennial", "url": "https://bienal.iksv.org/", "category": "Fairs & Events", "reason": "No feed; all candidate paths return 404." },
+
+    { "name": "Arab Image Foundation", "url": "https://arabimagefoundation.com/", "category": "Foundations, Research & Archives", "reason": "Host unreachable from the build environment; no feed advertised." }
+  ],
+
+  "social": {
+    "instagram": [
+      "selectionsarts", "canvasonline", "sharjahart", "artdubai", "barjeelartfoundation",
+      "artjameel", "ithracenter", "louvreabudhabi", "sfeirsemler", "athrgallery",
+      "thethirdline", "ayyamgallery", "dastan.artgallery", "1_54artfair",
+      "latelier21galerie", "macaal_museum", "mashrabiagallery", "b7l9artstation"
+    ],
+    "x": ["TheArtNewspaper", "artnetnews", "hyperallergic", "Art_Dubai", "SharjahArt"]
+  }
+}
