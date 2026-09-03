@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-03T12:19:20.024861Z",
+ "generated_at": "2026-09-03T12:21:05.168592Z",
  "window_days": 180,
  "max_items_per_feed": 8,
  "totals": {
@@ -1431,14 +1431,14 @@
    "category": "MENA Magazines",
    "url": "https://mojeh.com/feed/",
    "stage": "parse",
-   "error": "feed returned zero entries (SAXParseException: <unknown>:2:112: not well-formed (invalid token))"
+   "error": "feed returned zero entries (SAXParseException: <unknown>:2:0: syntax error)"
   },
   {
    "source": "Honar Online",
    "category": "Iranian Art",
    "url": "https://honaronline.ir/rss",
    "stage": "fetch",
-   "error": "connection failed: [Errno 104] Connection reset by peer"
+   "error": "HTTP 404 Not Found"
   },
   {
    "source": "Persbook Annual of Contemporary Art",
