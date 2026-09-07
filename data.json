@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-06T09:13:10.930333Z",
+ "generated_at": "2026-09-07T10:01:31.791660Z",
  "window_days": 180,
  "max_items_per_feed": 8,
  "totals": {
@@ -15,6 +15,297 @@
    "name": "News & Market",
    "item_count": 40,
    "sources": [
+    {
+     "name": "Hyperallergic",
+     "site": "https://hyperallergic.com/",
+     "feed_url": "https://hyperallergic.com/feed/",
+     "lang": "en",
+     "newest_ts": 1788775204.0,
+     "items": [
+      {
+       "title": "Art Books We’re Reading This Fall",
+       "link": "https://hyperallergic.com/art-books-were-reading-this-fall/",
+       "summary": "We recommend art novels, catalogs, memoirs, and more, plus an artist reflects on her portable studio.",
+       "published": "2026-09-07T10:00:04Z",
+       "published_ts": 1788775204.0,
+       "source": "Hyperallergic",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "It Doesn’t Get Better Than This",
+       "link": "https://hyperallergic.com/it-doesnt-get-better-than-this/",
+       "summary": "John Galliano pulls out of a show at The Met, the eternal bond between Lee Krasner and Jackson Pollock, and Alex Katz keeps it moving at 99.",
+       "published": "2026-09-05T10:00:03Z",
+       "published_ts": 1788602403.0,
+       "source": "Hyperallergic",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "15 Art Books for Your Fall Reading List",
+       "link": "https://hyperallergic.com/15-art-books-for-your-fall-reading-list/",
+       "summary": "Guadalupe Rosales’s memoir, Christine Sun Kim’s artist book, Fady Joudah’s ode to the people of Gaza, and Elizabeth Alexander’s essay collection are among our most anticipated titles.",
+       "published": "2026-09-04T21:00:10Z",
+       "published_ts": 1788555610.0,
+       "source": "Hyperallergic",
+       "category": "News & Market",
+       "mena": true,
+       "needs_translation": false
+      },
+      {
+       "title": "Trump to Break Ground on “Triumphal Arch” Before Federal Approval",
+       "link": "https://hyperallergic.com/trump-to-break-ground-on-triumphal-arch-before-federal-approval/",
+       "summary": "The announcement follows a series of recent rollbacks on federal protections of historically significant sites.",
+       "published": "2026-09-04T19:34:23Z",
+       "published_ts": 1788550463.0,
+       "source": "Hyperallergic",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "LA’s Lucas Museum Displays “Narrative Art” for the Few, Not the People",
+       "link": "https://hyperallergic.com/las-lucas-museum-displays-narrative-art-for-the-few-not-the-people/",
+       "summary": "Friction, dissonance, and multiplicity are overall avoided in favor of superficial unity and a flattening of difference at George Lucas and Mellody Hobson's new institution.",
+       "published": "2026-09-04T19:11:01Z",
+       "published_ts": 1788549061.0,
+       "source": "Hyperallergic",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "A View From the Easel",
+       "link": "https://hyperallergic.com/a-view-from-the-easel-146/",
+       "summary": "“My studio is presently portable, modular, and itinerant.”",
+       "published": "2026-09-04T17:09:46Z",
+       "published_ts": 1788541786.0,
+       "source": "Hyperallergic",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Nordic Textile Takeover: The Cold Stitch",
+       "link": "https://hyperallergic.com/nordic-textile-takeover-the-cold-stitch/",
+       "summary": "Opening September 4 at Scandinavia House, this exhibition, workshop series, and symposium program returns in its third iteration alongside New York Textile Month.",
+       "published": "2026-09-04T14:48:32Z",
+       "published_ts": 1788533312.0,
+       "source": "Hyperallergic",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Ann Patchett and Crying at The Met",
+       "link": "https://hyperallergic.com/ann-patchett-and-crying-at-the-met/",
+       "summary": "Art and grief in the author’s new novel, “Whistler,” plus shows to see in Upstate New York this month.",
+       "published": "2026-09-04T10:00:05Z",
+       "published_ts": 1788516005.0,
+       "source": "Hyperallergic",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      }
+     ]
+    },
+    {
+     "name": "Artnet News",
+     "site": "https://news.artnet.com/",
+     "feed_url": "https://news.artnet.com/feed",
+     "lang": "en",
+     "newest_ts": 1788771743.0,
+     "items": [
+      {
+       "title": "Beyoncé Gives $2M to Studio Museum in Harlem—and Other Art World Matters",
+       "link": "https://news.artnet.com/artnet-bulletin/beyonce-studio-museum-sept-7-2807291",
+       "summary": "Plus: A Seoul museum will shutter, two must-see shows, and Kendall Jenner dons Alexander Calder.",
+       "published": "2026-09-07T09:02:23Z",
+       "published_ts": 1788771743.0,
+       "source": "Artnet News",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "What to Watch in the Market This Fall",
+       "link": "https://news.artnet.com/multimedia/art-market-minute-sep-7-2807622",
+       "summary": "Plus, what sold at Frieze Seoul and the questions surrounding Yayoi Kusama's late works.",
+       "published": "2026-09-07T08:34:24Z",
+       "published_ts": 1788770064.0,
+       "source": "Artnet News",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "As China Exits the Gwangju Biennale, Taiwan Plows Ahead",
+       "link": "https://news.artnet.com/art-world/gwangju-biennale-china-pulls-out-plows-ahead-2806903",
+       "summary": "Amid an escalating controversy, Taiwanese artists have been readying their installations.",
+       "published": "2026-09-04T23:36:57Z",
+       "published_ts": 1788565017.0,
+       "source": "Artnet News",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Did Renoir Actually Suck at Painting?",
+       "link": "https://news.artnet.com/art-world/renoir-sucks-expert-debat-2791737",
+       "summary": "A blockbuster touring exhibition is putting the spotlight on a legendary Impressionist who has long divided opinion.",
+       "published": "2026-09-04T19:48:36Z",
+       "published_ts": 1788551316.0,
+       "source": "Artnet News",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Christie’s and Bonhams Hike Buyer’s Fees—and More Industry Intel",
+       "link": "https://news.artnet.com/market/industry-intel-sept-4-2806789",
+       "summary": "Plus: China's artists officially drop out of the Gwangju Biennale, and two New York galleries relocate to Tribeca.",
+       "published": "2026-09-04T16:09:04Z",
+       "published_ts": 1788538144.0,
+       "source": "Artnet News",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "A Tudor Masterpiece Goes Under the Microscope—and Anyone Can Watch",
+       "link": "https://news.artnet.com/art-world/nostell-thomas-more-public-study-2806598",
+       "summary": "Visitors to the the U.K.'s Nostell Priory can now observe experts studying the enigmatic copy of a Holbein portrait.",
+       "published": "2026-09-04T14:48:24Z",
+       "published_ts": 1788533304.0,
+       "source": "Artnet News",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "The Paradox of Yayoi Kusama’s Final Years—and Other Art World Matters",
+       "link": "https://news.artnet.com/artnet-bulletin/kusama-final-decade-sep-4-2804402",
+       "summary": "Plus: A Rembrandt returns home, and Conan O’Brien channels Vincent van Gogh.",
+       "published": "2026-09-04T07:00:17Z",
+       "published_ts": 1788505217.0,
+       "source": "Artnet News",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "The Etruscans Made Astonishing Art. Why Aren’t They Better Known?",
+       "link": "https://news.artnet.com/multimedia/etruscan-art-legion-of-honor-2803159",
+       "summary": "Renée Dreyfus, who organized \"The Etruscans: From the Heart of Ancient Italy,\" at San Francisco's Legion of Honor, joins the show this week.",
+       "published": "2026-09-03T21:23:01Z",
+       "published_ts": 1788470581.0,
+       "source": "Artnet News",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      }
+     ]
+    },
+    {
+     "name": "The Art Newspaper",
+     "site": "https://www.theartnewspaper.com/",
+     "feed_url": "https://www.theartnewspaper.com/rss.xml",
+     "lang": "en",
+     "newest_ts": 1788769131.0,
+     "items": [
+      {
+       "title": "A big B’Day gift: Beyoncé gives $2m to the Studio Museum in Harlem",
+       "link": "https://www.theartnewspaper.com/2026/09/07/a-big-bday-gift-beyonce-gives-2m-to-the-studio-museum-in-harlem",
+       "summary": "To mark her 45th birthday, the pop music superstar and art collector gave generously to the revered New York City museum",
+       "published": "2026-09-07T08:18:51Z",
+       "published_ts": 1788769131.0,
+       "source": "The Art Newspaper",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "$1bn Lucas Museum of Narrative Art lifts off at long last",
+       "link": "https://www.theartnewspaper.com/2026/09/07/lucas-museum-narrative-art-opening-preview-los-angeles",
+       "summary": "After almost a decade of delays and controversies, George Lucas and Mellody Hobson launch a giant space to house a 40,000-piece collection spanning from comics to Star Wars materials to a Frida Kahlo self-portrait",
+       "published": "2026-09-07T07:00:00Z",
+       "published_ts": 1788764400.0,
+       "source": "The Art Newspaper",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Geles Cabrera, the pioneering Mexican sculptor, has died, aged 100",
+       "link": "https://www.theartnewspaper.com/2026/09/04/geles-cabrera-mexican-sculptor-obituary",
+       "summary": "Through her sinuous approach to the human figure, Cabrera forged a distinctive sculptural language and challenged conventions",
+       "published": "2026-09-04T21:08:46Z",
+       "published_ts": 1788556126.0,
+       "source": "The Art Newspaper",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Toledo Museum of Art partners with Ethiopian Heritage Authority to find solutions for ‘objects in limbo’",
+       "link": "https://www.theartnewspaper.com/2026/09/04/toledo-museum-art-partners-ethiopian-heritage-authority-repatriation-five-artefacts",
+       "summary": "Through the new partnership, the museum is already in the process of returning five artefacts from a private collection to Ethiopian authorities",
+       "published": "2026-09-04T19:53:26Z",
+       "published_ts": 1788551606.0,
+       "source": "The Art Newspaper",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "House that featured second-oldest astronomical observatory in the Americas reopens after $1m conservation project",
+       "link": "https://www.theartnewspaper.com/2026/09/04/casa-mouat-valparaiso-chile-restoration",
+       "summary": "The National Service for Cultural Heritage financed the project at Casa Mouat in Valparaíso, Chile",
+       "published": "2026-09-04T17:16:50Z",
+       "published_ts": 1788542210.0,
+       "source": "The Art Newspaper",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "‘Attribution decay’ complicates the picture of AI-generated images, scientists find",
+       "link": "https://www.theartnewspaper.com/2026/09/04/attribution-decay-artificial-intelligence-research-zheng-dai-david-gifford-mit",
+       "summary": "A new study by two MIT researchers puts forward a framework for addressing just how difficult it may be to definitively connect an AI-generated image to any specific source material",
+       "published": "2026-09-04T16:23:47Z",
+       "published_ts": 1788539027.0,
+       "source": "The Art Newspaper",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Iran’s heritage experts race to repair damaged sites as negotiations stall",
+       "link": "https://www.theartnewspaper.com/2026/09/04/irans-heritage-experts-race-to-repair-damaged-sites-as-negotiations-stall",
+       "summary": "Preservation specialists are pressing ahead, despite no guarantee that the US-Israel war on Iran is over",
+       "published": "2026-09-04T15:15:50Z",
+       "published_ts": 1788534950.0,
+       "source": "The Art Newspaper",
+       "category": "News & Market",
+       "mena": true,
+       "needs_translation": false
+      },
+      {
+       "title": "What did you miss? Summer art world news and what’s coming up—podcast",
+       "link": "https://www.theartnewspaper.com/2026/09/04/summer-art-world-news-what-is-coming-up-podcast",
+       "summary": "In this week's episode, Ben Luke speaks to three editors at The Art Newspaper about developments in July and August as well as events they are looking forward to",
+       "published": "2026-09-04T13:35:54Z",
+       "published_ts": 1788528954.0,
+       "source": "The Art Newspaper",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      }
+     ]
+    },
     {
      "name": "Ocula Magazine",
      "site": "https://ocula.com/magazine/",
@@ -203,297 +494,6 @@
        "published": "2026-09-04T19:07:25Z",
        "published_ts": 1788548845.0,
        "source": "ArtNews",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      }
-     ]
-    },
-    {
-     "name": "Hyperallergic",
-     "site": "https://hyperallergic.com/",
-     "feed_url": "https://hyperallergic.com/feed/",
-     "lang": "en",
-     "newest_ts": 1788602403.0,
-     "items": [
-      {
-       "title": "It Doesn’t Get Better Than This",
-       "link": "https://hyperallergic.com/it-doesnt-get-better-than-this/",
-       "summary": "John Galliano pulls out of a show at The Met, the eternal bond between Lee Krasner and Jackson Pollock, and Alex Katz keeps it moving at 99.",
-       "published": "2026-09-05T10:00:03Z",
-       "published_ts": 1788602403.0,
-       "source": "Hyperallergic",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "15 Art Books for Your Fall Reading List",
-       "link": "https://hyperallergic.com/15-art-books-for-your-fall-reading-list/",
-       "summary": "Guadalupe Rosales’s memoir, Christine Sun Kim’s artist book, Fady Joudah’s ode to the people of Gaza, and Elizabeth Alexander’s essay collection are among our most anticipated titles.",
-       "published": "2026-09-04T21:00:10Z",
-       "published_ts": 1788555610.0,
-       "source": "Hyperallergic",
-       "category": "News & Market",
-       "mena": true,
-       "needs_translation": false
-      },
-      {
-       "title": "Trump to Break Ground on “Triumphal Arch” Before Federal Approval",
-       "link": "https://hyperallergic.com/trump-to-break-ground-on-triumphal-arch-before-federal-approval/",
-       "summary": "The announcement follows a series of recent rollbacks on federal protections of historically significant sites.",
-       "published": "2026-09-04T19:34:23Z",
-       "published_ts": 1788550463.0,
-       "source": "Hyperallergic",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "LA’s Lucas Museum Displays “Narrative Art” for the Few, Not the People",
-       "link": "https://hyperallergic.com/las-lucas-museum-displays-narrative-art-for-the-few-not-the-people/",
-       "summary": "Friction, dissonance, and multiplicity are overall avoided in favor of superficial unity and a flattening of difference at George Lucas and Mellody Hobson's new institution.",
-       "published": "2026-09-04T19:11:01Z",
-       "published_ts": 1788549061.0,
-       "source": "Hyperallergic",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "A View From the Easel",
-       "link": "https://hyperallergic.com/a-view-from-the-easel-146/",
-       "summary": "“My studio is presently portable, modular, and itinerant.”",
-       "published": "2026-09-04T17:09:46Z",
-       "published_ts": 1788541786.0,
-       "source": "Hyperallergic",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Nordic Textile Takeover: The Cold Stitch",
-       "link": "https://hyperallergic.com/nordic-textile-takeover-the-cold-stitch/",
-       "summary": "Opening September 4 at Scandinavia House, this exhibition, workshop series, and symposium program returns in its third iteration alongside New York Textile Month.",
-       "published": "2026-09-04T14:48:32Z",
-       "published_ts": 1788533312.0,
-       "source": "Hyperallergic",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Ann Patchett and Crying at The Met",
-       "link": "https://hyperallergic.com/ann-patchett-and-crying-at-the-met/",
-       "summary": "Art and grief in the author’s new novel, “Whistler,” plus shows to see in Upstate New York this month.",
-       "published": "2026-09-04T10:00:05Z",
-       "published_ts": 1788516005.0,
-       "source": "Hyperallergic",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Mildred Howard Wins Artists’ Legacy Foundation Award",
-       "link": "https://hyperallergic.com/mildred-howard-wins-artists-legacy-foundation-award/",
-       "summary": "Anonymous Was A Woman's environmental art grants, Art Gallery of Ontario director steps down, Alex Katz on PBS, and more in Art Movements.",
-       "published": "2026-09-03T21:00:32Z",
-       "published_ts": 1788469232.0,
-       "source": "Hyperallergic",
-       "category": "News & Market",
-       "mena": true,
-       "needs_translation": false
-      }
-     ]
-    },
-    {
-     "name": "Artnet News",
-     "site": "https://news.artnet.com/",
-     "feed_url": "https://news.artnet.com/feed",
-     "lang": "en",
-     "newest_ts": 1788565017.0,
-     "items": [
-      {
-       "title": "As China Exits the Gwangju Biennale, Taiwan Plows Ahead",
-       "link": "https://news.artnet.com/art-world/gwangju-biennale-china-pulls-out-plows-ahead-2806903",
-       "summary": "Amid an escalating controversy, Taiwanese artists have been readying their installations.",
-       "published": "2026-09-04T23:36:57Z",
-       "published_ts": 1788565017.0,
-       "source": "Artnet News",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Did Renoir Actually Suck at Painting?",
-       "link": "https://news.artnet.com/art-world/renoir-sucks-expert-debat-2791737",
-       "summary": "A blockbuster touring exhibition is putting the spotlight on a legendary Impressionist who has long divided opinion.",
-       "published": "2026-09-04T19:48:36Z",
-       "published_ts": 1788551316.0,
-       "source": "Artnet News",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Christie’s and Bonhams Hike Buyer’s Fees—and More Industry Intel",
-       "link": "https://news.artnet.com/market/industry-intel-sept-4-2806789",
-       "summary": "Plus: China's artists officially drop out of the Gwangju Biennale, and two New York galleries relocate to Tribeca.",
-       "published": "2026-09-04T16:09:04Z",
-       "published_ts": 1788538144.0,
-       "source": "Artnet News",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "A Tudor Masterpiece Goes Under the Microscope—and Anyone Can Watch",
-       "link": "https://news.artnet.com/art-world/nostell-thomas-more-public-study-2806598",
-       "summary": "Visitors to the the U.K.'s Nostell Priory can now observe experts studying the enigmatic copy of a Holbein portrait.",
-       "published": "2026-09-04T14:48:24Z",
-       "published_ts": 1788533304.0,
-       "source": "Artnet News",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "The Paradox of Yayoi Kusama’s Final Years—and Other Art World Matters",
-       "link": "https://news.artnet.com/artnet-bulletin/kusama-final-decade-sep-4-2804402",
-       "summary": "Plus: A Rembrandt returns home, and Conan O’Brien channels Vincent van Gogh.",
-       "published": "2026-09-04T07:00:17Z",
-       "published_ts": 1788505217.0,
-       "source": "Artnet News",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "The Etruscans Made Astonishing Art. Why Aren’t They Better Known?",
-       "link": "https://news.artnet.com/multimedia/etruscan-art-legion-of-honor-2803159",
-       "summary": "Renée Dreyfus, who organized \"The Etruscans: From the Heart of Ancient Italy,\" at San Francisco's Legion of Honor, joins the show this week.",
-       "published": "2026-09-03T21:23:01Z",
-       "published_ts": 1788470581.0,
-       "source": "Artnet News",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Forget a Galaxy Far, Far Away. The New George Lucas Museum Is Finally Here",
-       "link": "https://news.artnet.com/art-world/lucas-museum-narrative-art-opens-2806326",
-       "summary": "The long-awaited institution is opening in Los Angeles with an expansive view of visual storytelling—and a surprise Banksy.",
-       "published": "2026-09-03T19:54:46Z",
-       "published_ts": 1788465286.0,
-       "source": "Artnet News",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "How Gloria Steinem Left Her Mark on Art",
-       "link": "https://news.artnet.com/art-world/gloria-steinem-art-world-impact-2806424",
-       "summary": "The feminist trailblazer has died aged 92, but she lives on in paintings, photographs, and art theory.",
-       "published": "2026-09-03T19:17:03Z",
-       "published_ts": 1788463023.0,
-       "source": "Artnet News",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      }
-     ]
-    },
-    {
-     "name": "The Art Newspaper",
-     "site": "https://www.theartnewspaper.com/",
-     "feed_url": "https://www.theartnewspaper.com/rss.xml",
-     "lang": "en",
-     "newest_ts": 1788556126.0,
-     "items": [
-      {
-       "title": "Geles Cabrera, the pioneering Mexican sculptor, has died, aged 100",
-       "link": "https://www.theartnewspaper.com/2026/09/04/geles-cabrera-mexican-sculptor-obituary",
-       "summary": "Through her sinuous approach to the human figure, Cabrera forged a distinctive sculptural language and challenged conventions",
-       "published": "2026-09-04T21:08:46Z",
-       "published_ts": 1788556126.0,
-       "source": "The Art Newspaper",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Toledo Museum of Art partners with Ethiopian Heritage Authority to find solutions for ‘objects in limbo’",
-       "link": "https://www.theartnewspaper.com/2026/09/04/toledo-museum-art-partners-ethiopian-heritage-authority-repatriation-five-artefacts",
-       "summary": "Through the new partnership, the museum is already in the process of returning five artefacts from a private collection to Ethiopian authorities",
-       "published": "2026-09-04T19:53:26Z",
-       "published_ts": 1788551606.0,
-       "source": "The Art Newspaper",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "House that featured second-oldest astronomical observatory in the Americas reopens after $1m conservation project",
-       "link": "https://www.theartnewspaper.com/2026/09/04/casa-mouat-valparaiso-chile-restoration",
-       "summary": "The National Service for Cultural Heritage financed the project at Casa Mouat in Valparaíso, Chile",
-       "published": "2026-09-04T17:16:50Z",
-       "published_ts": 1788542210.0,
-       "source": "The Art Newspaper",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "‘Attribution decay’ complicates the picture of AI-generated images, scientists find",
-       "link": "https://www.theartnewspaper.com/2026/09/04/attribution-decay-artificial-intelligence-research-zheng-dai-david-gifford-mit",
-       "summary": "A new study by two MIT researchers puts forward a framework for addressing just how difficult it may be to definitively connect an AI-generated image to any specific source material",
-       "published": "2026-09-04T16:23:47Z",
-       "published_ts": 1788539027.0,
-       "source": "The Art Newspaper",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Iran’s heritage experts race to repair damaged sites as negotiations stall",
-       "link": "https://www.theartnewspaper.com/2026/09/04/irans-heritage-experts-race-to-repair-damaged-sites-as-negotiations-stall",
-       "summary": "Preservation specialists are pressing ahead, despite no guarantee that the US-Israel war on Iran is over",
-       "published": "2026-09-04T15:15:50Z",
-       "published_ts": 1788534950.0,
-       "source": "The Art Newspaper",
-       "category": "News & Market",
-       "mena": true,
-       "needs_translation": false
-      },
-      {
-       "title": "What did you miss? Summer art world news and what’s coming up—podcast",
-       "link": "https://www.theartnewspaper.com/2026/09/04/summer-art-world-news-what-is-coming-up-podcast",
-       "summary": "In this week's episode, Ben Luke speaks to three editors at The Art Newspaper about developments in July and August as well as events they are looking forward to",
-       "published": "2026-09-04T13:35:54Z",
-       "published_ts": 1788528954.0,
-       "source": "The Art Newspaper",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "‘Putin didn’t win; art won’: Venice Biennale president defends decision to allow Russia’s participation",
-       "link": "https://www.theartnewspaper.com/2026/09/04/venice-biennale-president-defends-decision-to-allow-russia-participation",
-       "summary": "Pietrangelo Buttafuoco said he would do “everything” again in regards to his clash with the Italian government and the European Commission on the issue",
-       "published": "2026-09-04T11:37:17Z",
-       "published_ts": 1788521837.0,
-       "source": "The Art Newspaper",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Long-hidden Van Gogh self-portrait to star in major Paris exhibition",
-       "link": "https://www.theartnewspaper.com/2026/09/04/one-of-van-goghs-most-important-self-portraits-to-star-in-exhibition-for-first-time-in-35-years",
-       "summary": "Now owned by the Niarchos Greek shipping family, it will be loaned to a huge show on the fabled pioneer collector Gustave Fayet",
-       "published": "2026-09-04T11:00:00Z",
-       "published_ts": 1788519600.0,
-       "source": "The Art Newspaper",
        "category": "News & Market",
        "mena": false,
        "needs_translation": false
@@ -794,7 +794,7 @@
      "name": "Persbook Annual of Contemporary Art",
      "site": "https://persbookart.com/",
      "lang": "en",
-     "age_days": 634,
+     "age_days": 635,
      "item": {
       "title": "«من اینجا هستم»ِ تمرینی برای مرکز زدایی | مهدیار جمشیدی و الهام پوریامهر",
       "link": "https://persbookart.com/4015/mahdyarjamshidi/",
@@ -805,14 +805,14 @@
       "category": "Iranian Art",
       "mena": false,
       "needs_translation": true,
-      "age_days": 634
+      "age_days": 635
      }
     },
     {
      "name": "Iranian.com Arts & Culture",
      "site": "https://iranian.com/",
      "lang": "en",
-     "age_days": 1802,
+     "age_days": 1803,
      "item": {
       "title": "We’re back",
       "link": "https://iranian.com/2021/09/29/were-back/",
@@ -823,7 +823,7 @@
       "category": "Iranian Art",
       "mena": true,
       "needs_translation": false,
-      "age_days": 1802
+      "age_days": 1803
      }
     }
    ],
@@ -1020,7 +1020,7 @@
      "name": "Institut du Monde Arabe",
      "site": "https://www.imarabe.org/",
      "lang": "fr",
-     "age_days": 956,
+     "age_days": 958,
      "item": {
       "title": "Étienne Dinet, passions algériennes",
       "link": "http://www.imarabe.org/fr/agenda/expositions-musee/etienne-dinet-passions-algeriennes",
@@ -1031,7 +1031,7 @@
       "category": "Museums & Institutions",
       "mena": true,
       "needs_translation": false,
-      "age_days": 956
+      "age_days": 958
      }
     }
    ],
@@ -1171,7 +1171,7 @@
      "name": "Art Dubai",
      "site": "https://www.artdubai.ae/",
      "lang": "en",
-     "age_days": 1963,
+     "age_days": 1964,
      "item": {
       "title": "Art Dubai 2021 leads the way back to normality",
       "link": "https://www.artdubai.ae/art-dubai-2021-leads-the-way-back-to-normality/",
@@ -1182,7 +1182,7 @@
       "category": "Fairs & Events",
       "mena": true,
       "needs_translation": false,
-      "age_days": 1963
+      "age_days": 1964
      }
     }
    ],
@@ -1277,7 +1277,7 @@
      "name": "AMCA",
      "site": "https://amcainternational.org/",
      "lang": "en",
-     "age_days": 356,
+     "age_days": 357,
      "item": {
       "title": "Call for Submissions: Special Issue of the Getty Research Journal",
       "link": "https://amcainternational.org/call-for-submissions-special-issue-of-the-getty-research-journal/",
@@ -1288,7 +1288,7 @@
       "category": "Foundations, Research & Archives",
       "mena": false,
       "needs_translation": false,
-      "age_days": 356
+      "age_days": 357
      }
     }
    ],
@@ -1434,7 +1434,7 @@
    "category": "Iranian Art",
    "url": "https://persbookart.com/feed/",
    "stage": "window",
-   "error": "feed OK (10 entries) but nothing published in the last 180 days; newest is 634 days old",
+   "error": "feed OK (10 entries) but nothing published in the last 180 days; newest is 635 days old",
    "severity": "info"
   },
   {
@@ -1442,7 +1442,7 @@
    "category": "Iranian Art",
    "url": "https://iranian.com/feed/",
    "stage": "window",
-   "error": "feed OK (15 entries) but nothing published in the last 180 days; newest is 1802 days old",
+   "error": "feed OK (15 entries) but nothing published in the last 180 days; newest is 1803 days old",
    "severity": "info"
   },
   {
@@ -1450,7 +1450,7 @@
    "category": "Museums & Institutions",
    "url": "https://www.imarabe.org/fr/rss.xml",
    "stage": "window",
-   "error": "feed OK (3 entries) but nothing published in the last 180 days; newest is 956 days old",
+   "error": "feed OK (3 entries) but nothing published in the last 180 days; newest is 958 days old",
    "severity": "info"
   },
   {
@@ -1458,7 +1458,7 @@
    "category": "Fairs & Events",
    "url": "https://www.artdubai.ae/feed/",
    "stage": "window",
-   "error": "feed OK (1 entries) but nothing published in the last 180 days; newest is 1963 days old",
+   "error": "feed OK (1 entries) but nothing published in the last 180 days; newest is 1964 days old",
    "severity": "info"
   },
   {
@@ -1466,7 +1466,7 @@
    "category": "Foundations, Research & Archives",
    "url": "https://amcainternational.org/feed/",
    "stage": "window",
-   "error": "feed OK (1 entries) but nothing published in the last 180 days; newest is 356 days old",
+   "error": "feed OK (1 entries) but nothing published in the last 180 days; newest is 357 days old",
    "severity": "info"
   }
  ],
