@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-12T09:07:10.910723Z",
+ "generated_at": "2026-09-13T10:05:16.566829Z",
  "window_days": 180,
  "max_items_per_feed": 8,
  "totals": {
@@ -15,6 +15,297 @@
    "name": "News & Market",
    "item_count": 40,
    "sources": [
+    {
+     "name": "ArtNews",
+     "site": "https://www.artnews.com/",
+     "feed_url": "https://www.artnews.com/feed/",
+     "lang": "en",
+     "newest_ts": 1789290000.0,
+     "items": [
+      {
+       "title": "How Janine Antoni Simultaneously Disturbs and Delights",
+       "link": "https://www.artnews.com/art-in-america/features/janine-antoni-bahamian-american-icons-sculptor-lick-lather-1234797619/",
+       "summary": "The Bahamian-American sculptor is preparing for a retrospective at the Museum of Contemporary Art Chicago.",
+       "published": "2026-09-13T09:00:00Z",
+       "published_ts": 1789290000.0,
+       "source": "ArtNews",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "5 Books on Dena Yago’s Shelf",
+       "link": "https://www.artnews.com/list/art-in-america/columns/dena-yago-books-that-figures-essays-mckenzie-wark-1234797878/",
+       "summary": "The artist’s own book of essays is out this month.",
+       "published": "2026-09-12T11:00:00Z",
+       "published_ts": 1789210800.0,
+       "source": "ArtNews",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "‘I Live for My Art. That’s Really All There Is to It’: Read One of Yayoi Kusama’s Final Unpublished Interviews",
+       "link": "https://www.artnews.com/art-news/artists/yayoi-kusama-final-unpublished-interview-stedelijk-museum-1234798031/",
+       "summary": "The latest iteration of her traveling survey opened today at the Stedelijk Museum in Amsterdam.",
+       "published": "2026-09-11T20:51:28Z",
+       "published_ts": 1789159888.0,
+       "source": "ArtNews",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "French Artist Claude Lévêque Ordered to Stand Trial for Rape and Sexual Assault of Minors",
+       "link": "https://www.artnews.com/art-news/news/claude-leveque-ordered-trial-sexual-assault-minors-1234798042/",
+       "summary": "His lawyers have appealed the judges’ decision, likely delaying the long-awaited trial further.",
+       "published": "2026-09-11T16:36:59Z",
+       "published_ts": 1789144619.0,
+       "source": "ArtNews",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Tschabalala Self’s Fourth Plinth Sculpture in London Receives Mixed Reviews",
+       "link": "https://www.artnews.com/art-news/news/tschabalala-self-fourth-plinth-mixed-reviews-1234798048/",
+       "summary": "Lady in Blue is the 16th piece of artwork to feature on the plinth since 1998.",
+       "published": "2026-09-11T16:30:27Z",
+       "published_ts": 1789144227.0,
+       "source": "ArtNews",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Tensions Ran High as Charlie Kirk Memorial Sculpture Was Unveiled in Times Square",
+       "link": "https://www.artnews.com/art-news/news/tensions-high-charlie-kirk-memorial-unveiled-times-square-1234798034/",
+       "summary": "Artist Sergio Furnari installed the unpermitted sculpture, which he self-funded for $100,000, to commemorate the first anniversary of Kirk’s death.",
+       "published": "2026-09-11T16:09:15Z",
+       "published_ts": 1789142955.0,
+       "source": "ArtNews",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Ancient Mausoleum Discovered Along Peruvian Coast",
+       "link": "https://www.artnews.com/art-news/news/undisturbed-ancient-mausoleum-discovered-in-chan-chan-peru-1234798007/",
+       "summary": "This is the first time experts have found an untouched tomb in the Chimu kingdom's capital city Chan Chan.",
+       "published": "2026-09-11T16:05:46Z",
+       "published_ts": 1789142746.0,
+       "source": "ArtNews",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Rosalyn Drexler’s Art Shines at New York’s Garth Greenan Gallery and Rachel Comey’s Runway Show",
+       "link": "https://www.artnews.com/art-news/artists/rosalyn-drexler-garth-greenan-rachel-comey-fashion-show-1234797977/",
+       "summary": "Her solo exhibition inaugurates one of Grath Greenan Gallery’s two new downtown Manhattan locations.",
+       "published": "2026-09-11T15:49:23Z",
+       "published_ts": 1789141763.0,
+       "source": "ArtNews",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      }
+     ]
+    },
+    {
+     "name": "Ocula Magazine",
+     "site": "https://ocula.com/magazine/",
+     "feed_url": "https://ocula.com/magazine/feed/",
+     "lang": "en",
+     "newest_ts": 1789239845.0,
+     "items": [
+      {
+       "title": "The Haunting of Minne Kersten",
+       "link": "https://ocula.com/magazine/conversations/minne-kersten-ginny-on-frederick-film/",
+       "summary": "The Dutch artist on her obsession with horror films, what makes a room feel eerie, and reading everything by the Norwegian writer Jon Fosse.",
+       "published": "2026-09-12T19:04:05Z",
+       "published_ts": 1789239845.0,
+       "source": "Ocula Magazine",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Gerhard Richter to Open Permanent Pavilion in Qatar",
+       "link": "https://ocula.com/magazine/art-news/gerhard-richter-permanent-pavilion-qatar/",
+       "summary": "The site‑specific structure will be unveiled at MIA Park in Doha on the eve of Qatar’s new contemporary art quadrennial.",
+       "published": "2026-09-11T01:59:58Z",
+       "published_ts": 1789091998.0,
+       "source": "Ocula Magazine",
+       "category": "News & Market",
+       "mena": true,
+       "needs_translation": false
+      },
+      {
+       "title": "Tokyo Gendai Returns With a Fresh Focus on Works on Paper",
+       "link": "https://ocula.com/magazine/art-news/tokyo-gendai-returns-with-a-new-focus-on-work/",
+       "summary": "The new Miki (“Trunk”) sector of the show pairs rare Picasso impressions with three‑dimensional photographs, with prices ranging from less than $10,000 to more than $250,000.",
+       "published": "2026-09-10T21:48:55Z",
+       "published_ts": 1789076935.0,
+       "source": "Ocula Magazine",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Bacon, Miró and Basquiat Works Star in Christie’s Autumn Sales",
+       "link": "https://ocula.com/magazine/art-news/bacon-miro-and-basquiat-auction-christies/",
+       "summary": "The auction house has announced a raft of sales during London’s Frieze week and beyond, including works from the collections of fashion and music entrepreneurs and an auction debut for a painting from Yayoi Kusama.",
+       "published": "2026-09-10T02:34:38Z",
+       "published_ts": 1789007678.0,
+       "source": "Ocula Magazine",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Did English Needlewomen Quietly Subvert the Bayeux Tapestry’s Message?",
+       "link": "https://ocula.com/magazine/art-news/bayeux-tapestry-british-museum-borders-subvert/",
+       "summary": "Embellishments to the textile’s borders—including a much‑debated penis, an ominous comet and an unnamed naked man—may complicate our reading of the object as a straightforward piece of pro‑Norman propaganda.",
+       "published": "2026-09-09T02:30:05Z",
+       "published_ts": 1788921005.0,
+       "source": "Ocula Magazine",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "At This New London Art Space, Shared Tenancy Is a ‘Collective Lifeline’",
+       "link": "https://ocula.com/magazine/art-news/new-london-space-cooperation-flatmates37/",
+       "summary": "A commercial gallery, a non‑profit and an artist‑run space have become “flatmates” in a bid to mitigate the high cost of leases in the capital.",
+       "published": "2026-09-08T23:00:00Z",
+       "published_ts": 1788908400.0,
+       "source": "Ocula Magazine",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Revamped Awards Provide £300k Uplift for UK Arts Education",
+       "link": "https://ocula.com/magazine/art-news/uk-arts-education-300k-freelands-foundation-awards/",
+       "summary": "Amid funding struggles and barriers to access, the Freelands Foundation’s new award scheme recognises the “outstanding work” of three UK arts organisations—including a darkroom in a horsebox.",
+       "published": "2026-09-08T22:36:37Z",
+       "published_ts": 1788906997.0,
+       "source": "Ocula Magazine",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "The Korean Artist Using Gaming to Understand the World",
+       "link": "https://ocula.com/magazine/conversations/kim-heecheon-korean-artist-seoul/",
+       "summary": "Heecheon Kim sees technology as a tool for reading society. As his latest exhibition opens in Seoul, the artist talks about the frustration of using technology, his love of wrestling and how gaming, face‑swap apps and GPS systems might influence the narratives we construct about ourselves.",
+       "published": "2026-09-08T16:00:06Z",
+       "published_ts": 1788883206.0,
+       "source": "Ocula Magazine",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      }
+     ]
+    },
+    {
+     "name": "Hyperallergic",
+     "site": "https://hyperallergic.com/",
+     "feed_url": "https://hyperallergic.com/feed/",
+     "lang": "en",
+     "newest_ts": 1789207223.0,
+     "items": [
+      {
+       "title": "The Battle of New York",
+       "link": "https://hyperallergic.com/the-battle-of-new-york/",
+       "summary": "Artists reflect on 25 years since 9/11, Smithsonian Secretary Lonnie Bunch calls it quits, and our list of art books to read this fall.",
+       "published": "2026-09-12T10:00:23Z",
+       "published_ts": 1789207223.0,
+       "source": "Hyperallergic",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Standing in the Shadow of No Towers",
+       "link": "https://hyperallergic.com/standing-in-the-shadow-of-no-towers/",
+       "summary": "The struggle for immigrant rights and lives after 9/11 defined a generation of South Asian art and activism, even if it felt at times like we were trying to empty the ocean with a teaspoon.",
+       "published": "2026-09-11T21:52:49Z",
+       "published_ts": 1789163569.0,
+       "source": "Hyperallergic",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Brooklyn, Say Hello to Your First Craft Supply Library",
+       "link": "https://hyperallergic.com/brooklyn-say-hello-to-your-first-craft-supply-library/",
+       "summary": "Crochet hooks, thermal laminators, and button makers are among the 31 items now available to rent from the Brooklyn Public Library’s new lending program.",
+       "published": "2026-09-11T20:24:04Z",
+       "published_ts": 1789158244.0,
+       "source": "Hyperallergic",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "15 Fall Art -Ennials, From St. Louis to Dakar",
+       "link": "https://hyperallergic.com/15-fall-art-ennials-from-st-louis-to-dakar/",
+       "summary": "A photography show dedicated to NYC in the nighttime, an Indigenous-led arts festival honoring the Mississippi River, the first-ever Bienal de Yucatán, and more biennials and triennials to visit across the world.",
+       "published": "2026-09-11T19:33:41Z",
+       "published_ts": 1789155221.0,
+       "source": "Hyperallergic",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "School of Visual Arts Ends Photography MFA Program",
+       "link": "https://hyperallergic.com/school-of-visual-arts-ends-photography-mfa-program/",
+       "summary": "Founding Chair Charles Traub said he believed the closure could have been avoided with “better coordination” and more strategies for “how we were going to deal with the future of AI.”",
+       "published": "2026-09-11T19:23:25Z",
+       "published_ts": 1789154605.0,
+       "source": "Hyperallergic",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Joel-Peter Witkin’s God-Loving, Gender-Bending Art",
+       "link": "https://hyperallergic.com/joel-peter-witkins-god-loving-gender-bending-art/",
+       "summary": "His elaborate tableaux vivants blend elements of mythology, the Bible, and art history to express compassion for the marginalized.",
+       "published": "2026-09-11T17:50:05Z",
+       "published_ts": 1789149005.0,
+       "source": "Hyperallergic",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "A View From the Easel",
+       "link": "https://hyperallergic.com/a-view-from-the-easel-354/",
+       "summary": "“Sometimes it's infinite folding and binding, and I just spend the day or weekend doing that.”",
+       "published": "2026-09-11T17:11:54Z",
+       "published_ts": 1789146714.0,
+       "source": "Hyperallergic",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "University of Michigan’s Fully Funded MFA Program Combines Studio Art and Research",
+       "link": "https://hyperallergic.com/university-of-michigans-fully-funded-mfa-program-combines-studio-art-and-research/",
+       "summary": "Top-ranked, tuition-free MFA program at University of Michigan's Stamps School of Art & Design supports interdisciplinary, research-based practices",
+       "published": "2026-09-11T15:50:17Z",
+       "published_ts": 1789141817.0,
+       "source": "Hyperallergic",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      }
+     ]
+    },
     {
      "name": "Artnet News",
      "site": "https://news.artnet.com/",
@@ -113,103 +404,6 @@
      ]
     },
     {
-     "name": "Hyperallergic",
-     "site": "https://hyperallergic.com/",
-     "feed_url": "https://hyperallergic.com/feed/",
-     "lang": "en",
-     "newest_ts": 1789163569.0,
-     "items": [
-      {
-       "title": "Standing in the Shadow of No Towers",
-       "link": "https://hyperallergic.com/standing-in-the-shadow-of-no-towers/",
-       "summary": "The struggle for immigrant rights and lives after 9/11 defined a generation of South Asian art and activism, even if it felt at times like we were trying to empty the ocean with a teaspoon.",
-       "published": "2026-09-11T21:52:49Z",
-       "published_ts": 1789163569.0,
-       "source": "Hyperallergic",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Brooklyn, Say Hello to Your First Craft Supply Library",
-       "link": "https://hyperallergic.com/brooklyn-say-hello-to-your-first-craft-supply-library/",
-       "summary": "Crochet hooks, thermal laminators, and button makers are among the 31 items now available to rent from the Brooklyn Public Library’s new lending program.",
-       "published": "2026-09-11T20:24:04Z",
-       "published_ts": 1789158244.0,
-       "source": "Hyperallergic",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "15 Fall Art -Ennials, From St. Louis to Dakar",
-       "link": "https://hyperallergic.com/15-fall-art-ennials-from-st-louis-to-dakar/",
-       "summary": "A photography show dedicated to NYC in the nighttime, an Indigenous-led arts festival honoring the Mississippi River, the first-ever Bienal de Yucatán, and more biennials and triennials to visit across the world.",
-       "published": "2026-09-11T19:33:41Z",
-       "published_ts": 1789155221.0,
-       "source": "Hyperallergic",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "School of Visual Arts Ends Photography MFA Program",
-       "link": "https://hyperallergic.com/school-of-visual-arts-ends-photography-mfa-program/",
-       "summary": "Founding Chair Charles Traub said he believed the closure could have been avoided with “better coordination” and more strategies for “how we were going to deal with the future of AI.”",
-       "published": "2026-09-11T19:23:25Z",
-       "published_ts": 1789154605.0,
-       "source": "Hyperallergic",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Joel-Peter Witkin’s God-Loving, Gender-Bending Art",
-       "link": "https://hyperallergic.com/joel-peter-witkins-god-loving-gender-bending-art/",
-       "summary": "His elaborate tableaux vivants blend elements of mythology, the Bible, and art history to express compassion for the marginalized.",
-       "published": "2026-09-11T17:50:05Z",
-       "published_ts": 1789149005.0,
-       "source": "Hyperallergic",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "A View From the Easel",
-       "link": "https://hyperallergic.com/a-view-from-the-easel-354/",
-       "summary": "“Sometimes it's infinite folding and binding, and I just spend the day or weekend doing that.”",
-       "published": "2026-09-11T17:11:54Z",
-       "published_ts": 1789146714.0,
-       "source": "Hyperallergic",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "University of Michigan’s Fully Funded MFA Program Combines Studio Art and Research",
-       "link": "https://hyperallergic.com/university-of-michigans-fully-funded-mfa-program-combines-studio-art-and-research/",
-       "summary": "Top-ranked, tuition-free MFA program at University of Michigan's Stamps School of Art & Design supports interdisciplinary, research-based practices",
-       "published": "2026-09-11T15:50:17Z",
-       "published_ts": 1789141817.0,
-       "source": "Hyperallergic",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Pope.L Invites Us to Think Through the American Dream",
-       "link": "https://hyperallergic.com/pope-l-invites-us-to-think-through-the-american-dream/",
-       "summary": "A collection of his works on paper at the Drawing Center typifies his frantic and sometimes opaque renderings of thought.",
-       "published": "2026-09-11T15:21:28Z",
-       "published_ts": 1789140088.0,
-       "source": "Hyperallergic",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      }
-     ]
-    },
-    {
      "name": "The Art Newspaper",
      "site": "https://www.theartnewspaper.com/",
      "feed_url": "https://www.theartnewspaper.com/rss.xml",
@@ -300,200 +494,6 @@
        "published": "2026-09-11T11:34:21Z",
        "published_ts": 1789126461.0,
        "source": "The Art Newspaper",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      }
-     ]
-    },
-    {
-     "name": "ArtNews",
-     "site": "https://www.artnews.com/",
-     "feed_url": "https://www.artnews.com/feed/",
-     "lang": "en",
-     "newest_ts": 1789159888.0,
-     "items": [
-      {
-       "title": "‘I Live for My Art. That’s Really All There Is to It’: Read One of Yayoi Kusama’s Final Unpublished Interviews",
-       "link": "https://www.artnews.com/art-news/artists/yayoi-kusama-final-unpublished-interview-stedelijk-museum-1234798031/",
-       "summary": "The latest iteration of her traveling survey opened today at the Stedelijk Museum in Amsterdam.",
-       "published": "2026-09-11T20:51:28Z",
-       "published_ts": 1789159888.0,
-       "source": "ArtNews",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "French Artist Claude Lévêque Ordered to Stand Trial for Rape and Sexual Assault of Minors",
-       "link": "https://www.artnews.com/art-news/news/claude-leveque-ordered-trial-sexual-assault-minors-1234798042/",
-       "summary": "His lawyers have appealed the judges’ decision, likely delaying the long-awaited trial further.",
-       "published": "2026-09-11T16:36:59Z",
-       "published_ts": 1789144619.0,
-       "source": "ArtNews",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Tschabalala Self’s Fourth Plinth Sculpture in London Receives Mixed Reviews",
-       "link": "https://www.artnews.com/art-news/news/tschabalala-self-fourth-plinth-mixed-reviews-1234798048/",
-       "summary": "Lady in Blue is the 16th piece of artwork to feature on the plinth since 1998.",
-       "published": "2026-09-11T16:30:27Z",
-       "published_ts": 1789144227.0,
-       "source": "ArtNews",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Tensions Ran High as Charlie Kirk Memorial Sculpture Was Unveiled in Times Square",
-       "link": "https://www.artnews.com/art-news/news/tensions-high-charlie-kirk-memorial-unveiled-times-square-1234798034/",
-       "summary": "Artist Sergio Furnari installed the unpermitted sculpture, which he self-funded for $100,000, to commemorate the first anniversary of Kirk’s death.",
-       "published": "2026-09-11T16:09:15Z",
-       "published_ts": 1789142955.0,
-       "source": "ArtNews",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Ancient Mausoleum Discovered Along Peruvian Coast",
-       "link": "https://www.artnews.com/art-news/news/undisturbed-ancient-mausoleum-discovered-in-chan-chan-peru-1234798007/",
-       "summary": "This is the first time experts have found an untouched tomb in the Chimu kingdom's capital city Chan Chan.",
-       "published": "2026-09-11T16:05:46Z",
-       "published_ts": 1789142746.0,
-       "source": "ArtNews",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Rosalyn Drexler’s Art Shines at New York’s Garth Greenan Gallery and Rachel Comey’s Runway Show",
-       "link": "https://www.artnews.com/art-news/artists/rosalyn-drexler-garth-greenan-rachel-comey-fashion-show-1234797977/",
-       "summary": "Her solo exhibition inaugurates one of Grath Greenan Gallery’s two new downtown Manhattan locations.",
-       "published": "2026-09-11T15:49:23Z",
-       "published_ts": 1789141763.0,
-       "source": "ArtNews",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "George W. Bush Reveals New 9/11 Paintings: ‘When America Is in Trouble, Americans Respond’",
-       "link": "https://www.artnews.com/list/art-news/news/george-w-bush-9-11-paintings-revealed-1234798002/",
-       "summary": "On the event’s 25th anniversary, the paintings “reflect on the courage, sacrifice, and resilience that emerged” from the attacks.",
-       "published": "2026-09-11T14:43:33Z",
-       "published_ts": 1789137813.0,
-       "source": "ArtNews",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Before Thieves Stole A Now-Missing Renoir Painting, Family Says Nazis Had Already Done So—And It Belongs to Them.",
-       "link": "https://www.artnews.com/art-news/news/before-thieves-stole-renoir-painting-a-family-says-nazis-had-already-done-so-1234797938/",
-       "summary": "Months ago, heirs of dealer Jadwiga Zak, who died in Auschwitz, filed a petition requesting the restitution of a Renoir painting that was just stolen from a French museum.",
-       "published": "2026-09-11T13:54:08Z",
-       "published_ts": 1789134848.0,
-       "source": "ArtNews",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      }
-     ]
-    },
-    {
-     "name": "Ocula Magazine",
-     "site": "https://ocula.com/magazine/",
-     "feed_url": "https://ocula.com/magazine/feed/",
-     "lang": "en",
-     "newest_ts": 1789091998.0,
-     "items": [
-      {
-       "title": "Gerhard Richter to Open Permanent Pavilion in Qatar",
-       "link": "https://ocula.com/magazine/art-news/gerhard-richter-permanent-pavilion-qatar/",
-       "summary": "The site‑specific structure will be unveiled at MIA Park in Doha on the eve of Qatar’s new contemporary art quadrennial.",
-       "published": "2026-09-11T01:59:58Z",
-       "published_ts": 1789091998.0,
-       "source": "Ocula Magazine",
-       "category": "News & Market",
-       "mena": true,
-       "needs_translation": false
-      },
-      {
-       "title": "Tokyo Gendai Returns With a Fresh Focus on Works on Paper",
-       "link": "https://ocula.com/magazine/art-news/tokyo-gendai-returns-with-a-new-focus-on-work/",
-       "summary": "The new Miki (“Trunk”) sector of the show pairs rare Picasso impressions with three‑dimensional photographs, with prices ranging from less than $10,000 to more than $250,000.",
-       "published": "2026-09-10T21:48:55Z",
-       "published_ts": 1789076935.0,
-       "source": "Ocula Magazine",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Bacon, Miró and Basquiat Works Star in Christie’s Autumn Sales",
-       "link": "https://ocula.com/magazine/art-news/bacon-miro-and-basquiat-auction-christies/",
-       "summary": "The auction house has announced a raft of sales during London’s Frieze week and beyond, including works from the collections of fashion and music entrepreneurs and an auction debut for a painting from Yayoi Kusama.",
-       "published": "2026-09-10T02:34:38Z",
-       "published_ts": 1789007678.0,
-       "source": "Ocula Magazine",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Did English Needlewomen Quietly Subvert the Bayeux Tapestry’s Message?",
-       "link": "https://ocula.com/magazine/art-news/bayeux-tapestry-british-museum-borders-subvert/",
-       "summary": "Embellishments to the textile’s borders—including a much‑debated penis, an ominous comet and an unnamed naked man—may complicate our reading of the object as a straightforward piece of pro‑Norman propaganda.",
-       "published": "2026-09-09T02:30:05Z",
-       "published_ts": 1788921005.0,
-       "source": "Ocula Magazine",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "At This New London Art Space, Shared Tenancy Is a ‘Collective Lifeline’",
-       "link": "https://ocula.com/magazine/art-news/new-london-space-cooperation-flatmates37/",
-       "summary": "A commercial gallery, a non‑profit and an artist‑run space have become “flatmates” in a bid to mitigate the high cost of leases in the capital.",
-       "published": "2026-09-08T23:00:00Z",
-       "published_ts": 1788908400.0,
-       "source": "Ocula Magazine",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Revamped Awards Provide £300k Uplift for UK Arts Education",
-       "link": "https://ocula.com/magazine/art-news/uk-arts-education-300k-freelands-foundation-awards/",
-       "summary": "Amid funding struggles and barriers to access, the Freelands Foundation’s new award scheme recognises the “outstanding work” of three UK arts organisations—including a darkroom in a horsebox.",
-       "published": "2026-09-08T22:36:37Z",
-       "published_ts": 1788906997.0,
-       "source": "Ocula Magazine",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "The Korean Artist Using Gaming to Understand the World",
-       "link": "https://ocula.com/magazine/conversations/kim-heecheon-korean-artist-seoul/",
-       "summary": "Heecheon Kim sees technology as a tool for reading society. As his latest exhibition opens in Seoul, the artist talks about the frustration of using technology, his love of wrestling and how gaming, face‑swap apps and GPS systems might influence the narratives we construct about ourselves.",
-       "published": "2026-09-08T16:00:06Z",
-       "published_ts": 1788883206.0,
-       "source": "Ocula Magazine",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Jenny Holzer and Andy Goldsworthy Named Praemium Imperiale Laureates",
-       "link": "https://ocula.com/magazine/art-news/jenny-holzer-andy-goldsworthy-praemium-imperiale/",
-       "summary": "Winners of the annual Japanese prizes honouring artistic and cultural achievement also includes actor Cate Blanchett and architect Daniel Libeskind.",
-       "published": "2026-09-08T02:22:09Z",
-       "published_ts": 1788834129.0,
-       "source": "Ocula Magazine",
        "category": "News & Market",
        "mena": false,
        "needs_translation": false
@@ -794,7 +794,7 @@
      "name": "Persbook Annual of Contemporary Art",
      "site": "https://persbookart.com/",
      "lang": "en",
-     "age_days": 640,
+     "age_days": 641,
      "item": {
       "title": "«من اینجا هستم»ِ تمرینی برای مرکز زدایی | مهدیار جمشیدی و الهام پوریامهر",
       "link": "https://persbookart.com/4015/mahdyarjamshidi/",
@@ -805,14 +805,14 @@
       "category": "Iranian Art",
       "mena": false,
       "needs_translation": true,
-      "age_days": 640
+      "age_days": 641
      }
     },
     {
      "name": "Iranian.com Arts & Culture",
      "site": "https://iranian.com/",
      "lang": "en",
-     "age_days": 1808,
+     "age_days": 1809,
      "item": {
       "title": "We’re back",
       "link": "https://iranian.com/2021/09/29/were-back/",
@@ -823,7 +823,7 @@
       "category": "Iranian Art",
       "mena": true,
       "needs_translation": false,
-      "age_days": 1808
+      "age_days": 1809
      }
     }
    ],
@@ -999,7 +999,7 @@
      "name": "Barjeel Art Foundation",
      "site": "https://www.barjeelartfoundation.org/",
      "lang": "en",
-     "age_days": 184,
+     "age_days": 185,
      "item": {
       "title": "Palestinian Family",
       "link": "https://www.barjeelartfoundation.org/collection/palestinian-family/",
@@ -1010,14 +1010,14 @@
       "category": "Museums & Institutions",
       "mena": true,
       "needs_translation": false,
-      "age_days": 184
+      "age_days": 185
      }
     },
     {
      "name": "Institut du Monde Arabe",
      "site": "https://www.imarabe.org/",
      "lang": "fr",
-     "age_days": 962,
+     "age_days": 964,
      "item": {
       "title": "Étienne Dinet, passions algériennes",
       "link": "http://www.imarabe.org/fr/agenda/expositions-musee/etienne-dinet-passions-algeriennes",
@@ -1028,7 +1028,7 @@
       "category": "Museums & Institutions",
       "mena": true,
       "needs_translation": false,
-      "age_days": 962
+      "age_days": 964
      }
     }
    ],
@@ -1168,7 +1168,7 @@
      "name": "Art Dubai",
      "site": "https://www.artdubai.ae/",
      "lang": "en",
-     "age_days": 1969,
+     "age_days": 1970,
      "item": {
       "title": "Art Dubai 2021 leads the way back to normality",
       "link": "https://www.artdubai.ae/art-dubai-2021-leads-the-way-back-to-normality/",
@@ -1179,7 +1179,7 @@
       "category": "Fairs & Events",
       "mena": true,
       "needs_translation": false,
-      "age_days": 1969
+      "age_days": 1970
      }
     }
    ],
@@ -1274,7 +1274,7 @@
      "name": "AMCA",
      "site": "https://amcainternational.org/",
      "lang": "en",
-     "age_days": 362,
+     "age_days": 363,
      "item": {
       "title": "Call for Submissions: Special Issue of the Getty Research Journal",
       "link": "https://amcainternational.org/call-for-submissions-special-issue-of-the-getty-research-journal/",
@@ -1285,7 +1285,7 @@
       "category": "Foundations, Research & Archives",
       "mena": false,
       "needs_translation": false,
-      "age_days": 362
+      "age_days": 363
      }
     }
    ],
@@ -1307,8 +1307,19 @@
      "site": "https://www.ottomanhistorypodcast.com/",
      "feed_url": "https://www.ottomanhistorypodcast.com/feeds/posts/default",
      "lang": "en",
-     "newest_ts": 1788619154.0,
+     "newest_ts": 1789224356.0,
      "items": [
+      {
+       "title": "Hebrew Orientalism in Late Ottoman and British Palestine",
+       "link": "https://www.ottomanhistorypodcast.com/2026/09/mostafa-hussein.html",
+       "summary": "with Mostafa Hussein hosted by Chris Gratien | Zionism, as a cultural and political movement of Hebrew revival, sought to forge a connection between the modern Jewish people and a deep past located in the geography of late Ottoman and British Palestine. As our guest in this episode, Mostafa Hussein, explores in a new…",
+       "published": "2026-09-12T14:45:56Z",
+       "published_ts": 1789224356.0,
+       "source": "Ottoman History Podcast",
+       "category": "Podcasts",
+       "mena": true,
+       "needs_translation": false
+      },
       {
        "title": "Breadwinner Soldiers in the Ottoman Empire",
        "link": "https://www.ottomanhistorypodcast.com/2026/08/dannies.html",
@@ -1385,17 +1396,6 @@
        "category": "Podcasts",
        "mena": true,
        "needs_translation": false
-      },
-      {
-       "title": "Film Diplomacy in Turkey-US Relations",
-       "link": "https://www.ottomanhistorypodcast.com/2026/05/etem.html",
-       "summary": "with Ayşehan Jülide Etem hosted by Chris Gratien and Sıla Önder | During the Cold War period, Turkish cinema flourished, as American films entered local theaters, television sets, and the studios of Yeşilçam. Yet as Jülide Etem argues in her new book, Film Diplomacy , the cinematic story of Turkey-US relations begins…",
-       "published": "2026-06-04T18:16:30Z",
-       "published_ts": 1780596990.0,
-       "source": "Ottoman History Podcast",
-       "category": "Podcasts",
-       "mena": true,
-       "needs_translation": false
       }
      ]
     }
@@ -1409,15 +1409,15 @@
    "source": "The Markaz Review",
    "category": "MENA Magazines",
    "url": "https://themarkaz.org/feed/",
-   "stage": "parse",
-   "error": "feed returned zero entries (SAXParseException: <unknown>:2:0: syntax error)"
+   "stage": "fetch",
+   "error": "HTTP 429 Too Many Requests"
   },
   {
    "source": "MOJEH",
    "category": "MENA Magazines",
    "url": "https://mojeh.com/feed/",
    "stage": "parse",
-   "error": "feed returned zero entries (SAXParseException: <unknown>:2:112: not well-formed (invalid token))"
+   "error": "feed returned zero entries (SAXParseException: <unknown>:2:0: syntax error)"
   },
   {
    "source": "Honar Online",
@@ -1431,7 +1431,7 @@
    "category": "Iranian Art",
    "url": "https://persbookart.com/feed/",
    "stage": "window",
-   "error": "feed OK (10 entries) but nothing published in the last 180 days; newest is 640 days old",
+   "error": "feed OK (10 entries) but nothing published in the last 180 days; newest is 641 days old",
    "severity": "info"
   },
   {
@@ -1439,7 +1439,7 @@
    "category": "Iranian Art",
    "url": "https://iranian.com/feed/",
    "stage": "window",
-   "error": "feed OK (15 entries) but nothing published in the last 180 days; newest is 1808 days old",
+   "error": "feed OK (15 entries) but nothing published in the last 180 days; newest is 1809 days old",
    "severity": "info"
   },
   {
@@ -1447,7 +1447,7 @@
    "category": "Museums & Institutions",
    "url": "https://www.imarabe.org/fr/rss.xml",
    "stage": "window",
-   "error": "feed OK (3 entries) but nothing published in the last 180 days; newest is 962 days old",
+   "error": "feed OK (3 entries) but nothing published in the last 180 days; newest is 964 days old",
    "severity": "info"
   },
   {
@@ -1455,7 +1455,7 @@
    "category": "Museums & Institutions",
    "url": "https://www.barjeelartfoundation.org/feed/",
    "stage": "window",
-   "error": "feed OK (10 entries) but nothing published in the last 180 days; newest is 184 days old",
+   "error": "feed OK (10 entries) but nothing published in the last 180 days; newest is 185 days old",
    "severity": "info"
   },
   {
@@ -1463,7 +1463,7 @@
    "category": "Fairs & Events",
    "url": "https://www.artdubai.ae/feed/",
    "stage": "window",
-   "error": "feed OK (1 entries) but nothing published in the last 180 days; newest is 1969 days old",
+   "error": "feed OK (1 entries) but nothing published in the last 180 days; newest is 1970 days old",
    "severity": "info"
   },
   {
@@ -1471,7 +1471,7 @@
    "category": "Foundations, Research & Archives",
    "url": "https://amcainternational.org/feed/",
    "stage": "window",
-   "error": "feed OK (1 entries) but nothing published in the last 180 days; newest is 362 days old",
+   "error": "feed OK (1 entries) but nothing published in the last 180 days; newest is 363 days old",
    "severity": "info"
   }
  ],
