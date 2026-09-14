@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-13T10:05:16.566829Z",
+ "generated_at": "2026-09-14T10:26:56.370499Z",
  "window_days": 180,
  "max_items_per_feed": 8,
  "totals": {
@@ -16,12 +16,217 @@
    "item_count": 40,
    "sources": [
     {
+     "name": "Hyperallergic",
+     "site": "https://hyperallergic.com/",
+     "feed_url": "https://hyperallergic.com/feed/",
+     "lang": "en",
+     "newest_ts": 1789380015.0,
+     "items": [
+      {
+       "title": "Good Muslim Artist, Bad Muslim Artist",
+       "link": "https://hyperallergic.com/good-muslim-artist-bad-muslim-artist/",
+       "summary": "Artist Naeem Mohaiemen reflects on the day of the attacks, Channelle Chevelle Russel reviews Pope.L, and Brooklyn gets a craft supply library.",
+       "published": "2026-09-14T10:00:15Z",
+       "published_ts": 1789380015.0,
+       "source": "Hyperallergic",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "The Battle of New York",
+       "link": "https://hyperallergic.com/the-battle-of-new-york/",
+       "summary": "Artists reflect on 25 years since 9/11, Smithsonian Secretary Lonnie Bunch calls it quits, and our list of art books to read this fall.",
+       "published": "2026-09-12T10:00:23Z",
+       "published_ts": 1789207223.0,
+       "source": "Hyperallergic",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Standing in the Shadow of No Towers",
+       "link": "https://hyperallergic.com/standing-in-the-shadow-of-no-towers/",
+       "summary": "The struggle for immigrant rights and lives after 9/11 defined a generation of South Asian art and activism, even if it felt at times like we were trying to empty the ocean with a teaspoon.",
+       "published": "2026-09-11T21:52:49Z",
+       "published_ts": 1789163569.0,
+       "source": "Hyperallergic",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Brooklyn, Say Hello to Your First Craft Supply Library",
+       "link": "https://hyperallergic.com/brooklyn-say-hello-to-your-first-craft-supply-library/",
+       "summary": "Crochet hooks, thermal laminators, and button makers are among the 31 items now available to rent from the Brooklyn Public Library’s new lending program.",
+       "published": "2026-09-11T20:24:04Z",
+       "published_ts": 1789158244.0,
+       "source": "Hyperallergic",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "15 Fall Art -Ennials, From St. Louis to Dakar",
+       "link": "https://hyperallergic.com/15-fall-art-ennials-from-st-louis-to-dakar/",
+       "summary": "A photography show dedicated to NYC in the nighttime, an Indigenous-led arts festival honoring the Mississippi River, the first-ever Bienal de Yucatán, and more biennials and triennials to visit across the world.",
+       "published": "2026-09-11T19:33:41Z",
+       "published_ts": 1789155221.0,
+       "source": "Hyperallergic",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "School of Visual Arts Ends Photography MFA Program",
+       "link": "https://hyperallergic.com/school-of-visual-arts-ends-photography-mfa-program/",
+       "summary": "Founding Chair Charles Traub said he believed the closure could have been avoided with “better coordination” and more strategies for “how we were going to deal with the future of AI.”",
+       "published": "2026-09-11T19:23:25Z",
+       "published_ts": 1789154605.0,
+       "source": "Hyperallergic",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Joel-Peter Witkin’s God-Loving, Gender-Bending Art",
+       "link": "https://hyperallergic.com/joel-peter-witkins-god-loving-gender-bending-art/",
+       "summary": "His elaborate tableaux vivants blend elements of mythology, the Bible, and art history to express compassion for the marginalized.",
+       "published": "2026-09-11T17:50:05Z",
+       "published_ts": 1789149005.0,
+       "source": "Hyperallergic",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "A View From the Easel",
+       "link": "https://hyperallergic.com/a-view-from-the-easel-354/",
+       "summary": "“Sometimes it's infinite folding and binding, and I just spend the day or weekend doing that.”",
+       "published": "2026-09-11T17:11:54Z",
+       "published_ts": 1789146714.0,
+       "source": "Hyperallergic",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      }
+     ]
+    },
+    {
+     "name": "Artnet News",
+     "site": "https://news.artnet.com/",
+     "feed_url": "https://news.artnet.com/feed",
+     "lang": "en",
+     "newest_ts": 1789374748.0,
+     "items": [
+      {
+       "title": "Are Fairs and Museums Getting Too Cozy?",
+       "link": "https://news.artnet.com/multimedia/art-market-minute-sep-14-2810911",
+       "summary": "Plus, Bonhams pilots a new resale-royalties scheme and fashion mogul Peter Simon's collection heads to Christie's.",
+       "published": "2026-09-14T08:32:28Z",
+       "published_ts": 1789374748.0,
+       "source": "Artnet News",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "How Christopher Green Finds the Extraordinary in Everyday Objects",
+       "link": "https://news.artnet.com/art-world/christopher-green-plus-one-gallery-2809556",
+       "summary": "Represented by Plus One Gallery, the British painter transforms lobster, strawberries, and spring blossoms into meticulously composed studies of light and symmetry.",
+       "published": "2026-09-12T06:33:35Z",
+       "published_ts": 1789194815.0,
+       "source": "Artnet News",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Thomas Ruff’s 9/11 JPEGs Broke My Heart All Over Again",
+       "link": "https://news.artnet.com/art-world/thomas-ruff-9-11-photographs-david-zwirner-2808768",
+       "summary": "Twelve works by the German artist, created from 2004 to 2007, are on view at David Zwirner in Chelsea.",
+       "published": "2026-09-11T23:19:09Z",
+       "published_ts": 1789168749.0,
+       "source": "Artnet News",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "The Groninger Museum Returns to Its Radical Roots",
+       "link": "https://news.artnet.com/art-world/groninger-museum-roos-gortzak-2808933",
+       "summary": "Artistic Director Roos Gortzak unveils four new exhibitions opening September 19, repositioning contemporary art at the heart of the museum's postmodern legacy.",
+       "published": "2026-09-11T19:30:08Z",
+       "published_ts": 1789155008.0,
+       "source": "Artnet News",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "U.K. Pushes to Standardize Auction Data—and More Industry Intel",
+       "link": "https://news.artnet.com/market/industry-intel-sept-11-2809958",
+       "summary": "Plus: Chanel launches a commission series in Southeast Asia and Bonhams introduces a new resale royalties model.",
+       "published": "2026-09-11T18:54:06Z",
+       "published_ts": 1789152846.0,
+       "source": "Artnet News",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Bob Ross Paintings, Found on Craigslist, Could Fetch Six Figures at Auction",
+       "link": "https://news.artnet.com/market/bob-ross-paintings-craigslist-auction-2810099",
+       "summary": "The two works are landing on the block amid a blossoming of the artist's market.",
+       "published": "2026-09-11T18:52:30Z",
+       "published_ts": 1789152750.0,
+       "source": "Artnet News",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Florentina Holzinger on What Her First Ukraine Trip Taught Her About Art and War",
+       "link": "https://news.artnet.com/art-world/florentine-holzinger-ukraine-ki-platforma-2808891",
+       "summary": "She plans to return.",
+       "published": "2026-09-11T14:42:43Z",
+       "published_ts": 1789137763.0,
+       "source": "Artnet News",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Go Rogue! Kenny Schachter Has Advice for Artists—and as Usual, Scoops!",
+       "link": "https://news.artnet.com/art-world/kenny-schachter-artist-advice-vito-acconci-yayoi-kusama-2810003",
+       "summary": "Who’s purchased Vito Acconci entire studio? Are NFTs back? And did Lucas Samaras rip off Yayoi Kusama?",
+       "published": "2026-09-11T13:16:08Z",
+       "published_ts": 1789132568.0,
+       "source": "Artnet News",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      }
+     ]
+    },
+    {
      "name": "ArtNews",
      "site": "https://www.artnews.com/",
      "feed_url": "https://www.artnews.com/feed/",
      "lang": "en",
-     "newest_ts": 1789290000.0,
+     "newest_ts": 1789303431.0,
      "items": [
+      {
+       "title": "Trump Demands ‘Strange Modernist’ Sculpture Be Replaced by George Washington Statue",
+       "link": "https://www.artnews.com/art-news/news/trump-demands-sculpture-replaced-george-washington-1234798088/",
+       "summary": "The sculpture, which stands outside a Smithsonian museum, was the first work of modern art commissioned for the National Mall by the federal government.",
+       "published": "2026-09-13T12:43:51Z",
+       "published_ts": 1789303431.0,
+       "source": "ArtNews",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
       {
        "title": "How Janine Antoni Simultaneously Disturbs and Delights",
        "link": "https://www.artnews.com/art-in-america/features/janine-antoni-bahamian-american-icons-sculptor-lick-lather-1234797619/",
@@ -94,17 +299,6 @@
        "summary": "This is the first time experts have found an untouched tomb in the Chimu kingdom's capital city Chan Chan.",
        "published": "2026-09-11T16:05:46Z",
        "published_ts": 1789142746.0,
-       "source": "ArtNews",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Rosalyn Drexler’s Art Shines at New York’s Garth Greenan Gallery and Rachel Comey’s Runway Show",
-       "link": "https://www.artnews.com/art-news/artists/rosalyn-drexler-garth-greenan-rachel-comey-fashion-show-1234797977/",
-       "summary": "Her solo exhibition inaugurates one of Grath Greenan Gallery’s two new downtown Manhattan locations.",
-       "published": "2026-09-11T15:49:23Z",
-       "published_ts": 1789141763.0,
        "source": "ArtNews",
        "category": "News & Market",
        "mena": false,
@@ -203,200 +397,6 @@
        "published": "2026-09-08T16:00:06Z",
        "published_ts": 1788883206.0,
        "source": "Ocula Magazine",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      }
-     ]
-    },
-    {
-     "name": "Hyperallergic",
-     "site": "https://hyperallergic.com/",
-     "feed_url": "https://hyperallergic.com/feed/",
-     "lang": "en",
-     "newest_ts": 1789207223.0,
-     "items": [
-      {
-       "title": "The Battle of New York",
-       "link": "https://hyperallergic.com/the-battle-of-new-york/",
-       "summary": "Artists reflect on 25 years since 9/11, Smithsonian Secretary Lonnie Bunch calls it quits, and our list of art books to read this fall.",
-       "published": "2026-09-12T10:00:23Z",
-       "published_ts": 1789207223.0,
-       "source": "Hyperallergic",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Standing in the Shadow of No Towers",
-       "link": "https://hyperallergic.com/standing-in-the-shadow-of-no-towers/",
-       "summary": "The struggle for immigrant rights and lives after 9/11 defined a generation of South Asian art and activism, even if it felt at times like we were trying to empty the ocean with a teaspoon.",
-       "published": "2026-09-11T21:52:49Z",
-       "published_ts": 1789163569.0,
-       "source": "Hyperallergic",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Brooklyn, Say Hello to Your First Craft Supply Library",
-       "link": "https://hyperallergic.com/brooklyn-say-hello-to-your-first-craft-supply-library/",
-       "summary": "Crochet hooks, thermal laminators, and button makers are among the 31 items now available to rent from the Brooklyn Public Library’s new lending program.",
-       "published": "2026-09-11T20:24:04Z",
-       "published_ts": 1789158244.0,
-       "source": "Hyperallergic",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "15 Fall Art -Ennials, From St. Louis to Dakar",
-       "link": "https://hyperallergic.com/15-fall-art-ennials-from-st-louis-to-dakar/",
-       "summary": "A photography show dedicated to NYC in the nighttime, an Indigenous-led arts festival honoring the Mississippi River, the first-ever Bienal de Yucatán, and more biennials and triennials to visit across the world.",
-       "published": "2026-09-11T19:33:41Z",
-       "published_ts": 1789155221.0,
-       "source": "Hyperallergic",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "School of Visual Arts Ends Photography MFA Program",
-       "link": "https://hyperallergic.com/school-of-visual-arts-ends-photography-mfa-program/",
-       "summary": "Founding Chair Charles Traub said he believed the closure could have been avoided with “better coordination” and more strategies for “how we were going to deal with the future of AI.”",
-       "published": "2026-09-11T19:23:25Z",
-       "published_ts": 1789154605.0,
-       "source": "Hyperallergic",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Joel-Peter Witkin’s God-Loving, Gender-Bending Art",
-       "link": "https://hyperallergic.com/joel-peter-witkins-god-loving-gender-bending-art/",
-       "summary": "His elaborate tableaux vivants blend elements of mythology, the Bible, and art history to express compassion for the marginalized.",
-       "published": "2026-09-11T17:50:05Z",
-       "published_ts": 1789149005.0,
-       "source": "Hyperallergic",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "A View From the Easel",
-       "link": "https://hyperallergic.com/a-view-from-the-easel-354/",
-       "summary": "“Sometimes it's infinite folding and binding, and I just spend the day or weekend doing that.”",
-       "published": "2026-09-11T17:11:54Z",
-       "published_ts": 1789146714.0,
-       "source": "Hyperallergic",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "University of Michigan’s Fully Funded MFA Program Combines Studio Art and Research",
-       "link": "https://hyperallergic.com/university-of-michigans-fully-funded-mfa-program-combines-studio-art-and-research/",
-       "summary": "Top-ranked, tuition-free MFA program at University of Michigan's Stamps School of Art & Design supports interdisciplinary, research-based practices",
-       "published": "2026-09-11T15:50:17Z",
-       "published_ts": 1789141817.0,
-       "source": "Hyperallergic",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      }
-     ]
-    },
-    {
-     "name": "Artnet News",
-     "site": "https://news.artnet.com/",
-     "feed_url": "https://news.artnet.com/feed",
-     "lang": "en",
-     "newest_ts": 1789168749.0,
-     "items": [
-      {
-       "title": "Thomas Ruff’s 9/11 JPEGs Broke My Heart All Over Again",
-       "link": "https://news.artnet.com/art-world/thomas-ruff-9-11-photographs-david-zwirner-2808768",
-       "summary": "Twelve works by the German artist, created from 2004 to 2007, are on view at David Zwirner in Chelsea.",
-       "published": "2026-09-11T23:19:09Z",
-       "published_ts": 1789168749.0,
-       "source": "Artnet News",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "The Groninger Museum Returns to Its Radical Roots",
-       "link": "https://news.artnet.com/art-world/groninger-museum-roos-gortzak-2808933",
-       "summary": "Artistic Director Roos Gortzak unveils four new exhibitions opening September 19, repositioning contemporary art at the heart of the museum's postmodern legacy.",
-       "published": "2026-09-11T19:30:08Z",
-       "published_ts": 1789155008.0,
-       "source": "Artnet News",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "U.K. Pushes to Standardize Auction Data—and More Industry Intel",
-       "link": "https://news.artnet.com/market/industry-intel-sept-11-2809958",
-       "summary": "Plus: Chanel launches a commission series in Southeast Asia and Bonhams introduces a new resale royalties model.",
-       "published": "2026-09-11T18:54:06Z",
-       "published_ts": 1789152846.0,
-       "source": "Artnet News",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Bob Ross Paintings, Found on Craigslist, Could Fetch Six Figures at Auction",
-       "link": "https://news.artnet.com/market/bob-ross-paintings-craigslist-auction-2810099",
-       "summary": "The two works are landing on the block amid a blossoming of the artist's market.",
-       "published": "2026-09-11T18:52:30Z",
-       "published_ts": 1789152750.0,
-       "source": "Artnet News",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Florentina Holzinger on What Her First Ukraine Trip Taught Her About Art and War",
-       "link": "https://news.artnet.com/art-world/florentine-holzinger-ukraine-ki-platforma-2808891",
-       "summary": "She plans to return.",
-       "published": "2026-09-11T14:42:43Z",
-       "published_ts": 1789137763.0,
-       "source": "Artnet News",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Go Rogue! Kenny Schachter Has Advice for Artists—and as Usual, Scoops!",
-       "link": "https://news.artnet.com/art-world/kenny-schachter-artist-advice-vito-acconci-yayoi-kusama-2810003",
-       "summary": "Who’s purchased Vito Acconci entire studio? Are NFTs back? And did Lucas Samaras rip off Yayoi Kusama?",
-       "published": "2026-09-11T13:16:08Z",
-       "published_ts": 1789132568.0,
-       "source": "Artnet News",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Why Are Museum Wall Texts So Bad?",
-       "link": "https://news.artnet.com/multimedia/museum-wall-texts-2806086",
-       "summary": "This week, Ben Davis speaks to Katherine Whitney about the problems plaguing museum wall texts, and how they can be fixed.",
-       "published": "2026-09-11T11:40:06Z",
-       "published_ts": 1789126806.0,
-       "source": "Artnet News",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Diana’s ‘Revenge Dress’ Heads to Auction—and Other Art World Matters",
-       "link": "https://news.artnet.com/artnet-bulletin/diana-revenge-dress-sept-11-2806297",
-       "summary": "Plus, Szilveszter Makó's first solo exhibition and a dispatch from London's inaugural Food Art Fair.",
-       "published": "2026-09-11T07:20:26Z",
-       "published_ts": 1789111226.0,
-       "source": "Artnet News",
        "category": "News & Market",
        "mena": false,
        "needs_translation": false
@@ -794,7 +794,7 @@
      "name": "Persbook Annual of Contemporary Art",
      "site": "https://persbookart.com/",
      "lang": "en",
-     "age_days": 641,
+     "age_days": 642,
      "item": {
       "title": "«من اینجا هستم»ِ تمرینی برای مرکز زدایی | مهدیار جمشیدی و الهام پوریامهر",
       "link": "https://persbookart.com/4015/mahdyarjamshidi/",
@@ -805,14 +805,14 @@
       "category": "Iranian Art",
       "mena": false,
       "needs_translation": true,
-      "age_days": 641
+      "age_days": 642
      }
     },
     {
      "name": "Iranian.com Arts & Culture",
      "site": "https://iranian.com/",
      "lang": "en",
-     "age_days": 1809,
+     "age_days": 1810,
      "item": {
       "title": "We’re back",
       "link": "https://iranian.com/2021/09/29/were-back/",
@@ -823,7 +823,7 @@
       "category": "Iranian Art",
       "mena": true,
       "needs_translation": false,
-      "age_days": 1809
+      "age_days": 1810
      }
     }
    ],
@@ -999,7 +999,7 @@
      "name": "Barjeel Art Foundation",
      "site": "https://www.barjeelartfoundation.org/",
      "lang": "en",
-     "age_days": 185,
+     "age_days": 187,
      "item": {
       "title": "Palestinian Family",
       "link": "https://www.barjeelartfoundation.org/collection/palestinian-family/",
@@ -1010,14 +1010,14 @@
       "category": "Museums & Institutions",
       "mena": true,
       "needs_translation": false,
-      "age_days": 185
+      "age_days": 187
      }
     },
     {
      "name": "Institut du Monde Arabe",
      "site": "https://www.imarabe.org/",
      "lang": "fr",
-     "age_days": 964,
+     "age_days": 965,
      "item": {
       "title": "Étienne Dinet, passions algériennes",
       "link": "http://www.imarabe.org/fr/agenda/expositions-musee/etienne-dinet-passions-algeriennes",
@@ -1028,7 +1028,7 @@
       "category": "Museums & Institutions",
       "mena": true,
       "needs_translation": false,
-      "age_days": 964
+      "age_days": 965
      }
     }
    ],
@@ -1168,7 +1168,7 @@
      "name": "Art Dubai",
      "site": "https://www.artdubai.ae/",
      "lang": "en",
-     "age_days": 1970,
+     "age_days": 1971,
      "item": {
       "title": "Art Dubai 2021 leads the way back to normality",
       "link": "https://www.artdubai.ae/art-dubai-2021-leads-the-way-back-to-normality/",
@@ -1179,7 +1179,7 @@
       "category": "Fairs & Events",
       "mena": true,
       "needs_translation": false,
-      "age_days": 1970
+      "age_days": 1971
      }
     }
    ],
@@ -1274,7 +1274,7 @@
      "name": "AMCA",
      "site": "https://amcainternational.org/",
      "lang": "en",
-     "age_days": 363,
+     "age_days": 364,
      "item": {
       "title": "Call for Submissions: Special Issue of the Getty Research Journal",
       "link": "https://amcainternational.org/call-for-submissions-special-issue-of-the-getty-research-journal/",
@@ -1285,7 +1285,7 @@
       "category": "Foundations, Research & Archives",
       "mena": false,
       "needs_translation": false,
-      "age_days": 363
+      "age_days": 364
      }
     }
    ],
@@ -1431,7 +1431,7 @@
    "category": "Iranian Art",
    "url": "https://persbookart.com/feed/",
    "stage": "window",
-   "error": "feed OK (10 entries) but nothing published in the last 180 days; newest is 641 days old",
+   "error": "feed OK (10 entries) but nothing published in the last 180 days; newest is 642 days old",
    "severity": "info"
   },
   {
@@ -1439,7 +1439,7 @@
    "category": "Iranian Art",
    "url": "https://iranian.com/feed/",
    "stage": "window",
-   "error": "feed OK (15 entries) but nothing published in the last 180 days; newest is 1809 days old",
+   "error": "feed OK (15 entries) but nothing published in the last 180 days; newest is 1810 days old",
    "severity": "info"
   },
   {
@@ -1447,7 +1447,7 @@
    "category": "Museums & Institutions",
    "url": "https://www.imarabe.org/fr/rss.xml",
    "stage": "window",
-   "error": "feed OK (3 entries) but nothing published in the last 180 days; newest is 964 days old",
+   "error": "feed OK (3 entries) but nothing published in the last 180 days; newest is 965 days old",
    "severity": "info"
   },
   {
@@ -1455,7 +1455,7 @@
    "category": "Museums & Institutions",
    "url": "https://www.barjeelartfoundation.org/feed/",
    "stage": "window",
-   "error": "feed OK (10 entries) but nothing published in the last 180 days; newest is 185 days old",
+   "error": "feed OK (10 entries) but nothing published in the last 180 days; newest is 187 days old",
    "severity": "info"
   },
   {
@@ -1463,7 +1463,7 @@
    "category": "Fairs & Events",
    "url": "https://www.artdubai.ae/feed/",
    "stage": "window",
-   "error": "feed OK (1 entries) but nothing published in the last 180 days; newest is 1970 days old",
+   "error": "feed OK (1 entries) but nothing published in the last 180 days; newest is 1971 days old",
    "severity": "info"
   },
   {
@@ -1471,7 +1471,7 @@
    "category": "Foundations, Research & Archives",
    "url": "https://amcainternational.org/feed/",
    "stage": "window",
-   "error": "feed OK (1 entries) but nothing published in the last 180 days; newest is 363 days old",
+   "error": "feed OK (1 entries) but nothing published in the last 180 days; newest is 364 days old",
    "severity": "info"
   }
  ],
