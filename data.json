@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-19T09:17:58.954065Z",
+ "generated_at": "2026-09-20T09:39:42.966836Z",
  "window_days": 180,
  "max_items_per_feed": 8,
  "totals": {
@@ -15,6 +15,297 @@
    "name": "News & Market",
    "item_count": 40,
    "sources": [
+    {
+     "name": "Ocula Magazine",
+     "site": "https://ocula.com/magazine/",
+     "feed_url": "https://ocula.com/magazine/feed/",
+     "lang": "en",
+     "newest_ts": 1789844526.0,
+     "items": [
+      {
+       "title": "Ed Atkins: 'I Would Like to Be an Artwork'",
+       "link": "https://ocula.com/magazine/conversations/ed-atkins-gladstone-seoul-september-2026/",
+       "summary": "The multidisciplinary artist and writer talks about why photography is currently important to him, reading Joe Brainard and what he really means by “tech”.",
+       "published": "2026-09-19T19:02:06Z",
+       "published_ts": 1789844526.0,
+       "source": "Ocula Magazine",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "New Lawsuit Reopens Decades-Long Legal Battle Over Nazi-Looted Painting",
+       "link": "https://ocula.com/magazine/art-news/nazi-looted-lawsuit-norton-simon-museum-cranach/",
+       "summary": "Following the enactment of new legislation, a feud over the ownership of a 16th‑century Cranach diptych in the collection of the Norton Simon Museum of Art has returned to the courtroom.",
+       "published": "2026-09-17T23:00:08Z",
+       "published_ts": 1789686008.0,
+       "source": "Ocula Magazine",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Filipino Artists’ Collective Protests ‘Devastating’ Impact of AI Hub",
+       "link": "https://ocula.com/magazine/art-news/filipino-artists-protests-ai-hub-pax-silica/",
+       "summary": "The AUPAX coalition of creatives is organising exhibitions, workshops and protests against the US‑helmed Pax Silica initiative, which has proposed an AI and manufacturing development on Luzon island.",
+       "published": "2026-09-17T22:09:14Z",
+       "published_ts": 1789682954.0,
+       "source": "Ocula Magazine",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "In Seoul, Henri Alexander Levy Reconstructs a Past He Never Lived",
+       "link": "https://ocula.com/magazine/partnerships/seoul-art-week-2026-henri-alexander-levy/",
+       "summary": "The American artist blends found material with his own troubled history. His latest exhibition in Seoul tells its stories through military memories, religious iconography and ideas of authority.",
+       "published": "2026-09-17T20:51:42Z",
+       "published_ts": 1789678302.0,
+       "source": "Ocula Magazine",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "At Munchmuseet, Expressionism Meets Bedroom Pop",
+       "link": "https://ocula.com/magazine/art-news/munchmuseet-expressionism-munch-girl-in-red/",
+       "summary": "This summer the Oslo museum will pair a soundscape by indie icon girl in red with 22 paintings by Expressionist master Edvard Munch.",
+       "published": "2026-09-17T04:52:00Z",
+       "published_ts": 1789620720.0,
+       "source": "Ocula Magazine",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Madrid’s Museo Nacional Thyssen-Bornemisza to Open New Contemporary Art Space",
+       "link": "https://ocula.com/magazine/art-news/museo-nacional-thyssen-bornemisza-expansion/",
+       "summary": "The institution will repurpose a disused building to house works worth €16 million donated by Francesca Thyssen‑Bornemisza, daughter of the museum’s founder.",
+       "published": "2026-09-17T02:08:09Z",
+       "published_ts": 1789610889.0,
+       "source": "Ocula Magazine",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Sotheby’s Embraces Celebrity Curators and Parisian Dining",
+       "link": "https://ocula.com/magazine/art-news/sothebys-celebrity-curators-dining-art-basel-paris/",
+       "summary": "The auction house will present a sale curated by basketball star Karl‑Anthony Towns, and open a selling exhibition‑restaurant during Art Basel Paris.",
+       "published": "2026-09-16T04:59:00Z",
+       "published_ts": 1789534740.0,
+       "source": "Ocula Magazine",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Construction Begins on the Met’s $670 Million Modern Art Wing",
+       "link": "https://ocula.com/magazine/art-news/construction-begins-on-mets-modern-art-wing/",
+       "summary": "The revamped space, named in honour of Oscar Tang and Agnes Hsu‑Tang, who pledged the largest capital gift in the Met’s history, will house the museum’s 20th and 21st century art.",
+       "published": "2026-09-16T02:33:58Z",
+       "published_ts": 1789526038.0,
+       "source": "Ocula Magazine",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      }
+     ]
+    },
+    {
+     "name": "Artnet News",
+     "site": "https://news.artnet.com/",
+     "feed_url": "https://news.artnet.com/feed",
+     "lang": "en",
+     "newest_ts": 1789829772.0,
+     "items": [
+      {
+       "title": "In Venice, Peter Kogler Translates His Digital Vocabulary Into Murano Glass",
+       "link": "https://news.artnet.com/art-world/peter-kogler-barovier-and-toso-2812190",
+       "summary": "On view at Galleria Barovier and Toso, the exhibition brings together 40 years of computer-generated motifs with seven centuries of Murano glassmaking tradition.",
+       "published": "2026-09-19T14:56:12Z",
+       "published_ts": 1789829772.0,
+       "source": "Artnet News",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Will Gagosian’s Brice Marden Blockbuster Send His Market Soaring Again?",
+       "link": "https://news.artnet.com/market/brice-marden-gagosian-market-2026-2810159",
+       "summary": "Museum loans and never-before-seen paintings have landed in Chelsea. Only one man knows what's for sale.",
+       "published": "2026-09-18T21:34:17Z",
+       "published_ts": 1789767257.0,
+       "source": "Artnet News",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Artist J. Margulis Asks Viewers to Keep Moving",
+       "link": "https://news.artnet.com/art-world/j-margulis-nicholas-auvray-2811963",
+       "summary": "At Nicolas Auvray Gallery, Margulis extends the legacy of Venezuelan kinetic art pioneers like Carlos Cruz-Diez and Jesús Rafael Soto into a new, more complex chromatic language.",
+       "published": "2026-09-18T20:52:11Z",
+       "published_ts": 1789764731.0,
+       "source": "Artnet News",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Lunch With Adam: Convicted Fraudster Inigo Philbrick on Prison Life, Regrets, and Why He Did It",
+       "link": "https://news.artnet.com/art-world/lunch-with-adam-inigo-philbrick-2813104",
+       "summary": "'I may not be given a second chance—but at least recognize that I've suffered a lot from what happened.'",
+       "published": "2026-09-18T20:19:55Z",
+       "published_ts": 1789762795.0,
+       "source": "Artnet News",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Gertrude Abercrombie Painting Bought at Estate Sale for $30 Could Fetch $250k",
+       "link": "https://news.artnet.com/art-world/gertrude-abercrombie-discovery-2813426",
+       "summary": "The artist's market has been on the rise thanks to a slate of gallery and museum shows since 2018.",
+       "published": "2026-09-18T20:03:22Z",
+       "published_ts": 1789761802.0,
+       "source": "Artnet News",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Highs and Lows of Just-Opened Gallery Shows in NYC",
+       "link": "https://news.artnet.com/market/chelsea-gallery-shows-2026-2811816",
+       "summary": "Nudes, clouds, candles, and clocks.",
+       "published": "2026-09-18T19:41:40Z",
+       "published_ts": 1789760500.0,
+       "source": "Artnet News",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "How John Wilson Found Beauty—and Impermanence—in Concrete",
+       "link": "https://news.artnet.com/art-world/john-wilson-history-of-concrete-2812606",
+       "summary": "The documentarian looks beyond the surface of the world's most popular material in 'The History of Concrete.'",
+       "published": "2026-09-18T18:46:26Z",
+       "published_ts": 1789757186.0,
+       "source": "Artnet News",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Profits Quadruple for Art Basel’s Parent Company—and More Industry Intel",
+       "link": "https://news.artnet.com/market/industry-intel-sept-11-2-2812974",
+       "summary": "Plus: V&A workers annouce further strike action and Sotheby's launches a restaurant pop-up in Paris.",
+       "published": "2026-09-18T16:29:05Z",
+       "published_ts": 1789748945.0,
+       "source": "Artnet News",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      }
+     ]
+    },
+    {
+     "name": "Hyperallergic",
+     "site": "https://hyperallergic.com/",
+     "feed_url": "https://hyperallergic.com/feed/",
+     "lang": "en",
+     "newest_ts": 1789812019.0,
+     "items": [
+      {
+       "title": "The Cathedral of Joy",
+       "link": "https://hyperallergic.com/the-cathedral-of-joy/",
+       "summary": "One-on-one with Alfredo Jaar, Damien Hirst’s secret life, Anish Kapoor's optical trickery, and another BS \"most influential\" list.",
+       "published": "2026-09-19T10:00:19Z",
+       "published_ts": 1789812019.0,
+       "source": "Hyperallergic",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "No One Is Accountable in Taryn Simon’s Detective Story",
+       "link": "https://hyperallergic.com/no-one-is-accountable-in-taryn-simons-detective-story/",
+       "summary": "In her ambitious exhibition at the Guggenheim Museum, injustice seems purely systemic, not the result of individuals behaving badly.",
+       "published": "2026-09-18T21:31:58Z",
+       "published_ts": 1789767118.0,
+       "source": "Hyperallergic",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Buffalo Puppet Procession Traces Native History Through NYC’s Streets",
+       "link": "https://hyperallergic.com/buffalo-puppet-procession-traces-native-history-through-nycs-streets/",
+       "summary": "“Return of the Buffalo: Tatanka Owe Akupi” pays homage to 38 Dakota men executed by President Abraham Lincoln in Mankato, Minnesota, in 1862.",
+       "published": "2026-09-18T21:21:00Z",
+       "published_ts": 1789766460.0,
+       "source": "Hyperallergic",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "NYC’s Shelter Population Speaks Out in Public Art Project",
+       "link": "https://hyperallergic.com/nycs-shelter-population-speaks-out-in-public-art-project/",
+       "summary": "Alex Strada’s “Public Address” brings handwritten testimonies from over 400 unhoused New Yorkers and shelter staff to a dozen locations across the Bronx.",
+       "published": "2026-09-18T19:59:46Z",
+       "published_ts": 1789761586.0,
+       "source": "Hyperallergic",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "The Titillating Tale of Damien Hirst’s Gay Hole",
+       "link": "https://hyperallergic.com/the-titillating-tale-of-damien-hirsts-gay-hole/",
+       "summary": "An infectious play by Sleth explores infatuation and fame through an imagined relationship between Hirst and his gay lover, a younger artist whose paintings consist of holes on the ground.",
+       "published": "2026-09-18T19:40:55Z",
+       "published_ts": 1789760455.0,
+       "source": "Hyperallergic",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "What “The Book of Genocides” Teaches Us",
+       "link": "https://hyperallergic.com/what-the-book-of-genocides-teaches-us/",
+       "summary": "Dana Mashoian Walrath’s work of graphic nonfiction points to historical patterns across 10 genocides, from Germany and Turkey to Gaza.",
+       "published": "2026-09-18T19:34:26Z",
+       "published_ts": 1789760066.0,
+       "source": "Hyperallergic",
+       "category": "News & Market",
+       "mena": true,
+       "needs_translation": false
+      },
+      {
+       "title": "Liu Wei’s Met Facade Comission Reflects Our Moment",
+       "link": "https://hyperallergic.com/liu-weis-met-facade-comission-reflects-our-moment/",
+       "summary": "On view through next June, Liu's sculpture series “Speculation” (2026) contemplates the contradictory elements of collapse and civic transformation.",
+       "published": "2026-09-18T17:41:28Z",
+       "published_ts": 1789753288.0,
+       "source": "Hyperallergic",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Leon Black Plans to Turn Woolworth Mansion Into His Own Museum, Book Reveals",
+       "link": "https://hyperallergic.com/leon-black-plans-to-turn-woolworth-mansion-into-his-own-museum-book-reveals/",
+       "summary": "The disgraced financier, whose ties to Jeffrey Epstein are being investigated in Congress, told author William D. Cohan that he wants to turn the Manhattan property into “his version of the Neue Galerie.”",
+       "published": "2026-09-18T17:30:59Z",
+       "published_ts": 1789752659.0,
+       "source": "Hyperallergic",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      }
+     ]
+    },
     {
      "name": "The Art Newspaper",
      "site": "https://www.theartnewspaper.com/",
@@ -106,200 +397,6 @@
        "published": "2026-09-18T11:47:37Z",
        "published_ts": 1789732057.0,
        "source": "The Art Newspaper",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      }
-     ]
-    },
-    {
-     "name": "Artnet News",
-     "site": "https://news.artnet.com/",
-     "feed_url": "https://news.artnet.com/feed",
-     "lang": "en",
-     "newest_ts": 1789767257.0,
-     "items": [
-      {
-       "title": "Will Gagosian’s Brice Marden Blockbuster Send His Market Soaring Again?",
-       "link": "https://news.artnet.com/market/brice-marden-gagosian-market-2026-2810159",
-       "summary": "Museum loans and never-before-seen paintings have landed in Chelsea. Only one man knows what's for sale.",
-       "published": "2026-09-18T21:34:17Z",
-       "published_ts": 1789767257.0,
-       "source": "Artnet News",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Artist J. Margulis Asks Viewers to Keep Moving",
-       "link": "https://news.artnet.com/art-world/j-margulis-nicholas-auvray-2811963",
-       "summary": "At Nicolas Auvray Gallery, Margulis extends the legacy of Venezuelan kinetic art pioneers like Carlos Cruz-Diez and Jesús Rafael Soto into a new, more complex chromatic language.",
-       "published": "2026-09-18T20:52:11Z",
-       "published_ts": 1789764731.0,
-       "source": "Artnet News",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Lunch With Adam: Convicted Fraudster Inigo Philbrick on Prison Life, Regrets, and Why He Did It",
-       "link": "https://news.artnet.com/art-world/lunch-with-adam-inigo-philbrick-2813104",
-       "summary": "'I may not be given a second chance—but at least recognize that I've suffered a lot from what happened.'",
-       "published": "2026-09-18T20:19:55Z",
-       "published_ts": 1789762795.0,
-       "source": "Artnet News",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Gertrude Abercrombie Painting Bought at Estate Sale for $30 Could Fetch $250k",
-       "link": "https://news.artnet.com/art-world/gertrude-abercrombie-discovery-2813426",
-       "summary": "The artist's market has been on the rise thanks to a slate of gallery and museum shows since 2018.",
-       "published": "2026-09-18T20:03:22Z",
-       "published_ts": 1789761802.0,
-       "source": "Artnet News",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Highs and Lows of Just-Opened Gallery Shows in NYC",
-       "link": "https://news.artnet.com/market/chelsea-gallery-shows-2026-2811816",
-       "summary": "Nudes, clouds, candles, and clocks.",
-       "published": "2026-09-18T19:41:40Z",
-       "published_ts": 1789760500.0,
-       "source": "Artnet News",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "How John Wilson Found Beauty—and Impermanence—in Concrete",
-       "link": "https://news.artnet.com/art-world/john-wilson-history-of-concrete-2812606",
-       "summary": "The documentarian looks beyond the surface of the world's most popular material in 'The History of Concrete.'",
-       "published": "2026-09-18T18:46:26Z",
-       "published_ts": 1789757186.0,
-       "source": "Artnet News",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Profits Quadruple for Art Basel’s Parent Company—and More Industry Intel",
-       "link": "https://news.artnet.com/market/industry-intel-sept-11-2-2812974",
-       "summary": "Plus: V&A workers annouce further strike action and Sotheby's launches a restaurant pop-up in Paris.",
-       "published": "2026-09-18T16:29:05Z",
-       "published_ts": 1789748945.0,
-       "source": "Artnet News",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Uffizi Removes Famed Caravaggio After Flash Flood Soaks Gallery",
-       "link": "https://news.artnet.com/art-world/uffizi-caravaggio-flood-2813002",
-       "summary": "A sudden downpour caused a leak that streamed rainwater on the display case of the 1596 masterpiece.",
-       "published": "2026-09-18T12:21:23Z",
-       "published_ts": 1789734083.0,
-       "source": "Artnet News",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      }
-     ]
-    },
-    {
-     "name": "Hyperallergic",
-     "site": "https://hyperallergic.com/",
-     "feed_url": "https://hyperallergic.com/feed/",
-     "lang": "en",
-     "newest_ts": 1789767118.0,
-     "items": [
-      {
-       "title": "No One Is Accountable in Taryn Simon’s Detective Story",
-       "link": "https://hyperallergic.com/no-one-is-accountable-in-taryn-simons-detective-story/",
-       "summary": "In her ambitious exhibition at the Guggenheim Museum, injustice seems purely systemic, not the result of individuals behaving badly.",
-       "published": "2026-09-18T21:31:58Z",
-       "published_ts": 1789767118.0,
-       "source": "Hyperallergic",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Buffalo Puppet Procession Traces Native History Through NYC’s Streets",
-       "link": "https://hyperallergic.com/buffalo-puppet-procession-traces-native-history-through-nycs-streets/",
-       "summary": "“Return of the Buffalo: Tatanka Owe Akupi” pays homage to 38 Dakota men executed by President Abraham Lincoln in Mankato, Minnesota, in 1862.",
-       "published": "2026-09-18T21:21:00Z",
-       "published_ts": 1789766460.0,
-       "source": "Hyperallergic",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "NYC’s Shelter Population Speaks Out in Public Art Project",
-       "link": "https://hyperallergic.com/nycs-shelter-population-speaks-out-in-public-art-project/",
-       "summary": "Alex Strada’s “Public Address” brings handwritten testimonies from over 400 unhoused New Yorkers and shelter staff to a dozen locations across the Bronx.",
-       "published": "2026-09-18T19:59:46Z",
-       "published_ts": 1789761586.0,
-       "source": "Hyperallergic",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "The Titillating Tale of Damien Hirst’s Gay Hole",
-       "link": "https://hyperallergic.com/the-titillating-tale-of-damien-hirsts-gay-hole/",
-       "summary": "An infectious play by Sleth explores infatuation and fame through an imagined relationship between Hirst and his gay lover, a younger artist whose paintings consist of holes on the ground.",
-       "published": "2026-09-18T19:40:55Z",
-       "published_ts": 1789760455.0,
-       "source": "Hyperallergic",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "What “The Book of Genocides” Teaches Us",
-       "link": "https://hyperallergic.com/what-the-book-of-genocides-teaches-us/",
-       "summary": "Dana Mashoian Walrath’s work of graphic nonfiction points to historical patterns across 10 genocides, from Germany and Turkey to Gaza.",
-       "published": "2026-09-18T19:34:26Z",
-       "published_ts": 1789760066.0,
-       "source": "Hyperallergic",
-       "category": "News & Market",
-       "mena": true,
-       "needs_translation": false
-      },
-      {
-       "title": "Liu Wei’s Met Facade Comission Reflects Our Moment",
-       "link": "https://hyperallergic.com/liu-weis-met-facade-comission-reflects-our-moment/",
-       "summary": "On view through next June, Liu's sculpture series “Speculation” (2026) contemplates the contradictory elements of collapse and civic transformation.",
-       "published": "2026-09-18T17:41:28Z",
-       "published_ts": 1789753288.0,
-       "source": "Hyperallergic",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Leon Black Plans to Turn Woolworth Mansion Into His Own Museum, Book Reveals",
-       "link": "https://hyperallergic.com/leon-black-plans-to-turn-woolworth-mansion-into-his-own-museum-book-reveals/",
-       "summary": "The disgraced financier, whose ties to Jeffrey Epstein are being investigated in Congress, told author William D. Cohan that he wants to turn the Manhattan property into “his version of the Neue Galerie.”",
-       "published": "2026-09-18T17:30:59Z",
-       "published_ts": 1789752659.0,
-       "source": "Hyperallergic",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Borusan Contemporary Presents Two New Exhibitions",
-       "link": "https://hyperallergic.com/borusan-contemporary-presents-two-new-exhibitions/",
-       "summary": "From “the act of looking” to intelligent technologies, “Olivo Barbieri: Time Space Geometry” and “Haunted” explore how images shape our perception of reality. Opening September 19, 2026.",
-       "published": "2026-09-18T15:09:28Z",
-       "published_ts": 1789744168.0,
-       "source": "Hyperallergic",
        "category": "News & Market",
        "mena": false,
        "needs_translation": false
@@ -399,103 +496,6 @@
        "source": "ArtNews",
        "category": "News & Market",
        "mena": true,
-       "needs_translation": false
-      }
-     ]
-    },
-    {
-     "name": "Ocula Magazine",
-     "site": "https://ocula.com/magazine/",
-     "feed_url": "https://ocula.com/magazine/feed/",
-     "lang": "en",
-     "newest_ts": 1789686008.0,
-     "items": [
-      {
-       "title": "New Lawsuit Reopens Decades-Long Legal Battle Over Nazi-Looted Painting",
-       "link": "https://ocula.com/magazine/art-news/nazi-looted-lawsuit-norton-simon-museum-cranach/",
-       "summary": "Following the enactment of new legislation, a feud over the ownership of a 16th‑century Cranach diptych in the collection of the Norton Simon Museum of Art has returned to the courtroom.",
-       "published": "2026-09-17T23:00:08Z",
-       "published_ts": 1789686008.0,
-       "source": "Ocula Magazine",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Filipino Artists’ Collective Protests ‘Devastating’ Impact of AI Hub",
-       "link": "https://ocula.com/magazine/art-news/filipino-artists-protests-ai-hub-pax-silica/",
-       "summary": "The AUPAX coalition of creatives is organising exhibitions, workshops and protests against the US‑helmed Pax Silica initiative, which has proposed an AI and manufacturing development on Luzon island.",
-       "published": "2026-09-17T22:09:14Z",
-       "published_ts": 1789682954.0,
-       "source": "Ocula Magazine",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "In Seoul, Henri Alexander Levy Reconstructs a Past He Never Lived",
-       "link": "https://ocula.com/magazine/partnerships/seoul-art-week-2026-henri-alexander-levy/",
-       "summary": "The American artist blends found material with his own troubled history. His latest exhibition in Seoul tells its stories through military memories, religious iconography and ideas of authority.",
-       "published": "2026-09-17T20:51:42Z",
-       "published_ts": 1789678302.0,
-       "source": "Ocula Magazine",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "At Munchmuseet, Expressionism Meets Bedroom Pop",
-       "link": "https://ocula.com/magazine/art-news/munchmuseet-expressionism-munch-girl-in-red/",
-       "summary": "This summer the Oslo museum will pair a soundscape by indie icon girl in red with 22 paintings by Expressionist master Edvard Munch.",
-       "published": "2026-09-17T04:52:00Z",
-       "published_ts": 1789620720.0,
-       "source": "Ocula Magazine",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Madrid’s Museo Nacional Thyssen-Bornemisza to Open New Contemporary Art Space",
-       "link": "https://ocula.com/magazine/art-news/museo-nacional-thyssen-bornemisza-expansion/",
-       "summary": "The institution will repurpose a disused building to house works worth €16 million donated by Francesca Thyssen‑Bornemisza, daughter of the museum’s founder.",
-       "published": "2026-09-17T02:08:09Z",
-       "published_ts": 1789610889.0,
-       "source": "Ocula Magazine",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Sotheby’s Embraces Celebrity Curators and Parisian Dining",
-       "link": "https://ocula.com/magazine/art-news/sothebys-celebrity-curators-dining-art-basel-paris/",
-       "summary": "The auction house will present a sale curated by basketball star Karl‑Anthony Towns, and open a selling exhibition‑restaurant during Art Basel Paris.",
-       "published": "2026-09-16T04:59:00Z",
-       "published_ts": 1789534740.0,
-       "source": "Ocula Magazine",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Construction Begins on the Met’s $670 Million Modern Art Wing",
-       "link": "https://ocula.com/magazine/art-news/construction-begins-on-mets-modern-art-wing/",
-       "summary": "The revamped space, named in honour of Oscar Tang and Agnes Hsu‑Tang, who pledged the largest capital gift in the Met’s history, will house the museum’s 20th and 21st century art.",
-       "published": "2026-09-16T02:33:58Z",
-       "published_ts": 1789526038.0,
-       "source": "Ocula Magazine",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Why Hong Kong Still Fetishises Its Neon-Lit Past",
-       "link": "https://ocula.com/magazine/opinion/nostalgia-hong-kong-cinema-neon-september-2026/",
-       "summary": "The authorities are taking down Hong Kong’s once‑iconic neon signs, while theme parks and commercial enterprises are recreating scenes from pre‑1997 life in the former colony. Jaime Chu asks whether it’s time the city stopped pining for the past and concentrated on the present.",
-       "published": "2026-09-16T01:09:00Z",
-       "published_ts": 1789520940.0,
-       "source": "Ocula Magazine",
-       "category": "News & Market",
-       "mena": false,
        "needs_translation": false
       }
      ]
@@ -697,7 +697,7 @@
      "name": "Persbook Annual of Contemporary Art",
      "site": "https://persbookart.com/",
      "lang": "en",
-     "age_days": 647,
+     "age_days": 648,
      "item": {
       "title": "«من اینجا هستم»ِ تمرینی برای مرکز زدایی | مهدیار جمشیدی و الهام پوریامهر",
       "link": "https://persbookart.com/4015/mahdyarjamshidi/",
@@ -708,14 +708,14 @@
       "category": "Iranian Art",
       "mena": false,
       "needs_translation": true,
-      "age_days": 647
+      "age_days": 648
      }
     },
     {
      "name": "Iranian.com Arts & Culture",
      "site": "https://iranian.com/",
      "lang": "en",
-     "age_days": 1815,
+     "age_days": 1816,
      "item": {
       "title": "We’re back",
       "link": "https://iranian.com/2021/09/29/were-back/",
@@ -726,7 +726,7 @@
       "category": "Iranian Art",
       "mena": true,
       "needs_translation": false,
-      "age_days": 1815
+      "age_days": 1816
      }
     }
    ],
@@ -902,7 +902,7 @@
      "name": "Barjeel Art Foundation",
      "site": "https://www.barjeelartfoundation.org/",
      "lang": "en",
-     "age_days": 191,
+     "age_days": 192,
      "item": {
       "title": "Palestinian Family",
       "link": "https://www.barjeelartfoundation.org/collection/palestinian-family/",
@@ -913,14 +913,14 @@
       "category": "Museums & Institutions",
       "mena": true,
       "needs_translation": false,
-      "age_days": 191
+      "age_days": 192
      }
     },
     {
      "name": "Institut du Monde Arabe",
      "site": "https://www.imarabe.org/",
      "lang": "fr",
-     "age_days": 969,
+     "age_days": 971,
      "item": {
       "title": "Étienne Dinet, passions algériennes",
       "link": "http://www.imarabe.org/fr/agenda/expositions-musee/etienne-dinet-passions-algeriennes",
@@ -931,7 +931,7 @@
       "category": "Museums & Institutions",
       "mena": true,
       "needs_translation": false,
-      "age_days": 969
+      "age_days": 971
      }
     }
    ],
@@ -1071,7 +1071,7 @@
      "name": "Art Dubai",
      "site": "https://www.artdubai.ae/",
      "lang": "en",
-     "age_days": 1976,
+     "age_days": 1977,
      "item": {
       "title": "Art Dubai 2021 leads the way back to normality",
       "link": "https://www.artdubai.ae/art-dubai-2021-leads-the-way-back-to-normality/",
@@ -1082,7 +1082,7 @@
       "category": "Fairs & Events",
       "mena": true,
       "needs_translation": false,
-      "age_days": 1976
+      "age_days": 1977
      }
     }
    ],
@@ -1188,7 +1188,7 @@
      "name": "AMCA",
      "site": "https://amcainternational.org/",
      "lang": "en",
-     "age_days": 369,
+     "age_days": 370,
      "item": {
       "title": "Call for Submissions: Special Issue of the Getty Research Journal",
       "link": "https://amcainternational.org/call-for-submissions-special-issue-of-the-getty-research-journal/",
@@ -1199,7 +1199,7 @@
       "category": "Foundations, Research & Archives",
       "mena": false,
       "needs_translation": false,
-      "age_days": 369
+      "age_days": 370
      }
     }
    ],
@@ -1352,7 +1352,7 @@
    "category": "Iranian Art",
    "url": "https://persbookart.com/feed/",
    "stage": "window",
-   "error": "feed OK (10 entries) but nothing published in the last 180 days; newest is 647 days old",
+   "error": "feed OK (10 entries) but nothing published in the last 180 days; newest is 648 days old",
    "severity": "info"
   },
   {
@@ -1360,7 +1360,7 @@
    "category": "Iranian Art",
    "url": "https://iranian.com/feed/",
    "stage": "window",
-   "error": "feed OK (15 entries) but nothing published in the last 180 days; newest is 1815 days old",
+   "error": "feed OK (15 entries) but nothing published in the last 180 days; newest is 1816 days old",
    "severity": "info"
   },
   {
@@ -1368,7 +1368,7 @@
    "category": "Museums & Institutions",
    "url": "https://www.imarabe.org/fr/rss.xml",
    "stage": "window",
-   "error": "feed OK (3 entries) but nothing published in the last 180 days; newest is 969 days old",
+   "error": "feed OK (3 entries) but nothing published in the last 180 days; newest is 971 days old",
    "severity": "info"
   },
   {
@@ -1376,7 +1376,7 @@
    "category": "Museums & Institutions",
    "url": "https://www.barjeelartfoundation.org/feed/",
    "stage": "window",
-   "error": "feed OK (10 entries) but nothing published in the last 180 days; newest is 191 days old",
+   "error": "feed OK (10 entries) but nothing published in the last 180 days; newest is 192 days old",
    "severity": "info"
   },
   {
@@ -1384,7 +1384,7 @@
    "category": "Fairs & Events",
    "url": "https://www.artdubai.ae/feed/",
    "stage": "window",
-   "error": "feed OK (1 entries) but nothing published in the last 180 days; newest is 1976 days old",
+   "error": "feed OK (1 entries) but nothing published in the last 180 days; newest is 1977 days old",
    "severity": "info"
   },
   {
@@ -1392,7 +1392,7 @@
    "category": "Foundations, Research & Archives",
    "url": "https://amcainternational.org/feed/",
    "stage": "window",
-   "error": "feed OK (1 entries) but nothing published in the last 180 days; newest is 369 days old",
+   "error": "feed OK (1 entries) but nothing published in the last 180 days; newest is 370 days old",
    "severity": "info"
   }
  ],
