@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-28T11:33:35.919739Z",
+ "generated_at": "2026-09-29T11:12:38.635480Z",
  "window_days": 180,
  "max_items_per_feed": 8,
  "totals": {
@@ -16,96 +16,96 @@
    "item_count": 40,
    "sources": [
     {
-     "name": "The Art Newspaper",
-     "site": "https://www.theartnewspaper.com/",
-     "feed_url": "https://www.theartnewspaper.com/rss.xml",
+     "name": "ArtNews",
+     "site": "https://www.artnews.com/",
+     "feed_url": "https://www.artnews.com/feed/",
      "lang": "en",
-     "newest_ts": 1790594470.0,
+     "newest_ts": 1790679600.0,
      "items": [
       {
-       "title": "New biography reveals the rich life of the ‘studiously self-effacing’ artist Anni Albers",
-       "link": "https://www.theartnewspaper.com/2026/09/28/new-biography-reveals-the-rich-life-of-the-studiously-self-effacing-artist-anni-albers",
-       "summary": "Book showcases the ground-breaking textile works of the artist who, during her lifetime and since, was overlooked in favour of her husband, Josef Albers",
-       "published": "2026-09-28T11:21:10Z",
-       "published_ts": 1790594470.0,
-       "source": "The Art Newspaper",
+       "title": "Hard Truths: Can Senior Citizens Be Sage Social-Media Ambassadors?",
+       "link": "https://www.artnews.com/art-in-america/columns/hard-truths-senior-citizens-social-media-1234799718/",
+       "summary": "A museum worker ponders elders on Instagram, and a gallery worker worries about ominous connections.",
+       "published": "2026-09-29T11:00:00Z",
+       "published_ts": 1790679600.0,
+       "source": "ArtNews",
        "category": "News & Market",
        "mena": false,
        "needs_translation": false
       },
       {
-       "title": "Chinese opera, queerness and Cantopop star Leslie Cheung: artist Isaac Chong Wai on the inspirations for his new performance",
-       "link": "https://www.theartnewspaper.com/2026/09/28/a-true-homecoming-isaac-chong-wai-on-incorporating-chinese-opera-and-queer-icon-leslie-cheung-into-his-latest-performance",
-       "summary": "The Hong Kong-raised artist, now based in Berlin, recently returned to his home city for a durational live art exhibition at Tai Kwun Contemporary",
-       "published": "2026-09-28T11:15:47Z",
-       "published_ts": 1790594147.0,
-       "source": "The Art Newspaper",
+       "title": "ARTnews Announces Nominees for Third Annual ARTnews Awards",
+       "link": "https://www.artnews.com/art-news/news/artnews-awards-2026-nominees-1234799515/",
+       "summary": "The awards honor excellence in art at US institutions and galleries.",
+       "published": "2026-09-29T09:00:00Z",
+       "published_ts": 1790672400.0,
+       "source": "ArtNews",
        "category": "News & Market",
        "mena": false,
        "needs_translation": false
       },
       {
-       "title": "Restorers expose trove of 16th-century nude murals in Rome that were covered by disapproving nuns",
-       "link": "https://www.theartnewspaper.com/2026/09/28/restorers-expose-trove-of-16th-century-nude-murals-in-rome-that-were-covered-by-disapproving-nuns",
-       "summary": "Hidden for 300 years, the paintings inside Italy's Villa Silvestri Rivaldi are by some of the leading artists of the day",
-       "published": "2026-09-28T10:56:18Z",
-       "published_ts": 1790592978.0,
-       "source": "The Art Newspaper",
+       "title": "The Gwangju Biennale Doesn’t Remove Politics from Art—It Expands Our Understanding of What Politics Is",
+       "link": "https://www.artnews.com/art-news/news/gwangju-biennale-2026-report-art-politics-controversy-1234799814/",
+       "summary": "On view through November 15, the 2026 edition has the smallest artist list (43 participants) since the Biennale's founding in 1995.",
+       "published": "2026-09-29T07:00:00Z",
+       "published_ts": 1790665200.0,
+       "source": "ArtNews",
        "category": "News & Market",
        "mena": false,
        "needs_translation": false
       },
       {
-       "title": "Fourth Toronto Biennial of Art brings more than 30 artists and collectives together around the theme of rupture",
-       "link": "https://www.theartnewspaper.com/2026/09/27/toronto-biennial-art-fourth-edition-allison-glenn-things-fall-apart-preview",
-       "summary": "Titled “Things Fall Apart” and curated by Allison Glenn, the biennial unfolds across and beyond the city, on Lake Ontario and, thanks to a new partnership programme, in a half-dozen other cities",
-       "published": "2026-09-28T00:31:53Z",
-       "published_ts": 1790555513.0,
-       "source": "The Art Newspaper",
+       "title": "National Gallery of Singapore Announces Chng Hak-Peng Will Replace Eugene Tan as CEO",
+       "link": "https://www.artnews.com/art-news/news/chng-hak-peng-ceo-national-gallery-singapore-1234799797/",
+       "summary": "Tan, who had served as CEO and director of both the National Gallery of Singapore and the Singapore Art Museum will focuse on his role at SAM.",
+       "published": "2026-09-28T20:25:04Z",
+       "published_ts": 1790627104.0,
+       "source": "ArtNews",
        "category": "News & Market",
        "mena": false,
        "needs_translation": false
       },
       {
-       "title": "Switzerland’s Fondation Beyeler opens £109.7m expansion",
-       "link": "https://www.theartnewspaper.com/2026/09/25/fondation-beyeler-basel-switzerland-peter-zumthor-expansion",
-       "summary": "The Basel institution has added three new structures designed by the Swiss architect Peter Zumthor, while also extending its grounds",
-       "published": "2026-09-25T20:24:28Z",
-       "published_ts": 1790367868.0,
-       "source": "The Art Newspaper",
+       "title": "Pots By Enslaved Artist David Drake Returned to Family from Milwaukee Art Museum",
+       "link": "https://www.artnews.com/art-news/news/david-drake-pots-returned-milwaukee-museum-1234799794/",
+       "summary": "The deal was brokered by the Dave the Potter Legacy Trust.",
+       "published": "2026-09-28T19:59:26Z",
+       "published_ts": 1790625566.0,
+       "source": "ArtNews",
        "category": "News & Market",
        "mena": false,
        "needs_translation": false
       },
       {
-       "title": "Bogotá's Artbo fair remains boutique and local—is that enough?",
-       "link": "https://www.theartnewspaper.com/2026/09/25/amid-a-crowded-fair-calendar-colombias-artbo-remains-boutique-and-local",
-       "summary": "Exhibitor numbers for the fair's 2026 edition are still down from pre-pandemic levels, and its collectors and galleries are largely from Colombia",
-       "published": "2026-09-25T19:41:01Z",
-       "published_ts": 1790365261.0,
-       "source": "The Art Newspaper",
+       "title": "Whitney Union Sets Strike Date Days Before Major Roy Lichtenstein Show",
+       "link": "https://www.artnews.com/art-news/news/whitney-union-sets-strike-date-days-before-major-roy-lichtenstein-show-1234799793/",
+       "summary": "The union will start striking on October 5 if they cannot reach a contract agreement with the museum, Local 2110 UAW announced today.",
+       "published": "2026-09-28T19:59:10Z",
+       "published_ts": 1790625550.0,
+       "source": "ArtNews",
        "category": "News & Market",
        "mena": false,
        "needs_translation": false
       },
       {
-       "title": "At The Armory Show, emerging galleries are clear-eyed about the risks and rewards of doing fairs",
-       "link": "https://www.theartnewspaper.com/2026/09/25/the-armory-show-presents-sector-emerging-galleries-risks-rewards",
-       "summary": "The fair’s Presents section for younger galleries, often among its most vibrant sectors, features bold stands organised by ambitious dealers who understand the costs of doing business",
-       "published": "2026-09-25T18:20:44Z",
-       "published_ts": 1790360444.0,
-       "source": "The Art Newspaper",
+       "title": "Remains of a Roman Temple Discovered in Germany’s Taunus Forest",
+       "link": "https://www.artnews.com/art-news/news/previously-unknown-roman-temple-found-in-taunus-forest-germany-1234799684/",
+       "summary": "Storm damage revealed an unusual arrangement of stones that comprised part of a previously unknown settlement near the Roman fort.",
+       "published": "2026-09-28T18:16:28Z",
+       "published_ts": 1790619388.0,
+       "source": "ArtNews",
        "category": "News & Market",
-       "mena": false,
+       "mena": true,
        "needs_translation": false
       },
       {
-       "title": "Public art on parade in New York City this autumn",
-       "link": "https://www.theartnewspaper.com/2026/09/25/public-art-parade-new-york-city-autumn",
-       "summary": "New York’s outdoor art landscape is full of surprises this season, from mounds of oysters on Governors Island and bathing birds near City Hall to a towering corn cob on the High Line and a gargantuan teddy bear in Queens",
-       "published": "2026-09-25T16:42:35Z",
-       "published_ts": 1790354555.0,
-       "source": "The Art Newspaper",
+       "title": "Rare Working Apple-1 Signed by Steve Wozniak Could Fetch $800,000 at Auction",
+       "link": "https://www.artnews.com/art-news/market/apple-1-steve-wozniak-steve-jobs-bonhams-auction-1234799731/",
+       "summary": "Fewer than 75 verified Apple-1 computers are known to survive, according to Bonhams, with even fewer remaining operational.",
+       "published": "2026-09-28T18:05:56Z",
+       "published_ts": 1790618756.0,
+       "source": "ArtNews",
        "category": "News & Market",
        "mena": false,
        "needs_translation": false
@@ -117,91 +117,91 @@
      "site": "https://hyperallergic.com/",
      "feed_url": "https://hyperallergic.com/feed/",
      "lang": "en",
-     "newest_ts": 1790589615.0,
+     "newest_ts": 1790676021.0,
      "items": [
       {
-       "title": "Arthur Jafa’s Elegy to America",
-       "link": "https://hyperallergic.com/arthur-jafas-elegy-to-america/",
-       "summary": "Stephanie Wambugu on “I Am Tony” at the New Museum; plus, catch up on last week’s NYC fairs.",
-       "published": "2026-09-28T10:00:15Z",
-       "published_ts": 1790589615.0,
+       "title": "Whitney Museum Workers Declare Strike",
+       "link": "https://hyperallergic.com/whitney-museum-workers-declare-strike/",
+       "summary": "The union prepares for work stoppage ahead of the Lichtenstein show. Plus, Teresa Margolles distills the language of violence at MoMA PS1.",
+       "published": "2026-09-29T10:00:21Z",
+       "published_ts": 1790676021.0,
        "source": "Hyperallergic",
        "category": "News & Market",
        "mena": false,
        "needs_translation": false
       },
       {
-       "title": "Thanks, I’m Just Looking",
-       "link": "https://hyperallergic.com/thanks-im-just-looking/",
-       "summary": "The New York art fairs, the worst of the Venice Biennale, Taryn Simon’s incomplete detective story, and Damien Hirst’s gay hole.",
-       "published": "2026-09-26T10:00:17Z",
-       "published_ts": 1790416817.0,
+       "title": "Teresa Margolles and the Violence We Breathe",
+       "link": "https://hyperallergic.com/teresa-margolles-and-the-violence-we-breathe/",
+       "summary": "Her MoMA PS1 exhibition raises the question: What exactly does formal restraint accomplish in an age of violent excess?",
+       "published": "2026-09-28T21:35:03Z",
+       "published_ts": 1790631303.0,
        "source": "Hyperallergic",
        "category": "News & Market",
        "mena": false,
        "needs_translation": false
       },
       {
-       "title": "No One Is Reading, Except at the New York Art Book Fair",
-       "link": "https://hyperallergic.com/no-one-is-reading-except-at-the-new-york-art-book-fair/",
-       "summary": "The overlooked, subversive, and playful currents of politics and queer culture flow freely at the fair’s 20th anniversary edition, held at MoMA PS1.",
-       "published": "2026-09-25T20:59:37Z",
-       "published_ts": 1790369977.0,
+       "title": "Art in Odd Places Participants Seek Utopia Under Dark Clouds",
+       "link": "https://hyperallergic.com/art-in-odd-places-participants-seek-utopia-under-dark-clouds/",
+       "summary": "The public art festival’s 21st edition unfolded across 14th Street throughout the nor’easter this past weekend.",
+       "published": "2026-09-28T20:47:56Z",
+       "published_ts": 1790628476.0,
        "source": "Hyperallergic",
        "category": "News & Market",
        "mena": false,
        "needs_translation": false
       },
       {
-       "title": "Here’s What (Dealers Said) Sold at the Armory Show",
-       "link": "https://hyperallergic.com/heres-what-dealers-said-sold-at-the-armory-show/",
-       "summary": "If collectors had any concerns about the wars or inflation, they did not seem to share them at the New York fair, where the mood was almost too serene.",
-       "published": "2026-09-25T20:30:46Z",
-       "published_ts": 1790368246.0,
+       "title": "Activists Unveil Quilt Honoring Thousands Disappeared by ICE in Minnesota",
+       "link": "https://hyperallergic.com/activists-unveil-quilt-honoring-thousands-disappeared-by-ice-in-minnesota/",
+       "summary": "The Stolen Neighbors Quilt features 11,000 hand-stitched squares in an indictment of violence against immigrants and a “call for political courage.”",
+       "published": "2026-09-28T20:05:03Z",
+       "published_ts": 1790625903.0,
        "source": "Hyperallergic",
        "category": "News & Market",
        "mena": false,
        "needs_translation": false
       },
       {
-       "title": "Arthur Jafa, King of Pop",
-       "link": "https://hyperallergic.com/arthur-jafa-king-of-pop/",
-       "summary": "His eclectic references and intuitive grasp of memes and virality set him apart as an artist taking assemblage and collage to new heights.",
-       "published": "2026-09-25T18:48:13Z",
-       "published_ts": 1790362093.0,
+       "title": "The Rough-and-Ready Brilliance of Barbara Hammer’s “Nitrate Kisses”",
+       "link": "https://hyperallergic.com/the-rough-and-ready-brilliance-of-barbara-hammers-nitrate-kisses/",
+       "summary": "Newly restored in 4K, the film feels prescient as groups are once again being scapegoated for public health crises and financial instability.",
+       "published": "2026-09-28T18:25:45Z",
+       "published_ts": 1790619945.0,
        "source": "Hyperallergic",
        "category": "News & Market",
        "mena": false,
        "needs_translation": false
       },
       {
-       "title": "A Tribute to Black Soho Inside a New York Art Fair",
-       "link": "https://hyperallergic.com/a-tribute-to-black-soho-inside-a-new-york-art-fair/",
-       "summary": "Historic archives are displayed alongside works by Emma Amos, David Hammons, Vivian Browne, and more in a presentation at Independent 20th Century.",
-       "published": "2026-09-25T17:26:25Z",
-       "published_ts": 1790357185.0,
+       "title": "Kenzi Shiokava Did It for the Love of It",
+       "link": "https://hyperallergic.com/kenzi-shiokava-did-it-for-the-love-of-it/",
+       "summary": "He modeled what a life in art can amount to without acclaim, celebrity, money, and all the other trappings we tell artists are required.",
+       "published": "2026-09-28T17:59:07Z",
+       "published_ts": 1790618347.0,
        "source": "Hyperallergic",
        "category": "News & Market",
        "mena": false,
        "needs_translation": false
       },
       {
-       "title": "A View From the Easel",
-       "link": "https://hyperallergic.com/a-view-from-the-easel-356/",
-       "summary": "“I also have a mini trampoline that I’ve always had in my studio, it’s a reminder to stay playful.”",
-       "published": "2026-09-25T16:27:18Z",
-       "published_ts": 1790353638.0,
+       "title": "Whitney Museum Union Sets Strike Date Ahead of Major Roy Lichtenstein Show",
+       "link": "https://hyperallergic.com/whitney-museum-union-sets-strike-date-ahead-of-major-roy-lichtenstein-show/",
+       "summary": "“We’d rather be working and doing our jobs, but our wages are untenable for making ends meet in New York City,” said the union's chairperson.",
+       "published": "2026-09-28T16:24:41Z",
+       "published_ts": 1790612681.0,
        "source": "Hyperallergic",
        "category": "News & Market",
        "mena": false,
        "needs_translation": false
       },
       {
-       "title": "Spring Break Art Show Tackles Life's Crushing Burdens",
-       "link": "https://hyperallergic.com/spring-break-art-show-tackles-lifes-crushing-burdens/",
-       "summary": "Fair participants touch on politics and current events through their own lens and invite others to do the same.",
-       "published": "2026-09-25T16:08:06Z",
-       "published_ts": 1790352486.0,
+       "title": "A Broomstick in a Man's World",
+       "link": "https://hyperallergic.com/a-broomstick-in-a-mans-world/",
+       "summary": "In Emily Mae Smith's surreal paintings, a symbol of women’s work becomes a weapon.",
+       "published": "2026-09-28T16:07:27Z",
+       "published_ts": 1790611647.0,
        "source": "Hyperallergic",
        "category": "News & Market",
        "mena": false,
@@ -214,189 +214,92 @@
      "site": "https://news.artnet.com/",
      "feed_url": "https://news.artnet.com/feed",
      "lang": "en",
-     "newest_ts": 1790585207.0,
+     "newest_ts": 1790663426.0,
      "items": [
       {
-       "title": "Why Buyer’s Fees Keep Rising",
-       "link": "https://news.artnet.com/multimedia/art-market-minute-sep-28-2816786",
-       "summary": "Plus, Christie's launches a new department and what sold at the Armory Show.",
-       "published": "2026-09-28T08:46:47Z",
-       "published_ts": 1790585207.0,
+       "title": "An Art-Famous Shipwreck Washes Ashore",
+       "link": "https://news.artnet.com/artnet-bulletin/nantucket-shipwreck-sep-29-2817042",
+       "summary": "Plus, new data on who visits museums, a very-fun show in an abandoned office, and other art world matters.",
+       "published": "2026-09-29T06:30:26Z",
+       "published_ts": 1790663426.0,
        "source": "Artnet News",
        "category": "News & Market",
        "mena": false,
        "needs_translation": false
       },
       {
-       "title": "In the Hot Seat! Are Monumental Armory Show Sculptures Copies?",
-       "link": "https://news.artnet.com/market/lucia-hierro-kuril-chto-armory-show-giant-chairs-2816132",
-       "summary": "Lucia Hierro’s chairs at the New York fair have sparked a dispute with another artist over originality.",
-       "published": "2026-09-26T23:38:46Z",
-       "published_ts": 1790465926.0,
+       "title": "Sabine Moritz Lets Bodies Dissolve Into Abstract Brushstrokes in New Show",
+       "link": "https://news.artnet.com/art-world/sabine-moritz-galerie-max-hetzler-2814976",
+       "summary": "In her debut exhibition with Galerie Max Hetzler, the German painter explores the elements and lets figures emerge from gestural fields of color.",
+       "published": "2026-09-28T20:30:22Z",
+       "published_ts": 1790627422.0,
        "source": "Artnet News",
        "category": "News & Market",
        "mena": false,
        "needs_translation": false
       },
       {
-       "title": "Is the Price Right? At New York Fairs, Everyone’s Seeking the Perfect Number",
-       "link": "https://news.artnet.com/market/new-york-fairs-art-detective-sept-25-2026-2813235",
-       "summary": "The Armory was sedate, and the Independent was mobbed, but work is moving at both.",
-       "published": "2026-09-25T22:00:51Z",
-       "published_ts": 1790373651.0,
+       "title": "As the Gulf Reels From War, Istanbul’s Art Market Absorbs the Shock",
+       "link": "https://news.artnet.com/market/contemporary-istanbul-iran-war-2816978",
+       "summary": "Contemporary Istanbul’s 21st edition saw an influx of exhibitors and provided a valuable platform for Iranian artists.",
+       "published": "2026-09-28T19:35:28Z",
+       "published_ts": 1790624128.0,
        "source": "Artnet News",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "A.A.Murakami Imagines a New Kind of Nature",
-       "link": "https://news.artnet.com/art-world/a-a-murakami-new-nature-seoul-paradise-city-2813906",
-       "summary": "The artist duo debuted a new piece at Paradise Art Night 2026, and timed to Frieze Seoul, the show was paired with an immersive dinner experience that blended themes of art, food, and scenography.",
-       "published": "2026-09-25T21:00:17Z",
-       "published_ts": 1790370017.0,
-       "source": "Artnet News",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "George Morrison Was Long Overlooked. Now His Market Is Catching Up",
-       "link": "https://news.artnet.com/market/work-of-the-week-george-morrison-2816028",
-       "summary": "After a record-setting year for Morrison’s market, Bockley Gallery is bringing his abstractions to Independent 20th Century.",
-       "published": "2026-09-25T20:58:16Z",
-       "published_ts": 1790369896.0,
-       "source": "Artnet News",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "‘Blade Runner 2049’ Props Hit the Block as Memorabilia Market Booms",
-       "link": "https://news.artnet.com/art-world/collectibles-blade-runner-sep-2026-2815613",
-       "summary": "Also: Steve McQueen's mythic Ferrari, Horatio Nelson's love letters, Pokémon celluloids, and other collectibles news.",
-       "published": "2026-09-25T17:30:31Z",
-       "published_ts": 1790357431.0,
-       "source": "Artnet News",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Inside the Long, Little-Known Tradition of Artists as Healers",
-       "link": "https://news.artnet.com/art-world/artist-healers-independent-20th-century-2813751",
-       "summary": "Emma Kunz insisted she was a healer before she was an artist. With her solo booth at Independent 20th Century, her story invites a wider look at artists who blurred the same line.",
-       "published": "2026-09-25T17:24:24Z",
-       "published_ts": 1790357064.0,
-       "source": "Artnet News",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Wet Paint on September’s Silliest and Sexiest Shows! Poppers, Pikachu, Peep Shows, and More Juicy Art-World Gossip",
-       "link": "https://news.artnet.com/market/wet-paint-new-york-openings-2815927",
-       "summary": "John Waters is downtown, there’s an adults-only show in midtown, snipers are uptown at 980 Madison, and the season has barely begun.",
-       "published": "2026-09-25T16:36:42Z",
-       "published_ts": 1790354202.0,
-       "source": "Artnet News",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      }
-     ]
-    },
-    {
-     "name": "ArtNews",
-     "site": "https://www.artnews.com/",
-     "feed_url": "https://www.artnews.com/feed/",
-     "lang": "en",
-     "newest_ts": 1790499600.0,
-     "items": [
-      {
-       "title": "“From Monet and Manet to Money”: A Berlin Museum Spotlights the Dealer Who Made Impressionism an International Sensation",
-       "link": "https://www.artnews.com/art-in-america/aia-reviews/paul-cassirer-berlin-alte-nationalgalerie-impressionism-1234799643/",
-       "summary": "“Cassirer: Breakthrough of Impressionism” is on view at Berlin’s Alte Nationalgalerie.",
-       "published": "2026-09-27T09:00:00Z",
-       "published_ts": 1790499600.0,
-       "source": "ArtNews",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Ai Weiwei Exhibits 500 Cast-Iron Combat Helmets at Australia Museum",
-       "link": "https://www.artnews.com/art-news/news/ai-weiwei-500-cast-iron-combat-helmets-mca-commission-1234799483/",
-       "summary": "The work was inspired by a controversy in which Germany declined to send weapons to Ukraine in 2022.",
-       "published": "2026-09-25T20:22:13Z",
-       "published_ts": 1790367733.0,
-       "source": "ArtNews",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "The Best Booths at Independent 20th Century",
-       "link": "https://www.artnews.com/list/art-news/market/highlights-independent-20th-century-art-fair-1234799390/",
-       "summary": "It’s a big year for Independent 20th Century, Independent contemporary art fair’s more art-historically minded sister.",
-       "published": "2026-09-25T20:19:21Z",
-       "published_ts": 1790367561.0,
-       "source": "ArtNews",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "At 77, Artist Imelda Cajipe Endaya is the First Woman to Receive Top Philippine Honor",
-       "link": "https://www.artnews.com/art-news/news/imelda-cajipe-endaya-wins-top-philippine-art-award-1234799420/",
-       "summary": "The recognition honors Endaya’s more than five decades of pioneering work in feminist and socially engaged art.",
-       "published": "2026-09-25T17:52:26Z",
-       "published_ts": 1790358746.0,
-       "source": "ArtNews",
        "category": "News & Market",
        "mena": true,
        "needs_translation": false
       },
       {
-       "title": "Ancient Wall Found in Paris May Solve Mystery of City’s Origins",
-       "link": "https://www.artnews.com/art-news/news/ancient-wall-paris-lutetia-ile-de-la-cite-1234799497/",
-       "summary": "A 72-foot wall discovered beneath a hospital on the Île de la Cité could help settle a decades-long debate over the location of ancient Lutetia.",
-       "published": "2026-09-25T17:41:40Z",
-       "published_ts": 1790358100.0,
-       "source": "ArtNews",
+       "title": "Ann Temkin Is Stepping Down at MoMA—But She’s Not Retiring",
+       "link": "https://news.artnet.com/art-world/ann-temkin-steps-down-moma-2816944",
+       "summary": "One of the most influential jobs in modern and contemporary art is up for grabs.",
+       "published": "2026-09-28T18:36:42Z",
+       "published_ts": 1790620602.0,
+       "source": "Artnet News",
        "category": "News & Market",
        "mena": false,
        "needs_translation": false
       },
       {
-       "title": "Melania Trump, Peng Liyuan Tour Smithsonian’s National Museum of Asian Art",
-       "link": "https://www.artnews.com/art-news/news/melania-trump-peng-liyuan-tour-national-museum-asian-art-1234799476/",
-       "summary": "The First Ladies visited rooms such as the Peacock Room, where Chinese porcelain take center stage.",
-       "published": "2026-09-25T17:38:46Z",
-       "published_ts": 1790357926.0,
-       "source": "ArtNews",
+       "title": "Mysterious Drawing Identified as Early Manet Work",
+       "link": "https://news.artnet.com/art-world/rediscovered-crouching-child-drawing-manet-2816951",
+       "summary": "The red chalk drawing may have been intended for an unfinished painting.",
+       "published": "2026-09-28T17:02:22Z",
+       "published_ts": 1790614942.0,
+       "source": "Artnet News",
        "category": "News & Market",
        "mena": false,
        "needs_translation": false
       },
       {
-       "title": "Steven Shearer Wins Canada’s $71,000 Audain Prize",
-       "link": "https://www.artnews.com/art-news/news/steven-shearer-audain-prize-1234799461/",
-       "summary": "The annual award is reserved for artists based in British Columbia.",
-       "published": "2026-09-25T17:35:50Z",
-       "published_ts": 1790357750.0,
-       "source": "ArtNews",
+       "title": "7 Must-See Museum Shows in London This Fall",
+       "link": "https://news.artnet.com/art-world/7-museum-shows-london-fall-2026-2806265",
+       "summary": "The city's institutions are teaming with amazing art. These shows are on the top of our list.",
+       "published": "2026-09-28T15:24:56Z",
+       "published_ts": 1790609096.0,
+       "source": "Artnet News",
        "category": "News & Market",
        "mena": false,
        "needs_translation": false
       },
       {
-       "title": "How Good Are Today’s Art Market Darlings, Really? Six New York Gallery Shows Put Them to the Test",
-       "link": "https://www.artnews.com/list/art-news/reviews/new-york-gallery-shows-market-darlings-review-1234799490/",
-       "summary": "With the exception of one exhibition, the picture is not a pretty one.",
-       "published": "2026-09-25T17:34:41Z",
-       "published_ts": 1790357681.0,
-       "source": "ArtNews",
+       "title": "How a French King Turned the Louvre Into an Incubator for Artists",
+       "link": "https://news.artnet.com/art-world/sothebys-art-bites-henry-iv-louvre-copyists-2802376",
+       "summary": "Artists have been working—and even living—inside the iconic museum for over 400 years.",
+       "published": "2026-09-28T14:19:42Z",
+       "published_ts": 1790605182.0,
+       "source": "Artnet News",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Glenn Ligon Lands a Major Survey at the National Gallery",
+       "link": "https://news.artnet.com/artnet-bulletin/glenn-ligon-national-gallery-sept-28-2816810",
+       "summary": "Plus: Pace is subleasing several floors of its Chelsea headquarters, V&A staffers strike, and other art world matters.",
+       "published": "2026-09-28T14:00:50Z",
+       "published_ts": 1790604050.0,
+       "source": "Artnet News",
        "category": "News & Market",
        "mena": false,
        "needs_translation": false
@@ -408,14 +311,36 @@
      "site": "https://ocula.com/magazine/",
      "feed_url": "https://ocula.com/magazine/feed/",
      "lang": "en",
-     "newest_ts": 1790445606.0,
+     "newest_ts": 1790631108.0,
      "items": [
+      {
+       "title": "How the War in Ukraine Has Restricted the Way We See the Country’s Art",
+       "link": "https://ocula.com/magazine/spotlight/ukraine-artists-war-restrictions-internationa/",
+       "summary": "Not all art being made in Ukraine since Russia’s full‑scale invasion is about conflict, but it has become a lens through which many people consider the work of Ukrainian artists.",
+       "published": "2026-09-28T21:31:48Z",
+       "published_ts": 1790631108.0,
+       "source": "Ocula Magazine",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "What Is Inside Fondation Beyeler’s New Peter Zumthor Expansion?",
+       "link": "https://ocula.com/magazine/art-news/inside-fondation-beyeler-new-peter-zumthor-basel/",
+       "summary": "The celebrated Basel‑born architect has designed three new buildings beside Renzo Piano’s existing museum, which open alongside newly unveiled artworks in the grounds by Louise Bourgeois, Pierre Huyghe, Rachel Whiteread and Fujiko Nakaya.",
+       "published": "2026-09-28T04:59:00Z",
+       "published_ts": 1790571540.0,
+       "source": "Ocula Magazine",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
       {
        "title": "‘I Want You to Hear and See More than You Do, Day-to-Day’: Kira Freije’s Sensual Figures",
        "link": "https://ocula.com/magazine/conversations/kira-freije-turner-prize-modern-art-2026/",
        "summary": "Turner Prize 2026 nominee Kira Freije talks about the importance of daylight, Van Gogh’s The Potato Eaters and Elizabeth Bishop.",
-       "published": "2026-09-26T18:00:06Z",
-       "published_ts": 1790445606.0,
+       "published": "2026-09-26T18:00:00Z",
+       "published_ts": 1790445600.0,
        "source": "Ocula Magazine",
        "category": "News & Market",
        "mena": false,
@@ -475,25 +400,100 @@
        "category": "News & Market",
        "mena": false,
        "needs_translation": false
-      },
+      }
+     ]
+    },
+    {
+     "name": "The Art Newspaper",
+     "site": "https://www.theartnewspaper.com/",
+     "feed_url": "https://www.theartnewspaper.com/rss.xml",
+     "lang": "en",
+     "newest_ts": 1790630420.0,
+     "items": [
       {
-       "title": "Steven Shearer, Canadian Artist Whose Face We Rarely See, Wins $100,000 Audain Prize",
-       "link": "https://ocula.com/magazine/art-news/steven-shearer-wins-audain-prize-canada/",
-       "summary": "The artist, whose work blends art‑historical references with youth subcultures, is this year’s recipient of the award that celebrates visual arts achievement in British Columbia.",
-       "published": "2026-09-24T01:06:34Z",
-       "published_ts": 1790211994.0,
-       "source": "Ocula Magazine",
+       "title": "Vancouver Art Gallery makes its interim leaders permanent co-chief executives",
+       "link": "https://www.theartnewspaper.com/2026/09/28/vancouver-art-gallery-co-chief-executives-eva-respini-shirish-rao",
+       "summary": "Eva Respini and Sirish Rao will share chief executive duties, with the former also serving as chief curator while the later takes on the role of executive director",
+       "published": "2026-09-28T21:20:20Z",
+       "published_ts": 1790630420.0,
+       "source": "The Art Newspaper",
        "category": "News & Market",
        "mena": false,
        "needs_translation": false
       },
       {
-       "title": "Museums are Embracing AI, But When Will Policy and Funding Catch Up?",
-       "link": "https://ocula.com/magazine/art-news/museums-ai-policy-funding-report-icom/",
-       "summary": "A joint report from UNESCO and the International Council of Museums has identified a disconnect between institutions’ use of AI and the structures needed support its responsible use.",
-       "published": "2026-09-23T04:00:06Z",
-       "published_ts": 1790136006.0,
-       "source": "Ocula Magazine",
+       "title": "A friend's ode to Jean-Michel Basquiat privileges sound over sight",
+       "link": "https://www.theartnewspaper.com/2026/09/28/in-honor-of-jean-michel-basquiat-roger-guenveur-smith-new-york-theatre-workshop-",
+       "summary": "Roger Guenveur Smith’s one-man show is a syncopated story about his famous artist friend",
+       "published": "2026-09-28T20:16:14Z",
+       "published_ts": 1790626574.0,
+       "source": "The Art Newspaper",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Culture secretary confirms free admission for all at England’s national museums will remain",
+       "link": "https://www.theartnewspaper.com/2026/09/28/free-admission-nationla-museums-england-lisa-nandy-confirmed",
+       "summary": "The announcement by Lisa Nandy, the Secretary of State for Digital, Culture, Media and Sport, came after recent discussions of introducing admission fees for overseas visitors",
+       "published": "2026-09-28T19:51:25Z",
+       "published_ts": 1790625085.0,
+       "source": "The Art Newspaper",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Trump’s Greenland threats become playable arcade game in satiric collective’s latest public art intervention",
+       "link": "https://www.theartnewspaper.com/2026/09/28/secret-handshake-trump-greenland-threats-arcade-game-washington-dc",
+       "summary": "The collective Secret Handshake has installed playable arcade rigs featuring its game “Operation Epic Furious: Nuuk ‘Em All” in Washington, DC, and Nuuk, Greenland",
+       "published": "2026-09-28T18:19:53Z",
+       "published_ts": 1790619593.0,
+       "source": "The Art Newspaper",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Buyer of mysterious $9m Rembrandt painting revealed",
+       "link": "https://www.theartnewspaper.com/2026/09/28/rembrandt-painting-buyer-revealed-leiden-collection-thomas-kaplan",
+       "summary": "Thomas Kaplan’s Leiden Collection acquired St John on Patmos at Sotheby’s, the 18th work by the Dutch master to enter the collection",
+       "published": "2026-09-28T13:00:00Z",
+       "published_ts": 1790600400.0,
+       "source": "The Art Newspaper",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "International designers collaborate with creators from Japan at London's V&A",
+       "link": "https://www.theartnewspaper.com/2026/09/28/international-designers-collaborate-with-creators-from-japan-at-londons-va",
+       "summary": "Exhibition shows the results of artists‘ experiments with Japanese traditions and techniques",
+       "published": "2026-09-28T11:49:26Z",
+       "published_ts": 1790596166.0,
+       "source": "The Art Newspaper",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "New biography reveals the rich life of the ‘studiously self-effacing’ artist Anni Albers",
+       "link": "https://www.theartnewspaper.com/2026/09/28/new-biography-reveals-the-rich-life-of-the-studiously-self-effacing-artist-anni-albers",
+       "summary": "Book showcases the ground-breaking textile works of the artist who, during her lifetime and since, was overlooked in favour of her husband, Josef Albers",
+       "published": "2026-09-28T11:21:10Z",
+       "published_ts": 1790594470.0,
+       "source": "The Art Newspaper",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Chinese opera, queerness and Cantopop star Leslie Cheung: artist Isaac Chong Wai on the inspirations for his new performance",
+       "link": "https://www.theartnewspaper.com/2026/09/28/a-true-homecoming-isaac-chong-wai-on-incorporating-chinese-opera-and-queer-icon-leslie-cheung-into-his-latest-performance",
+       "summary": "The Hong Kong-raised artist, now based in Berlin, recently returned to his home city for a durational live art exhibition at Tai Kwun Contemporary",
+       "published": "2026-09-28T11:15:47Z",
+       "published_ts": 1790594147.0,
+       "source": "The Art Newspaper",
        "category": "News & Market",
        "mena": false,
        "needs_translation": false
@@ -526,8 +526,19 @@
      "site": "https://canvasonline.com/",
      "feed_url": "https://canvasonline.com/feed/",
      "lang": "en",
-     "newest_ts": 1790588297.0,
+     "newest_ts": 1790661134.0,
      "items": [
+      {
+       "title": "New Transportation: Group Show at CCA Tashkent",
+       "link": "https://canvasonline.com/new-transportation-group-show-at-cca-tashkent/?utm_source=rss&utm_medium=rss&utm_campaign=new-transportation-group-show-at-cca-tashkent",
+       "summary": "Tashkent is a city of many incarnations. Once revered as a great medieval centre of...",
+       "published": "2026-09-29T05:52:14Z",
+       "published_ts": 1790661134.0,
+       "source": "Canvas",
+       "category": "MENA Magazines",
+       "mena": false,
+       "needs_translation": false
+      },
       {
        "title": "Colour in a New Light: Bvlgari in Shanghai",
        "link": "https://canvasonline.com/colour-in-a-new-light-bvlgari-in-shanghai/?utm_source=rss&utm_medium=rss&utm_campaign=colour-in-a-new-light-bvlgari-in-shanghai",
@@ -600,17 +611,6 @@
        "summary": "The Diriyah Biennale Foundation has announced the lead curators for the third Islamic Arts Biennale,...",
        "published": "2026-09-17T11:18:37Z",
        "published_ts": 1789643917.0,
-       "source": "Canvas",
-       "category": "MENA Magazines",
-       "mena": true,
-       "needs_translation": false
-      },
-      {
-       "title": "What Lingers: Laila Majid and Inaam Zafar at Sharjah Art Foundation",
-       "link": "https://canvasonline.com/what-lingers-laila-majid-and-inaam-zafar-at-sharjah-art-foundation/?utm_source=rss&utm_medium=rss&utm_campaign=what-lingers-laila-majid-and-inaam-zafar-at-sharjah-art-foundation",
-       "summary": "The chirping of the birds and the calm aura of Sharjah Art Foundation’s courtyards surround Body...",
-       "published": "2026-09-17T06:06:57Z",
-       "published_ts": 1789625217.0,
        "source": "Canvas",
        "category": "MENA Magazines",
        "mena": true,
@@ -794,7 +794,7 @@
      "name": "Persbook Annual of Contemporary Art",
      "site": "https://persbookart.com/",
      "lang": "en",
-     "age_days": 656,
+     "age_days": 657,
      "item": {
       "title": "«من اینجا هستم»ِ تمرینی برای مرکز زدایی | مهدیار جمشیدی و الهام پوریامهر",
       "link": "https://persbookart.com/4015/mahdyarjamshidi/",
@@ -805,14 +805,14 @@
       "category": "Iranian Art",
       "mena": false,
       "needs_translation": true,
-      "age_days": 656
+      "age_days": 657
      }
     },
     {
      "name": "Iranian.com Arts & Culture",
      "site": "https://iranian.com/",
      "lang": "en",
-     "age_days": 1824,
+     "age_days": 1825,
      "item": {
       "title": "We’re back",
       "link": "https://iranian.com/2021/09/29/were-back/",
@@ -823,7 +823,7 @@
       "category": "Iranian Art",
       "mena": true,
       "needs_translation": false,
-      "age_days": 1824
+      "age_days": 1825
      }
     }
    ],
@@ -999,7 +999,7 @@
      "name": "Barjeel Art Foundation",
      "site": "https://www.barjeelartfoundation.org/",
      "lang": "en",
-     "age_days": 201,
+     "age_days": 202,
      "item": {
       "title": "Palestinian Family",
       "link": "https://www.barjeelartfoundation.org/collection/palestinian-family/",
@@ -1010,14 +1010,14 @@
       "category": "Museums & Institutions",
       "mena": true,
       "needs_translation": false,
-      "age_days": 201
+      "age_days": 202
      }
     },
     {
      "name": "Institut du Monde Arabe",
      "site": "https://www.imarabe.org/",
      "lang": "fr",
-     "age_days": 979,
+     "age_days": 980,
      "item": {
       "title": "Étienne Dinet, passions algériennes",
       "link": "http://www.imarabe.org/fr/agenda/expositions-musee/etienne-dinet-passions-algeriennes",
@@ -1028,7 +1028,7 @@
       "category": "Museums & Institutions",
       "mena": true,
       "needs_translation": false,
-      "age_days": 979
+      "age_days": 980
      }
     }
    ],
@@ -1168,7 +1168,7 @@
      "name": "Art Dubai",
      "site": "https://www.artdubai.ae/",
      "lang": "en",
-     "age_days": 1985,
+     "age_days": 1986,
      "item": {
       "title": "Art Dubai 2021 leads the way back to normality",
       "link": "https://www.artdubai.ae/art-dubai-2021-leads-the-way-back-to-normality/",
@@ -1179,7 +1179,7 @@
       "category": "Fairs & Events",
       "mena": true,
       "needs_translation": false,
-      "age_days": 1985
+      "age_days": 1986
      }
     }
    ],
@@ -1285,7 +1285,7 @@
      "name": "AMCA",
      "site": "https://amcainternational.org/",
      "lang": "en",
-     "age_days": 378,
+     "age_days": 379,
      "item": {
       "title": "Call for Submissions: Special Issue of the Getty Research Journal",
       "link": "https://amcainternational.org/call-for-submissions-special-issue-of-the-getty-research-journal/",
@@ -1296,7 +1296,7 @@
       "category": "Foundations, Research & Archives",
       "mena": false,
       "needs_translation": false,
-      "age_days": 378
+      "age_days": 379
      }
     }
    ],
@@ -1428,7 +1428,7 @@
    "category": "MENA Magazines",
    "url": "https://mojeh.com/feed/",
    "stage": "parse",
-   "error": "feed returned zero entries (SAXParseException: <unknown>:2:0: syntax error)"
+   "error": "feed returned zero entries (SAXParseException: <unknown>:2:112: not well-formed (invalid token))"
   },
   {
    "source": "Honar Online",
@@ -1442,7 +1442,7 @@
    "category": "Iranian Art",
    "url": "https://persbookart.com/feed/",
    "stage": "window",
-   "error": "feed OK (10 entries) but nothing published in the last 180 days; newest is 656 days old",
+   "error": "feed OK (10 entries) but nothing published in the last 180 days; newest is 657 days old",
    "severity": "info"
   },
   {
@@ -1450,7 +1450,7 @@
    "category": "Iranian Art",
    "url": "https://iranian.com/feed/",
    "stage": "window",
-   "error": "feed OK (15 entries) but nothing published in the last 180 days; newest is 1824 days old",
+   "error": "feed OK (15 entries) but nothing published in the last 180 days; newest is 1825 days old",
    "severity": "info"
   },
   {
@@ -1458,7 +1458,7 @@
    "category": "Museums & Institutions",
    "url": "https://www.imarabe.org/fr/rss.xml",
    "stage": "window",
-   "error": "feed OK (3 entries) but nothing published in the last 180 days; newest is 979 days old",
+   "error": "feed OK (3 entries) but nothing published in the last 180 days; newest is 980 days old",
    "severity": "info"
   },
   {
@@ -1466,7 +1466,7 @@
    "category": "Museums & Institutions",
    "url": "https://www.barjeelartfoundation.org/feed/",
    "stage": "window",
-   "error": "feed OK (10 entries) but nothing published in the last 180 days; newest is 201 days old",
+   "error": "feed OK (10 entries) but nothing published in the last 180 days; newest is 202 days old",
    "severity": "info"
   },
   {
@@ -1474,7 +1474,7 @@
    "category": "Fairs & Events",
    "url": "https://www.artdubai.ae/feed/",
    "stage": "window",
-   "error": "feed OK (1 entries) but nothing published in the last 180 days; newest is 1985 days old",
+   "error": "feed OK (1 entries) but nothing published in the last 180 days; newest is 1986 days old",
    "severity": "info"
   },
   {
@@ -1482,7 +1482,7 @@
    "category": "Foundations, Research & Archives",
    "url": "https://amcainternational.org/feed/",
    "stage": "window",
-   "error": "feed OK (1 entries) but nothing published in the last 180 days; newest is 378 days old",
+   "error": "feed OK (1 entries) but nothing published in the last 180 days; newest is 379 days old",
    "severity": "info"
   }
  ],
