@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-03T10:17:05.133100Z",
+ "generated_at": "2026-10-04T11:01:06.269553Z",
  "window_days": 180,
  "max_items_per_feed": 8,
  "totals": {
@@ -16,6 +16,103 @@
    "item_count": 40,
    "sources": [
     {
+     "name": "Ocula Magazine",
+     "site": "https://ocula.com/magazine/",
+     "feed_url": "https://ocula.com/magazine/feed/",
+     "lang": "en",
+     "newest_ts": 1791046860.0,
+     "items": [
+      {
+       "title": "‘I Guess I Really Like Dancing’: IW Payne’s Stereotype-Subverting Silhouettes",
+       "link": "https://ocula.com/magazine/conversations/iw-payne-subverting-silhouettes-interview-2026/",
+       "summary": "IW Payne on humour, amplifying female voices, and how today’s politics are reminiscent of the early 20th century.",
+       "published": "2026-10-03T17:01:00Z",
+       "published_ts": 1791046860.0,
+       "source": "Ocula Magazine",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "‘She Invites Us Into Her Game’: Sheila Heti on Sophie Calle",
+       "link": "https://ocula.com/magazine/spotlight/sheila-heti-sophie-calle-turner-contemporary/",
+       "summary": "The French conceptual artist and photographer’s first UK exhibition since 2009 centres on the concept of absence. For Ocula, author Sheila Heti selects her highlights.",
+       "published": "2026-10-01T18:00:00Z",
+       "published_ts": 1790877600.0,
+       "source": "Ocula Magazine",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "What’s Stopping Galleries from Implementing AI?",
+       "link": "https://ocula.com/magazine/art-news/galleries-implementing-ai-artlogic-report-2026/",
+       "summary": "A survey of more than 500 galleries shows that there’s still work to be done to improve the industry’s trust in AI. While some are piloting the tech, others fear it undermines human judgement or is unethical to artists.",
+       "published": "2026-10-01T02:46:24Z",
+       "published_ts": 1790822784.0,
+       "source": "Ocula Magazine",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "European Museums Join Forces to Highlight Women’s Role in Art and History",
+       "link": "https://ocula.com/magazine/art-news/european-museums-highlight-women-artists-history/",
+       "summary": "Amsterdam’s Rijksmuseum and the Museo Nacional del Prado in Madrid’s new research partnership will include a fellowship programme and an exhibition planned for 2029.",
+       "published": "2026-10-01T02:11:17Z",
+       "published_ts": 1790820677.0,
+       "source": "Ocula Magazine",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Artist-Run Cinema in Yogyakarta Will Quench ‘Thirst’ For Non-Mainstream Films",
+       "link": "https://ocula.com/magazine/art-news/artist-run-cinema-otonomia-bioskop-yogyakarta/",
+       "summary": "A new independent cinema and moving‑image art centre in the Indonesian city is planned for 2029. Ocula’s Zian Chen spoke to its founders about how they will plug the gap between multiplexes and a thriving community arts scene.",
+       "published": "2026-10-01T01:10:00Z",
+       "published_ts": 1790817000.0,
+       "source": "Ocula Magazine",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "The Exhibitions to See Around the World in October",
+       "link": "https://ocula.com/magazine/spotlight/exhibitions-not-to-miss-in-october-2026/",
+       "summary": "Queer nightlife on the US‑Mexican border; the Congolese biennale; a stop at a former Paris station to see the works of a Praemium Imperiale laureate. Here are the exhibitions not to miss during October.",
+       "published": "2026-10-01T00:02:00Z",
+       "published_ts": 1790812920.0,
+       "source": "Ocula Magazine",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Van Gogh and Cézanne Works Unseen for 50 Years Lead Sotheby’s November Sales in New York",
+       "link": "https://ocula.com/magazine/art-news/van-gogh-cezanne-sothebys-newyork-auctions/",
+       "summary": "The sale of a private Argentinian collection will act as a barometer of the depth and strength of the market, a Sotheby’s chairman tells Ocula.",
+       "published": "2026-09-29T20:00:06Z",
+       "published_ts": 1790712006.0,
+       "source": "Ocula Magazine",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Free Entry Policy Has Boosted UK National Museum Visits by 96 Percent",
+       "link": "https://ocula.com/magazine/art-news/free-entry-policy-boosted-uk-national-museums-2026/",
+       "summary": "Over the 25 years that the UK’s 15 national museums have been free to enter, annual visits have risen to almost 45 million. This week, the government announced the continuation of the policy, while international visitors will not be charged, either.",
+       "published": "2026-09-29T01:48:19Z",
+       "published_ts": 1790646499.0,
+       "source": "Ocula Magazine",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      }
+     ]
+    },
+    {
      "name": "Hyperallergic",
      "site": "https://hyperallergic.com/",
      "feed_url": "https://hyperallergic.com/feed/",
@@ -25,7 +122,7 @@
       {
        "title": "Between Worlds",
        "link": "https://hyperallergic.com/between-worlds/",
-       "summary": "Arthur Jaffa at the New Museum, Teresa Margolles at MoMA PS1, the story of an unsung Black architect, and our art tarotscope for the fall.",
+       "summary": "Arthur Jafa at the New Museum, Teresa Margolles at MoMA PS1, the story of an unsung Black architect, and our art tarotscope for the fall.",
        "published": "2026-10-03T10:00:53Z",
        "published_ts": 1791021653.0,
        "source": "Hyperallergic",
@@ -402,103 +499,6 @@
        "needs_translation": false
       }
      ]
-    },
-    {
-     "name": "Ocula Magazine",
-     "site": "https://ocula.com/magazine/",
-     "feed_url": "https://ocula.com/magazine/feed/",
-     "lang": "en",
-     "newest_ts": 1790877600.0,
-     "items": [
-      {
-       "title": "‘She Invites Us Into Her Game’: Sheila Heti on Sophie Calle",
-       "link": "https://ocula.com/magazine/spotlight/sheila-heti-sophie-calle-turner-contemporary/",
-       "summary": "The French conceptual artist and photographer’s first UK exhibition since 2009 centres on the concept of absence. For Ocula, author Sheila Heti selects her highlights.",
-       "published": "2026-10-01T18:00:00Z",
-       "published_ts": 1790877600.0,
-       "source": "Ocula Magazine",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "What’s Stopping Galleries from Implementing AI?",
-       "link": "https://ocula.com/magazine/art-news/galleries-implementing-ai-artlogic-report-2026/",
-       "summary": "A survey of more than 500 galleries shows that there’s still work to be done to improve the industry’s trust in AI. While some are piloting the tech, others fear it undermines human judgement or is unethical to artists.",
-       "published": "2026-10-01T02:46:24Z",
-       "published_ts": 1790822784.0,
-       "source": "Ocula Magazine",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "European Museums Join Forces to Highlight Women’s Role in Art and History",
-       "link": "https://ocula.com/magazine/art-news/european-museums-highlight-women-artists-history/",
-       "summary": "Amsterdam’s Rijksmuseum and the Museo Nacional del Prado in Madrid’s new research partnership will include a fellowship programme and an exhibition planned for 2029.",
-       "published": "2026-10-01T02:11:17Z",
-       "published_ts": 1790820677.0,
-       "source": "Ocula Magazine",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Artist-Run Cinema in Yogyakarta Will Quench ‘Thirst’ For Non-Mainstream Films",
-       "link": "https://ocula.com/magazine/art-news/artist-run-cinema-otonomia-bioskop-yogyakarta/",
-       "summary": "A new independent cinema and moving‑image art centre in the Indonesian city is planned for 2029. Ocula’s Zian Chen spoke to its founders about how they will plug the gap between multiplexes and a thriving community arts scene.",
-       "published": "2026-10-01T01:10:00Z",
-       "published_ts": 1790817000.0,
-       "source": "Ocula Magazine",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "The Exhibitions to See Around the World in October",
-       "link": "https://ocula.com/magazine/spotlight/exhibitions-not-to-miss-in-october-2026/",
-       "summary": "Queer nightlife on the US‑Mexican border; the Congolese biennale; a stop at a former Paris station to see the works of a Praemium Imperiale laureate. Here are the exhibitions not to miss during October.",
-       "published": "2026-10-01T00:02:00Z",
-       "published_ts": 1790812920.0,
-       "source": "Ocula Magazine",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Van Gogh and Cézanne Works Unseen for 50 Years Lead Sotheby’s November Sales in New York",
-       "link": "https://ocula.com/magazine/art-news/van-gogh-cezanne-sothebys-newyork-auctions/",
-       "summary": "The sale of a private Argentinian collection will act as a barometer of the depth and strength of the market, a Sotheby’s chairman tells Ocula.",
-       "published": "2026-09-29T20:00:06Z",
-       "published_ts": 1790712006.0,
-       "source": "Ocula Magazine",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Free Entry Policy Has Boosted UK National Museum Visits by 96 Percent",
-       "link": "https://ocula.com/magazine/art-news/free-entry-policy-boosted-uk-national-museums-2026/",
-       "summary": "Over the 25 years that the UK’s 15 national museums have been free to enter, annual visits have risen to almost 45 million. This week, the government announced the continuation of the policy, while international visitors will not be charged, either.",
-       "published": "2026-09-29T01:48:19Z",
-       "published_ts": 1790646499.0,
-       "source": "Ocula Magazine",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Kehinde Wiley Wants to Buy Back His Own Painting After Trump Administration Deemed It Too ‘Woke’",
-       "link": "https://ocula.com/magazine/art-news/kehinde-wiley-buy-back-his-own-painting-trump-2026/",
-       "summary": "The US State Department is looking to sell the work after it was removed from its embassy in the Dominican Republic.",
-       "published": "2026-09-29T01:07:47Z",
-       "published_ts": 1790644067.0,
-       "source": "Ocula Magazine",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      }
-     ]
     }
    ],
    "quiet_sources": [],
@@ -794,7 +794,7 @@
      "name": "Persbook Annual of Contemporary Art",
      "site": "https://persbookart.com/",
      "lang": "en",
-     "age_days": 661,
+     "age_days": 662,
      "item": {
       "title": "«من اینجا هستم»ِ تمرینی برای مرکز زدایی | مهدیار جمشیدی و الهام پوریامهر",
       "link": "https://persbookart.com/4015/mahdyarjamshidi/",
@@ -805,14 +805,14 @@
       "category": "Iranian Art",
       "mena": false,
       "needs_translation": true,
-      "age_days": 661
+      "age_days": 662
      }
     },
     {
      "name": "Iranian.com Arts & Culture",
      "site": "https://iranian.com/",
      "lang": "en",
-     "age_days": 1829,
+     "age_days": 1830,
      "item": {
       "title": "We’re back",
       "link": "https://iranian.com/2021/09/29/were-back/",
@@ -823,7 +823,7 @@
       "category": "Iranian Art",
       "mena": true,
       "needs_translation": false,
-      "age_days": 1829
+      "age_days": 1830
      }
     }
    ],
@@ -999,7 +999,7 @@
      "name": "Barjeel Art Foundation",
      "site": "https://www.barjeelartfoundation.org/",
      "lang": "en",
-     "age_days": 206,
+     "age_days": 207,
      "item": {
       "title": "Palestinian Family",
       "link": "https://www.barjeelartfoundation.org/collection/palestinian-family/",
@@ -1010,14 +1010,14 @@
       "category": "Museums & Institutions",
       "mena": true,
       "needs_translation": false,
-      "age_days": 206
+      "age_days": 207
      }
     },
     {
      "name": "Institut du Monde Arabe",
      "site": "https://www.imarabe.org/",
      "lang": "fr",
-     "age_days": 984,
+     "age_days": 985,
      "item": {
       "title": "Étienne Dinet, passions algériennes",
       "link": "http://www.imarabe.org/fr/agenda/expositions-musee/etienne-dinet-passions-algeriennes",
@@ -1028,7 +1028,7 @@
       "category": "Museums & Institutions",
       "mena": true,
       "needs_translation": false,
-      "age_days": 984
+      "age_days": 985
      }
     }
    ],
@@ -1168,7 +1168,7 @@
      "name": "Art Dubai",
      "site": "https://www.artdubai.ae/",
      "lang": "en",
-     "age_days": 1990,
+     "age_days": 1991,
      "item": {
       "title": "Art Dubai 2021 leads the way back to normality",
       "link": "https://www.artdubai.ae/art-dubai-2021-leads-the-way-back-to-normality/",
@@ -1179,7 +1179,7 @@
       "category": "Fairs & Events",
       "mena": true,
       "needs_translation": false,
-      "age_days": 1990
+      "age_days": 1991
      }
     }
    ],
@@ -1285,7 +1285,7 @@
      "name": "AMCA",
      "site": "https://amcainternational.org/",
      "lang": "en",
-     "age_days": 383,
+     "age_days": 384,
      "item": {
       "title": "Call for Submissions: Special Issue of the Getty Research Journal",
       "link": "https://amcainternational.org/call-for-submissions-special-issue-of-the-getty-research-journal/",
@@ -1296,7 +1296,7 @@
       "category": "Foundations, Research & Archives",
       "mena": false,
       "needs_translation": false,
-      "age_days": 383
+      "age_days": 384
      }
     }
    ],
@@ -1420,15 +1420,15 @@
    "source": "The Markaz Review",
    "category": "MENA Magazines",
    "url": "https://themarkaz.org/feed/",
-   "stage": "parse",
-   "error": "feed returned zero entries (SAXParseException: <unknown>:2:0: syntax error)"
+   "stage": "fetch",
+   "error": "HTTP 429 Too Many Requests"
   },
   {
    "source": "MOJEH",
    "category": "MENA Magazines",
    "url": "https://mojeh.com/feed/",
    "stage": "parse",
-   "error": "feed returned zero entries (SAXParseException: <unknown>:2:0: syntax error)"
+   "error": "feed returned zero entries (SAXParseException: <unknown>:2:112: not well-formed (invalid token))"
   },
   {
    "source": "Honar Online",
@@ -1442,7 +1442,7 @@
    "category": "Iranian Art",
    "url": "https://persbookart.com/feed/",
    "stage": "window",
-   "error": "feed OK (10 entries) but nothing published in the last 180 days; newest is 661 days old",
+   "error": "feed OK (10 entries) but nothing published in the last 180 days; newest is 662 days old",
    "severity": "info"
   },
   {
@@ -1450,7 +1450,7 @@
    "category": "Iranian Art",
    "url": "https://iranian.com/feed/",
    "stage": "window",
-   "error": "feed OK (15 entries) but nothing published in the last 180 days; newest is 1829 days old",
+   "error": "feed OK (15 entries) but nothing published in the last 180 days; newest is 1830 days old",
    "severity": "info"
   },
   {
@@ -1458,7 +1458,7 @@
    "category": "Museums & Institutions",
    "url": "https://www.imarabe.org/fr/rss.xml",
    "stage": "window",
-   "error": "feed OK (3 entries) but nothing published in the last 180 days; newest is 984 days old",
+   "error": "feed OK (3 entries) but nothing published in the last 180 days; newest is 985 days old",
    "severity": "info"
   },
   {
@@ -1466,7 +1466,7 @@
    "category": "Museums & Institutions",
    "url": "https://www.barjeelartfoundation.org/feed/",
    "stage": "window",
-   "error": "feed OK (10 entries) but nothing published in the last 180 days; newest is 206 days old",
+   "error": "feed OK (10 entries) but nothing published in the last 180 days; newest is 207 days old",
    "severity": "info"
   },
   {
@@ -1474,7 +1474,7 @@
    "category": "Fairs & Events",
    "url": "https://www.artdubai.ae/feed/",
    "stage": "window",
-   "error": "feed OK (1 entries) but nothing published in the last 180 days; newest is 1990 days old",
+   "error": "feed OK (1 entries) but nothing published in the last 180 days; newest is 1991 days old",
    "severity": "info"
   },
   {
@@ -1482,7 +1482,7 @@
    "category": "Foundations, Research & Archives",
    "url": "https://amcainternational.org/feed/",
    "stage": "window",
-   "error": "feed OK (1 entries) but nothing published in the last 180 days; newest is 383 days old",
+   "error": "feed OK (1 entries) but nothing published in the last 180 days; newest is 384 days old",
    "severity": "info"
   }
  ],
