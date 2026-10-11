@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-10T11:02:01.120041Z",
+ "generated_at": "2026-10-11T11:19:00.184164Z",
  "window_days": 180,
  "max_items_per_feed": 8,
  "totals": {
@@ -8,13 +8,110 @@
   "feeds_failed": 3,
   "feeds_quiet": 5,
   "manual_sources": 42,
-  "items": 77
+  "items": 75
  },
  "categories": [
   {
    "name": "News & Market",
    "item_count": 40,
    "sources": [
+    {
+     "name": "Ocula Magazine",
+     "site": "https://ocula.com/magazine/",
+     "feed_url": "https://ocula.com/magazine/feed/",
+     "lang": "en",
+     "newest_ts": 1791655206.0,
+     "items": [
+      {
+       "title": "‘I Like That Memory Is Slightly Dishonest’: Rafik Greiss’ In-Between States",
+       "link": "https://ocula.com/magazine/conversations/rafik-greiss-berlin-memory-kw/",
+       "summary": "The Egyptian artist on childhood memory, the importance of delay and the China Miéville novel behind his newest film.",
+       "published": "2026-10-10T18:00:06Z",
+       "published_ts": 1791655206.0,
+       "source": "Ocula Magazine",
+       "category": "News & Market",
+       "mena": true,
+       "needs_translation": false
+      },
+      {
+       "title": "Making Sense: Leiko Ikemura Pushes Visual Art Beyond Sight Alone",
+       "link": "https://ocula.com/magazine/partnerships/chaos-leiko-ikemura-cfa-berlin-interview-2026/",
+       "summary": "The Japanese‑Swiss artist’s exhibition at Contemporary Fine Arts in Berlin considers life cycles, the portrayal of women in art and the many ways visual artworks can stimulate the senses.",
+       "published": "2026-10-09T01:44:00Z",
+       "published_ts": 1791510240.0,
+       "source": "Ocula Magazine",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Forbidden Fruit: Tom of Finland and Pornhub Partner for Show on Censorship",
+       "link": "https://ocula.com/magazine/art-news/tom-of-finland-pornhub-paris-exhibition/",
+       "summary": "The adult video platform has teamed up with the Tom of Finland Foundation for a new exhibition examining how people have found ways to access censored art and erotic images.",
+       "published": "2026-10-09T00:42:54Z",
+       "published_ts": 1791506574.0,
+       "source": "Ocula Magazine",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Move Over, Mum and Dad: Gen Z Collectors Are Outspending Their Parents",
+       "link": "https://ocula.com/magazine/art-news/gen-z-collectors-outspending-parents-art-basel-ubs/",
+       "summary": "The latest Art Basel and UBS Survey of Global Collecting reveals that Gen Z collectors are spending more than older generations, and that AI tools are increasingly being seen as a credible source of advice when selecting potential art purchases.",
+       "published": "2026-10-08T02:31:00Z",
+       "published_ts": 1791426660.0,
+       "source": "Ocula Magazine",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "The Radical Japanese Women Artists Who Shaped Global Modernism",
+       "link": "https://ocula.com/magazine/spotlight/kaiho-japanese-women-artists-mudam-2026/",
+       "summary": "Much changed in Japan after World War II, including the growth of the technology sector and an improvement in women’s rights. An exhibition of work by Japanese women artists offers a new perspective on the era.",
+       "published": "2026-10-07T23:58:00Z",
+       "published_ts": 1791417480.0,
+       "source": "Ocula Magazine",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "New AI Tool Reveals Galleries’ Gender Balance",
+       "link": "https://ocula.com/magazine/art-news/new-ai-tool-reveals-galleries-gender-balance/",
+       "summary": "The app’s founder believes that struggling galleries could boost their fortunes by supporting women artists and attracting female collectors.",
+       "published": "2026-10-07T01:15:00Z",
+       "published_ts": 1791335700.0,
+       "source": "Ocula Magazine",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "The Promises Auction Houses Make to Secure Major Consignments",
+       "link": "https://ocula.com/magazine/opinion/promises-auction-houses-secure-consignments/",
+       "summary": "Blockbuster estate sales have invigorated the art market. But can auction houses maintain the momentum and keep acquiring these mega‑consignments, and what does this pattern mean for the rest of the art world? Phin Jennings investigates.",
+       "published": "2026-10-06T03:26:00Z",
+       "published_ts": 1791257160.0,
+       "source": "Ocula Magazine",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Remembering Ally Van Tillo, Founder of the UK AIDS Memorial Quilt",
+       "link": "https://ocula.com/magazine/spotlight/remembering-ally-van-tillo-uk-aids-quilt-2026/",
+       "summary": "Following the death of Van Tillo, who spearheaded the UK AIDS Memorial Quilt project, Jack Parlett looks back at his life and work, and the visual and cultural significance of the Quilt.",
+       "published": "2026-10-05T00:03:00Z",
+       "published_ts": 1791158580.0,
+       "source": "Ocula Magazine",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      }
+     ]
+    },
     {
      "name": "Hyperallergic",
      "site": "https://hyperallergic.com/",
@@ -402,103 +499,6 @@
        "needs_translation": false
       }
      ]
-    },
-    {
-     "name": "Ocula Magazine",
-     "site": "https://ocula.com/magazine/",
-     "feed_url": "https://ocula.com/magazine/feed/",
-     "lang": "en",
-     "newest_ts": 1791510240.0,
-     "items": [
-      {
-       "title": "Making Sense: Leiko Ikemura Pushes Visual Art Beyond Sight Alone",
-       "link": "https://ocula.com/magazine/partnerships/chaos-leiko-ikemura-cfa-berlin-interview-2026/",
-       "summary": "The Japanese‑Swiss artist’s exhibition at Contemporary Fine Arts in Berlin considers life cycles, the portrayal of women in art and the many ways visual artworks can stimulate the senses.",
-       "published": "2026-10-09T01:44:00Z",
-       "published_ts": 1791510240.0,
-       "source": "Ocula Magazine",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Forbidden Fruit: Tom of Finland and Pornhub Partner for Show on Censorship",
-       "link": "https://ocula.com/magazine/art-news/tom-of-finland-pornhub-paris-exhibition/",
-       "summary": "The adult video platform has teamed up with the Tom of Finland Foundation for a new exhibition examining how people have found ways to access censored art and erotic images.",
-       "published": "2026-10-09T00:42:54Z",
-       "published_ts": 1791506574.0,
-       "source": "Ocula Magazine",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Move Over, Mum and Dad: Gen Z Collectors Are Outspending Their Parents",
-       "link": "https://ocula.com/magazine/art-news/gen-z-collectors-outspending-parents-art-basel-ubs/",
-       "summary": "The latest Art Basel and UBS Survey of Global Collecting reveals that Gen Z collectors are spending more than older generations, and that AI tools are increasingly being seen as a credible source of advice when selecting potential art purchases.",
-       "published": "2026-10-08T02:31:00Z",
-       "published_ts": 1791426660.0,
-       "source": "Ocula Magazine",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "The Radical Japanese Women Artists Who Shaped Global Modernism",
-       "link": "https://ocula.com/magazine/spotlight/kaiho-japanese-women-artists-mudam-2026/",
-       "summary": "Much changed in Japan after World War II, including the growth of the technology sector and an improvement in women’s rights. An exhibition of work by Japanese women artists offers a new perspective on the era.",
-       "published": "2026-10-07T23:58:00Z",
-       "published_ts": 1791417480.0,
-       "source": "Ocula Magazine",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "New AI Tool Reveals Galleries’ Gender Balance",
-       "link": "https://ocula.com/magazine/art-news/new-ai-tool-reveals-galleries-gender-balance/",
-       "summary": "The app’s founder believes that struggling galleries could boost their fortunes by supporting women artists and attracting female collectors.",
-       "published": "2026-10-07T01:15:00Z",
-       "published_ts": 1791335700.0,
-       "source": "Ocula Magazine",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "The Promises Auction Houses Make to Secure Major Consignments",
-       "link": "https://ocula.com/magazine/opinion/promises-auction-houses-secure-consignments/",
-       "summary": "Blockbuster estate sales have invigorated the art market. But can auction houses maintain the momentum and keep acquiring these mega‑consignments, and what does this pattern mean for the rest of the art world? Phin Jennings investigates.",
-       "published": "2026-10-06T03:26:00Z",
-       "published_ts": 1791257160.0,
-       "source": "Ocula Magazine",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Remembering Ally Van Tillo, Founder of the UK AIDS Memorial Quilt",
-       "link": "https://ocula.com/magazine/spotlight/remembering-ally-van-tillo-uk-aids-quilt-2026/",
-       "summary": "Following the death of Van Tillo, who spearheaded the UK AIDS Memorial Quilt project, Jack Parlett looks back at his life and work, and the visual and cultural significance of the Quilt.",
-       "published": "2026-10-05T00:03:00Z",
-       "published_ts": 1791158580.0,
-       "source": "Ocula Magazine",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "‘I Guess I Really Like Dancing’: IW Payne’s Stereotype-Subverting Silhouettes",
-       "link": "https://ocula.com/magazine/conversations/iw-payne-subverting-silhouettes-interview-2026/",
-       "summary": "IW Payne on humour, amplifying female voices, and how today’s politics are reminiscent of the early 20th century.",
-       "published": "2026-10-03T17:01:00Z",
-       "published_ts": 1791046860.0,
-       "source": "Ocula Magazine",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      }
-     ]
     }
    ],
    "quiet_sources": [],
@@ -794,7 +794,7 @@
      "name": "Persbook Annual of Contemporary Art",
      "site": "https://persbookart.com/",
      "lang": "en",
-     "age_days": 668,
+     "age_days": 669,
      "item": {
       "title": "«من اینجا هستم»ِ تمرینی برای مرکز زدایی | مهدیار جمشیدی و الهام پوریامهر",
       "link": "https://persbookart.com/4015/mahdyarjamshidi/",
@@ -805,14 +805,14 @@
       "category": "Iranian Art",
       "mena": false,
       "needs_translation": true,
-      "age_days": 668
+      "age_days": 669
      }
     },
     {
      "name": "Iranian.com Arts & Culture",
      "site": "https://iranian.com/",
      "lang": "en",
-     "age_days": 1836,
+     "age_days": 1837,
      "item": {
       "title": "We’re back",
       "link": "https://iranian.com/2021/09/29/were-back/",
@@ -823,7 +823,7 @@
       "category": "Iranian Art",
       "mena": true,
       "needs_translation": false,
-      "age_days": 1836
+      "age_days": 1837
      }
     }
    ],
@@ -856,7 +856,7 @@
   },
   {
    "name": "North African Art",
-   "item_count": 5,
+   "item_count": 3,
    "sources": [
     {
      "name": "Kamel Lazaar Foundation",
@@ -871,28 +871,6 @@
        "summary": "Where Memory Takes Place",
        "published": "2026-06-17T14:25:17Z",
        "published_ts": 1781706317.0,
-       "source": "Kamel Lazaar Foundation",
-       "category": "North African Art",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "I Hear the Old Sound of The World’s Future",
-       "link": "https://www.kamellazaarfoundation.org/node/2775",
-       "summary": "I Hear the Old Sound of The World’s Future",
-       "published": "2026-04-14T09:57:29Z",
-       "published_ts": 1776160649.0,
-       "source": "Kamel Lazaar Foundation",
-       "category": "North African Art",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "I HEAR THE OLD SOUND OF THE WORLD'S FUTURE",
-       "link": "https://www.kamellazaarfoundation.org/exhibtion/i-hear-old-sound-worlds-future",
-       "summary": "I HEAR THE OLD SOUND OF THE WORLD'S FUTURE",
-       "published": "2026-04-14T09:51:48Z",
-       "published_ts": 1776160308.0,
        "source": "Kamel Lazaar Foundation",
        "category": "North African Art",
        "mena": false,
@@ -999,7 +977,7 @@
      "name": "Barjeel Art Foundation",
      "site": "https://www.barjeelartfoundation.org/",
      "lang": "en",
-     "age_days": 213,
+     "age_days": 214,
      "item": {
       "title": "Palestinian Family",
       "link": "https://www.barjeelartfoundation.org/collection/palestinian-family/",
@@ -1010,14 +988,14 @@
       "category": "Museums & Institutions",
       "mena": true,
       "needs_translation": false,
-      "age_days": 213
+      "age_days": 214
      }
     },
     {
      "name": "Institut du Monde Arabe",
      "site": "https://www.imarabe.org/",
      "lang": "fr",
-     "age_days": 991,
+     "age_days": 992,
      "item": {
       "title": "Étienne Dinet, passions algériennes",
       "link": "https://www.imarabe.org/fr/agenda/expositions-musee/etienne-dinet-passions-algeriennes",
@@ -1028,7 +1006,7 @@
       "category": "Museums & Institutions",
       "mena": true,
       "needs_translation": false,
-      "age_days": 991
+      "age_days": 992
      }
     }
    ],
@@ -1168,7 +1146,7 @@
      "name": "Art Dubai",
      "site": "https://www.artdubai.ae/",
      "lang": "en",
-     "age_days": 1997,
+     "age_days": 1998,
      "item": {
       "title": "Art Dubai 2021 leads the way back to normality",
       "link": "https://www.artdubai.ae/art-dubai-2021-leads-the-way-back-to-normality/",
@@ -1179,7 +1157,7 @@
       "category": "Fairs & Events",
       "mena": true,
       "needs_translation": false,
-      "age_days": 1997
+      "age_days": 1998
      }
     }
    ],
@@ -1432,7 +1410,7 @@
    "category": "Iranian Art",
    "url": "https://persbookart.com/feed/",
    "stage": "window",
-   "error": "feed OK (10 entries) but nothing published in the last 180 days; newest is 668 days old",
+   "error": "feed OK (10 entries) but nothing published in the last 180 days; newest is 669 days old",
    "severity": "info"
   },
   {
@@ -1440,7 +1418,7 @@
    "category": "Iranian Art",
    "url": "https://iranian.com/feed/",
    "stage": "window",
-   "error": "feed OK (15 entries) but nothing published in the last 180 days; newest is 1836 days old",
+   "error": "feed OK (15 entries) but nothing published in the last 180 days; newest is 1837 days old",
    "severity": "info"
   },
   {
@@ -1448,7 +1426,7 @@
    "category": "Museums & Institutions",
    "url": "https://www.imarabe.org/fr/rss.xml",
    "stage": "window",
-   "error": "feed OK (3 entries) but nothing published in the last 180 days; newest is 991 days old",
+   "error": "feed OK (3 entries) but nothing published in the last 180 days; newest is 992 days old",
    "severity": "info"
   },
   {
@@ -1456,7 +1434,7 @@
    "category": "Museums & Institutions",
    "url": "https://www.barjeelartfoundation.org/feed/",
    "stage": "window",
-   "error": "feed OK (10 entries) but nothing published in the last 180 days; newest is 213 days old",
+   "error": "feed OK (10 entries) but nothing published in the last 180 days; newest is 214 days old",
    "severity": "info"
   },
   {
@@ -1464,7 +1442,7 @@
    "category": "Fairs & Events",
    "url": "https://www.artdubai.ae/feed/",
    "stage": "window",
-   "error": "feed OK (1 entries) but nothing published in the last 180 days; newest is 1997 days old",
+   "error": "feed OK (1 entries) but nothing published in the last 180 days; newest is 1998 days old",
    "severity": "info"
   }
  ],
@@ -1557,7 +1535,7 @@
    "source": "Kamel Lazaar Foundation",
    "category": "North African Art",
    "fetched": 10,
-   "kept": 3
+   "kept": 1
   },
   {
    "source": "Institut du Monde Arabe",
