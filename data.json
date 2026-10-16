@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-15T09:41:25.743757Z",
+ "generated_at": "2026-10-16T09:35:06.115903Z",
  "window_days": 180,
  "max_items_per_feed": 8,
  "totals": {
@@ -20,189 +20,92 @@
      "site": "https://www.theartnewspaper.com/",
      "feed_url": "https://www.theartnewspaper.com/rss.xml",
      "lang": "en",
-     "newest_ts": 1792056426.0,
+     "newest_ts": 1792133031.0,
      "items": [
       {
-       "title": "Okiki Akinfe wins inaugural £30,000 emerging artist prize at Frieze London",
-       "link": "https://www.theartnewspaper.com/2026/10/15/okiki-akinfe-wins-inaugural-£30000-emerging-artist-prize-at-frieze-london",
-       "summary": "The Dasha Shenkman Focus Fund joins longstanding fair awards from Tate, Frieze, the Arts Council and others",
-       "published": "2026-10-15T09:27:06Z",
-       "published_ts": 1792056426.0,
+       "title": "'I’ve learnt I can enjoy a work without having to acquire it': Dasha Shenkman on her approach to art collecting",
+       "link": "https://www.theartnewspaper.com/2026/10/16/ive-learnt-that-i-cant-buy-everything-i-like-dasha-shenkman-on-her-approach-to-art-collecting",
+       "summary": "The UK-based collector tells us about her new Focus Fund supporting young artists at Frieze, buying a Jean Arp in instalments and her love of Fra Angelico’s frescoes",
+       "published": "2026-10-16T06:43:51Z",
+       "published_ts": 1792133031.0,
        "source": "The Art Newspaper",
        "category": "News & Market",
        "mena": false,
        "needs_translation": false
       },
       {
-       "title": "Artists impacted by Stephen Friedman gallery closure out in force at Frieze London",
-       "link": "https://www.theartnewspaper.com/2026/10/15/artists-impacted-by-stephen-friedman-gallery-closure-out-in-force-at-frieze-london",
-       "summary": "After the gallery’s shock collapse, many of its artists are present at the fair under different representation",
-       "published": "2026-10-15T09:13:24Z",
-       "published_ts": 1792055604.0,
+       "title": "Slow down and look: the simple complexity of Robert Ryman is revealed in Barbican exhibition",
+       "link": "https://www.theartnewspaper.com/2026/10/16/slow-down-and-look-the-simple-complexity-of-robert-ryman-is-revealed-in-barbican-exhibition",
+       "summary": "For the late American artist, whose Barbican show is his first in the UK for over three decades, the space in which a painting sat mattered as much as the work itself",
+       "published": "2026-10-16T06:40:45Z",
+       "published_ts": 1792132845.0,
        "source": "The Art Newspaper",
        "category": "News & Market",
        "mena": false,
        "needs_translation": false
       },
       {
-       "title": "At Frieze London, some buyers are taking risks—others are taking their time",
-       "link": "https://www.theartnewspaper.com/2026/10/15/frieze-london-buyers-taking-risks-others-are-taking-their-time",
-       "summary": "The fair is adapting to changing buying patterns, but it seems to be paying off for galleries offering radical works",
-       "published": "2026-10-15T09:05:02Z",
-       "published_ts": 1792055102.0,
+       "title": "‘Even an ugly thistle can be so beautiful’: painter Sabine Moritz on how nature informs her work",
+       "link": "https://www.theartnewspaper.com/2026/10/16/painter-sabine-moritz-on-how-nature-informs-her-work",
+       "summary": "The German artist’s first major UK institutional show, at London’s Garden Museum, includes works that span 30 years",
+       "published": "2026-10-16T06:32:23Z",
+       "published_ts": 1792132343.0,
        "source": "The Art Newspaper",
        "category": "News & Market",
        "mena": false,
        "needs_translation": false
       },
       {
-       "title": "Frieze London Diary: pirate-turned-artist Johnny Depp heads to London, an authentic Boer war experience and fake news at the fair",
-       "link": "https://www.theartnewspaper.com/2026/10/15/frieze-london-diary-pirate-turned-artist-johnny-depp-heads-to-london-an-authentic-boer-war-experience-and-fake-news-at-the-fair",
-       "summary": "Plus, artist recreates his parent's home as a fair stand and just what London needs: more pigeons and graffiti",
-       "published": "2026-10-15T08:49:48Z",
-       "published_ts": 1792054188.0,
+       "title": "In pictures: our pick of London’s Minor Attractions fair",
+       "link": "https://www.theartnewspaper.com/2026/10/16/in-pictures-our-pick-of-londons-minor-attractions-fair",
+       "summary": "We check into Frieze week's \"transgressive\" art destination in Fitzrovia's Newman hotel",
+       "published": "2026-10-16T06:31:43Z",
+       "published_ts": 1792132303.0,
        "source": "The Art Newspaper",
        "category": "News & Market",
        "mena": false,
        "needs_translation": false
       },
       {
-       "title": "New documentary celebrates women pioneers in performance art",
-       "link": "https://www.theartnewspaper.com/2026/10/14/womans-building-performance-art-documentary-acting-like-women",
-       "summary": "‘Acting Like Women’ is a deep dive into Los Angeles art and activism of the 1970s and 80s",
-       "published": "2026-10-15T01:17:56Z",
-       "published_ts": 1792027076.0,
+       "title": "At museums across London, Old Masters cuddle up to the contemporary—what makes this curatorial approach so appealing?",
+       "link": "https://www.theartnewspaper.com/2026/10/16/at-museums-across-london-old-masters-cuddle-up-to-the-contemporarywhat-makes-this-curatorial-approach-so-appealing",
+       "summary": "From the National Gallery to the Wallace Collection, a wave of museum shows suggests the intergenerational hang is here to stay, despite lingering reservations",
+       "published": "2026-10-16T06:24:57Z",
+       "published_ts": 1792131897.0,
        "source": "The Art Newspaper",
        "category": "News & Market",
        "mena": false,
        "needs_translation": false
       },
       {
-       "title": "Suspects in Renoir paintings heist were planning separate robbery at Fondation Maeght, police chief says",
-       "link": "https://www.theartnewspaper.com/2026/10/14/suspects-renoir-paintings-heist-planning-separate-robbery-at-fondation-maeght-police-chief-says",
-       "summary": "Investigators have released details about the theft of two works by the French Impressionist after they were recovered from behind a concrete wall",
-       "published": "2026-10-14T17:32:20Z",
-       "published_ts": 1791999140.0,
+       "title": "Frieze London Diary: fairgoers offered “15 minutes of fame”, ferocious Lego, and Queen Victoria as you have never seen her",
+       "link": "https://www.theartnewspaper.com/2026/10/16/frieze-london-diary-fairgoers-offered-15-minutes-of-fame-ferocious-lego-and-queen-victoria-as-you-have-never-seen-her",
+       "summary": "Plus: perilous boulders at the fair, and a celebrity showing in Knightsbridge",
+       "published": "2026-10-16T06:05:50Z",
+       "published_ts": 1792130750.0,
        "source": "The Art Newspaper",
        "category": "News & Market",
        "mena": false,
        "needs_translation": false
       },
       {
-       "title": "Mexican military retreats from plans to build enormous museum in a popular park",
-       "link": "https://www.theartnewspaper.com/2026/10/14/mexican-military-backtracks-plans-mexico-city-museum-bosque-chapultepec",
-       "summary": "Following widespread opposition, including from Mexico City’s mayor, the plans to build a sprawling military museum in Bosque de Chapultepec are on hold while authorities seek an alternative site",
-       "published": "2026-10-14T17:04:55Z",
-       "published_ts": 1791997495.0,
+       "title": "Modernists brought into the mix at 1-54 Contemporary African art fair",
+       "link": "https://www.theartnewspaper.com/2026/10/16/modernists-brought-into-the-mix-by-1-54-contemporary-african-art-fair",
+       "summary": "New historical strand responds to a wider surge of institutional attention",
+       "published": "2026-10-16T05:57:03Z",
+       "published_ts": 1792130223.0,
        "source": "The Art Newspaper",
        "category": "News & Market",
        "mena": false,
        "needs_translation": false
       },
       {
-       "title": "A brush with... Gabriel Orozco—podcast",
-       "link": "https://www.theartnewspaper.com/2026/10/14/a-brush-with-gabriel-orozco",
-       "summary": "Orozco talks to Ben Luke about his influences—from writers to film-makers, and, of course, other artists—and the cultural experiences that have shaped his life and work",
-       "published": "2026-10-14T16:16:20Z",
-       "published_ts": 1791994580.0,
+       "title": "At London’s new Latin American art fair Paraíso, a decade-in-the-making exhibition finally debuts",
+       "link": "https://www.theartnewspaper.com/2026/10/16/new-latin-american-art-fair-paraiso-decade-in-making-exhibition-debuts",
+       "summary": "Previously unseen works by the late Mexican conceptual artist feature in Latin American fair’s inaugural edition",
+       "published": "2026-10-16T05:55:59Z",
+       "published_ts": 1792130159.0,
        "source": "The Art Newspaper",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      }
-     ]
-    },
-    {
-     "name": "ArtNews",
-     "site": "https://www.artnews.com/",
-     "feed_url": "https://www.artnews.com/feed/",
-     "lang": "en",
-     "newest_ts": 1792054800.0,
-     "items": [
-      {
-       "title": "Collector’s Diary: Chang Osathanugrah Reflects on What It Means to See Art with Fresh Eyes After Years of Looking",
-       "link": "https://www.artnews.com/art-news/opinion/collector-diary-chang-osathanugrah-dib-bangkok-1234802422/",
-       "summary": "The Top 200 Collector writes about a work he saw in Hong Kong that stuck with him and the first year of Dib Bangkok.",
-       "published": "2026-10-15T09:00:00Z",
-       "published_ts": 1792054800.0,
-       "source": "ArtNews",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Christie’s London Sales Bring in $289 M., With Records for Bridget Riley and Liubov Popova",
-       "link": "https://www.artnews.com/art-news/market/christies-london-frieze-week-peter-simon-auction-results-2026-1234802435/",
-       "summary": "The sales, one adviser said, was a clear indication of a solid market, though he cautioned against reading too much into the totals.",
-       "published": "2026-10-15T01:25:39Z",
-       "published_ts": 1792027539.0,
-       "source": "ArtNews",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "As Diplomatic Tensions Persist, British Museum Chairman ‘Optimistic’ on Parthenon Marbles Deal",
-       "link": "https://www.artnews.com/art-news/news/diplomatic-tensions-british-museum-parthenon-marbles-george-osborne-1234802403/",
-       "summary": "\"I very much hope we can come to some arrangement whereby the Parthenon sculptures that are in London can be seen in Athens but they have to be shared,” Osborne said Tuesday",
-       "published": "2026-10-14T21:46:06Z",
-       "published_ts": 1792014366.0,
-       "source": "ArtNews",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Bortolami Now Represents Emily Sundblad, Shigeo Otake Joins White Cube, and More: Industry Moves for October 14, 2026",
-       "link": "https://www.artnews.com/art-news/market/bortolami-emily-sundblad-representation-industry-moves-1234802389/",
-       "summary": "Plus, Tanja Grunert and Fierman will share a space in Chinatown.",
-       "published": "2026-10-14T21:00:00Z",
-       "published_ts": 1792011600.0,
-       "source": "ArtNews",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Israel Returns 22 Looted Antiquities to Greece",
-       "link": "https://www.artnews.com/art-news/news/israel-returns-looted-antiquities-greece-1234802413/",
-       "summary": "The items in question were uncovered during a series of raids of warehouses, apartments, and a gallery in the Tel Aviv area.",
-       "published": "2026-10-14T20:43:15Z",
-       "published_ts": 1792010595.0,
-       "source": "ArtNews",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Monumental Statues of Ramses II Discovered in Egypt",
-       "link": "https://www.artnews.com/art-news/news/monumental-statues-of-ramses-ii-discovered-egypt-1234802393/",
-       "summary": "Archaeologists in Egypt have uncovered the remains of two colossal statues believed to depict Ramses II after a local landowner reported finding an inscribed stone block in the village of Behbeit El-Hagar.",
-       "published": "2026-10-14T20:04:56Z",
-       "published_ts": 1792008296.0,
-       "source": "ArtNews",
-       "category": "News & Market",
-       "mena": true,
-       "needs_translation": false
-      },
-      {
-       "title": "Frieze London Brings 400-Year-Old Paintings and Collectors in Their 20s",
-       "link": "https://www.artnews.com/art-news/market/frieze-london-2026-sales-brueghel-painting-hauser-and-wirth-1234802398/",
-       "summary": "Hauser & Wirth sold a Brueghel painting for $6.58 million.",
-       "published": "2026-10-14T20:00:00Z",
-       "published_ts": 1792008000.0,
-       "source": "ArtNews",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "At Frieze, an Artist Project in the Fair’s Public Toilets Confronts the UK’s Ongoing Bathroom Wars",
-       "link": "https://www.artnews.com/art-news/news/gray-wielebinski-frieze-london-commission-public-toilets-1234802225/",
-       "summary": "Visitors are invited to us Gray Wielebinski’s new site-specific Production (2026), consisting of scented urinal cakes and toilet-rim blocks.",
-       "published": "2026-10-14T18:02:28Z",
-       "published_ts": 1792000948.0,
-       "source": "ArtNews",
        "category": "News & Market",
        "mena": false,
        "needs_translation": false
@@ -214,8 +117,63 @@
      "site": "https://news.artnet.com/",
      "feed_url": "https://news.artnet.com/feed",
      "lang": "en",
-     "newest_ts": 1792035302.0,
+     "newest_ts": 1792106690.0,
      "items": [
+      {
+       "title": "Sotheby’s Notches $61M at London Contemporary Sale, Buoyed by $12.9M de Kooning",
+       "link": "https://news.artnet.com/market/sothebys-contemporary-evening-london-2026-2824599",
+       "summary": "The subdued auction nonetheless held surprising moments, including the stunning $2.5 million sale of a David Hockney iPad drawing.",
+       "published": "2026-10-15T23:24:50Z",
+       "published_ts": 1792106690.0,
+       "source": "Artnet News",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Inside the Scrappy SoHo Gallery That Made Art History in the Aughts",
+       "link": "https://news.artnet.com/multimedia/guild-greyshkul-sara-vanderbeek-art-angle-2818393",
+       "summary": "Sara VanDerBeek joined The Art Angle to discuss Guild & Greyshkul, which is the focus of a Cooper Union show.",
+       "published": "2026-10-15T21:15:49Z",
+       "published_ts": 1792098949.0,
+       "source": "Artnet News",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Art Basel’s Karim Crippa Dishes on Paris",
+       "link": "https://news.artnet.com/market/karim-crippa-art-basel-paris-2824553",
+       "summary": "The Paris fair's new director says time is the ultimate luxury and shares his must-see shows around the city.",
+       "published": "2026-10-15T19:14:45Z",
+       "published_ts": 1792091685.0,
+       "source": "Artnet News",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Phillips Kicks Off Its London Sales With $7.6M Richter, $2.1M Banksy",
+       "link": "https://news.artnet.com/market/phillips-modern-contemporary-sale-2026-banksy-2824233",
+       "summary": "The white-glove sale set records for rising stars Eva Helene Pade and Joseph Yaeger.",
+       "published": "2026-10-15T18:57:14Z",
+       "published_ts": 1792090634.0,
+       "source": "Artnet News",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "At SFMOMA, K-Pop Star RM Is Curating His Own Way",
+       "link": "https://news.artnet.com/art-world/rm-sfmoma-exhibition-2823525",
+       "summary": "'I’m not from the art world,' the BTS member said. 'I guess I’m a little free.'",
+       "published": "2026-10-15T15:33:28Z",
+       "published_ts": 1792078408.0,
+       "source": "Artnet News",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
       {
        "title": "Louvre Museum Director Pleads for More Public Funding",
        "link": "https://news.artnet.com/artnet-bulletin/louvre-museum-director-funding-oct-15-2824338",
@@ -239,7 +197,7 @@
        "needs_translation": false
       },
       {
-       "title": "$6.5M Jan Brueghel Sells at London’s Frieze as Collectors Compete for Coveted Works",
+       "title": "$6.5M Jan Brueghel Sells at Frieze in London as Collectors Compete for Coveted Works",
        "link": "https://news.artnet.com/market/frieze-london-masters-2026-report-2823838",
        "summary": "Some galleries enjoyed triumphant returns, the big guys reported big sales, and others were still seeking heat.",
        "published": "2026-10-14T18:18:41Z",
@@ -248,58 +206,100 @@
        "category": "News & Market",
        "mena": false,
        "needs_translation": false
-      },
+      }
+     ]
+    },
+    {
+     "name": "ArtNews",
+     "site": "https://www.artnews.com/",
+     "feed_url": "https://www.artnews.com/feed/",
+     "lang": "en",
+     "newest_ts": 1792101444.0,
+     "items": [
       {
-       "title": "Sable Elyse Smith Says Research Isn’t Separate From the Art—It Is the Art",
-       "link": "https://news.artnet.com/art-world/sable-elyse-smith-clockwork-flag-art-foundation-2821681",
-       "summary": "In a conversation tied to “Clockwork,” at the FLAG Art Foundation, Smith explains why choosing a material is never separate from the act of making.",
-       "published": "2026-10-14T16:12:57Z",
-       "published_ts": 1791994377.0,
-       "source": "Artnet News",
+       "title": "Sotheby’s London Contemporary Art Sale Tallies $61.1 M., Led by a $12.9 M. De Kooning",
+       "link": "https://www.artnews.com/art-news/market/sothebys-london-contemporary-art-sale-61m-de-kooning-1234802516/",
+       "summary": "The house found homes for a healthy 28 out of the 34 lots on offer after three were withdrawn before the sale.",
+       "published": "2026-10-15T21:57:24Z",
+       "published_ts": 1792101444.0,
+       "source": "ArtNews",
        "category": "News & Market",
        "mena": false,
        "needs_translation": false
       },
       {
-       "title": "Previously Unknown Canaletto Drawing Reemerges After Centuries",
-       "link": "https://news.artnet.com/market/unknown-canaletto-drawing-mallams-2823686",
-       "summary": "The work is crossing the auction block in the U.K., where it is estimated to fetch $79,000.",
-       "published": "2026-10-14T13:45:07Z",
-       "published_ts": 1791985507.0,
-       "source": "Artnet News",
+       "title": "National Museum of Korea Director Scrutinized After Loaning Misattributed Work from His Private Collection to the Musuem",
+       "link": "https://www.artnews.com/art-news/news/national-museum-of-korea-director-private-collection-1234802510/",
+       "summary": "Director You Hong-june faces scrutiny after loaning the institution a misattributed work from his private collection",
+       "published": "2026-10-15T20:21:31Z",
+       "published_ts": 1792095691.0,
+       "source": "ArtNews",
        "category": "News & Market",
        "mena": false,
        "needs_translation": false
       },
       {
-       "title": "Sofia Bassi’s Market Is Heating Up as Female Surrealists Get Their Due",
-       "link": "https://news.artnet.com/market/sofia-bassi-london-2822587",
-       "summary": "Pippy Houldsworth Gallery is showing 16 of the Mexican painter’s works in London as auction prices climb.",
-       "published": "2026-10-14T09:10:57Z",
-       "published_ts": 1791969057.0,
-       "source": "Artnet News",
+       "title": "Dino Bones Held in UK Museum for 100 Years Identified as New Species",
+       "link": "https://www.artnews.com/art-news/news/new-dinosaur-species-discovered-natural-history-museum-london-1234802502/",
+       "summary": "A researcher involved in the discovery described the long-overlooked fossil as a reminder of how much remains to be discovered in existing museum collections.",
+       "published": "2026-10-15T20:12:24Z",
+       "published_ts": 1792095144.0,
+       "source": "ArtNews",
        "category": "News & Market",
        "mena": false,
        "needs_translation": false
       },
       {
-       "title": "Frank Lloyd Wright Saw Red Over the Guggenheim’s White Facade",
-       "link": "https://news.artnet.com/artnet-bulletin/frank-lloyd-wright-guggenheim-white-paint-oct-14-2823705",
-       "summary": "Plus, a rare Miles Davis art show, a typeface worthy of Michelangelo, and other art world matters.",
-       "published": "2026-10-14T07:00:11Z",
-       "published_ts": 1791961211.0,
-       "source": "Artnet News",
+       "title": "Minor Attractions, a New London Fair In a Hotel, Finds Space for Emerging Galleries and Artists",
+       "link": "https://www.artnews.com/art-news/market/minor-attractions-finds-new-home-and-expands-footprint-1234802491/",
+       "summary": "The fourth edition of the fair runs until Saturday with 38 galleries from 15 countries placed in 16 bedrooms at the hotel.",
+       "published": "2026-10-15T20:07:14Z",
+       "published_ts": 1792094834.0,
+       "source": "ArtNews",
        "category": "News & Market",
        "mena": false,
        "needs_translation": false
       },
       {
-       "title": "Lunch With Adam: Met Curator Alisa LaGamma on Repatriation, the Revitalized Rockefeller Wing, the Benin Bronzes, and More",
-       "link": "https://news.artnet.com/art-world/alisa-lagamma-adam-lindemann-interview-2823637",
-       "summary": "'We all need to come up with imaginative solutions moving forward.'",
-       "published": "2026-10-13T20:02:10Z",
-       "published_ts": 1791921730.0,
-       "source": "Artnet News",
+       "title": "A New Met Show Promises Rembrandt, as Never Seen Before",
+       "link": "https://www.artnews.com/art-news/news/rembrandt-and-the-ancients-metropolitan-museum-louvre-1234802500/",
+       "summary": "“Rembrandt and the Ancients,” organized with the Louvre, will bring several of the artist’s works to the United States for the first time.",
+       "published": "2026-10-15T19:48:08Z",
+       "published_ts": 1792093688.0,
+       "source": "ArtNews",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "A Landmark Survey of Native Graphic Arts Defies Expectations",
+       "link": "https://www.artnews.com/art-news/news/a-landmark-survey-of-native-graphic-arts-defies-expectations-1234802351/",
+       "summary": "The boundaries between craft, graphic arts, and sculpture collapse in “Designed to Be Red,” now on view at New York’s Poster House through next February.",
+       "published": "2026-10-15T17:54:13Z",
+       "published_ts": 1792086853.0,
+       "source": "ArtNews",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Previously Unknown Canaletto Drawing Heads to Auction After Centuries in Private Hands",
+       "link": "https://www.artnews.com/art-news/market/canaletto-drawing-discovered-mallams-auction-1234802470/",
+       "summary": "A newly authenticated drawing by the Venetian master, depicting an imaginary architectural ruin, will go under the hammer in England on October 21.",
+       "published": "2026-10-15T17:46:28Z",
+       "published_ts": 1792086388.0,
+       "source": "ArtNews",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Memorial Reflecting Pool Renovation Botched Beyond Previously Reported",
+       "link": "https://www.artnews.com/art-news/news/reflecting-pool-repair-work-failure-report-1234802473/",
+       "summary": "A report obtained by The Washington Post detailed problems and made no mention of vandalism.",
+       "published": "2026-10-15T16:14:14Z",
+       "published_ts": 1792080854.0,
+       "source": "ArtNews",
        "category": "News & Market",
        "mena": false,
        "needs_translation": false
@@ -311,91 +311,91 @@
      "site": "https://hyperallergic.com/",
      "feed_url": "https://hyperallergic.com/feed/",
      "lang": "en",
-     "newest_ts": 1792008551.0,
+     "newest_ts": 1792100908.0,
      "items": [
       {
-       "title": "San Antonio’s Centro de Artes Celebrates 10 Years with \"Mercado/Material\"",
-       "link": "https://hyperallergic.com/san-antonios-centro-de-artes-celebrates-10-years-with-mercado-material/",
-       "summary": "Curated by Mia Lopez, 16 artists transform everyday objects into bold explorations of Latinx identity. On view in San Antonio from October 16 through March 7, 2027.",
-       "published": "2026-10-14T20:09:11Z",
-       "published_ts": 1792008551.0,
+       "title": "Danh Vo and Sandra Mujinga Selected for Met Museum Commissions",
+       "link": "https://hyperallergic.com/danh-vo-and-sandra-mujinga-selected-for-met-museum-commissions/",
+       "summary": "Genesis Facade and Great Hall artists announced, a new leader for the Armenian Museum of America, Bernie Sanders weighs in on the AI art debate, and more.",
+       "published": "2026-10-15T21:48:28Z",
+       "published_ts": 1792100908.0,
        "source": "Hyperallergic",
        "category": "News & Market",
        "mena": false,
        "needs_translation": false
       },
       {
-       "title": "Why Pageant Is Suddenly All the Rage",
-       "link": "https://hyperallergic.com/why-pageant-is-suddenly-all-the-rage/",
-       "summary": "In a world skewed toward artifice, the East Williamsburg performance space’s commitment to confronting, rather than escaping, one’s conditions in art feels like a renaissance.",
-       "published": "2026-10-14T20:07:36Z",
-       "published_ts": 1792008456.0,
+       "title": "12 Must-Read Books on Textiles and Fiber Art",
+       "link": "https://hyperallergic.com/12-must-read-books-on-textiles-and-fiber-art/",
+       "summary": "Titles on contemporary Diné weavers, Black American quilting in California, the Bayeux Tapestry, artists including Cecilia Vicuña and Olga de Amaral, and more.",
+       "published": "2026-10-15T21:04:15Z",
+       "published_ts": 1792098255.0,
        "source": "Hyperallergic",
        "category": "News & Market",
        "mena": false,
        "needs_translation": false
       },
       {
-       "title": "Tammy Nguyen's New Opera Will Be the Coda to the Venice Biennale",
-       "link": "https://hyperallergic.com/tammy-nguyens-new-opera-will-be-the-coda-to-the-venice-biennale/",
-       "summary": "The artist will present an aria from the still-unfinished opera, “Timaeus and The Teacher,” during the festival's closing program.",
-       "published": "2026-10-14T19:47:06Z",
-       "published_ts": 1792007226.0,
+       "title": "WPA Murals at Harlem Hospital Restored to Their Original Glory",
+       "link": "https://hyperallergic.com/wpa-murals-at-harlem-hospital-restored-to-their-original-glory/",
+       "summary": "A New Deal-era sculpture by John Rhoden was also included in the city's restoration project.",
+       "published": "2026-10-15T20:58:56Z",
+       "published_ts": 1792097936.0,
        "source": "Hyperallergic",
        "category": "News & Market",
        "mena": false,
        "needs_translation": false
       },
       {
-       "title": "Who’s the Thief in Deana Lawson’s Photography?",
-       "link": "https://hyperallergic.com/whos-the-thief-in-deana-lawsons-photography/",
-       "summary": "I wonder what the women standing perpetually accused and anonymous might say about the sale of their stolen images.",
-       "published": "2026-10-14T18:14:15Z",
-       "published_ts": 1792001655.0,
+       "title": "The 98-Year-Old Pop Art Queen Behind an Iconic Lichtenstein Billboard",
+       "link": "https://hyperallergic.com/the-98-year-old-pop-art-queen-behind-an-iconic-lichtenstein-billboard/",
+       "summary": "Ahead of her memoir's release, we talk to Joan Kron about Andy Warhol, beating Sidney Janis to the punch, and why she calls herself a “renegade housewife” of Pop Art.",
+       "published": "2026-10-15T20:10:18Z",
+       "published_ts": 1792095018.0,
        "source": "Hyperallergic",
        "category": "News & Market",
        "mena": false,
        "needs_translation": false
       },
       {
-       "title": "Red Hook Open Studios Rises From the Ashes",
-       "link": "https://hyperallergic.com/red-hook-open-studios-rises-from-the-ashes/",
-       "summary": "Dispelling fears that last year's blaze pushed artists away for good, this year's edition proved that the Brooklyn neighborhood’s artistic community is as strong as ever.",
-       "published": "2026-10-14T17:21:21Z",
-       "published_ts": 1791998481.0,
+       "title": "Ah, the Many Smells of Frieze London",
+       "link": "https://hyperallergic.com/ah-the-many-smells-of-frieze-london/",
+       "summary": "Among them champagne, new money, and an artist’s custom-scented bathroom installations.",
+       "published": "2026-10-15T19:08:04Z",
+       "published_ts": 1792091284.0,
        "source": "Hyperallergic",
        "category": "News & Market",
        "mena": false,
        "needs_translation": false
       },
       {
-       "title": "Richard Dadd’s Strange and Delicate Worlds",
-       "link": "https://hyperallergic.com/richard-dadds-strange-and-delicate-worlds/",
-       "summary": "Though he is known primarily for his work of fantastical landscapes and mystical woodland creatures, a new retrospective tells the full story.",
-       "published": "2026-10-14T15:45:34Z",
-       "published_ts": 1791992734.0,
+       "title": "Valerio Adami’s Hot and Cold Art",
+       "link": "https://hyperallergic.com/valerio-adamis-hot-and-cold-art/",
+       "summary": "His syncretic style melds Pop Art’s cool, outlined forms with expressionism’s figural distortions, resulting in a perturbing ambiguity.",
+       "published": "2026-10-15T18:31:38Z",
+       "published_ts": 1792089098.0,
        "source": "Hyperallergic",
        "category": "News & Market",
        "mena": false,
        "needs_translation": false
       },
       {
-       "title": "Art Problems: Do I Need an Agent?",
-       "link": "https://hyperallergic.com/art-problems-do-i-need-an-agent/",
-       "summary": "Artist agents are not the panacea we imagine them to be, but AI agents won’t solve all your problems, either. Paddy Johnson breaks it down.",
-       "published": "2026-10-14T15:06:11Z",
-       "published_ts": 1791990371.0,
+       "title": "Rembrandt’s Ancient Obsessions Are Made Anew in Upcoming Met Exhibition",
+       "link": "https://hyperallergic.com/rembrandts-ancient-obsessions-are-made-anew-in-upcoming-met-exhibition/",
+       "summary": "Co-organized with the Louvre, \"Rembrandt and the Ancients\" opens at the Metropolitan Museum of Art in November 2027 and will travel to Paris in 2028.",
+       "published": "2026-10-15T18:29:12Z",
+       "published_ts": 1792088952.0,
        "source": "Hyperallergic",
        "category": "News & Market",
        "mena": false,
        "needs_translation": false
       },
       {
-       "title": "John Berger in His Own Bruised Time",
-       "link": "https://hyperallergic.com/john-berger-in-his-own-bruised-time/",
-       "summary": "The late novelist and art critic asked Tom Overton to wait to write his biography until after his death. The result is deeply informative, deferential, and perceptive, sometimes lyrically so.",
-       "published": "2026-10-14T14:54:17Z",
-       "published_ts": 1791989657.0,
+       "title": "Jazmine Hayes Charts Community Displacement, Resilience in Brownsville Art Commission",
+       "link": "https://hyperallergic.com/jazmine-hayes-charts-community-displacement-resilience-in-brownsville-art-commission/",
+       "summary": "“I genuinely want any child that walks through this door to be and feel protected,” the East New York-raised artist told Hyperallergic.",
+       "published": "2026-10-15T15:21:18Z",
+       "published_ts": 1792077678.0,
        "source": "Hyperallergic",
        "category": "News & Market",
        "mena": false,
@@ -408,8 +408,63 @@
      "site": "https://ocula.com/magazine/",
      "feed_url": "https://ocula.com/magazine/feed/",
      "lang": "en",
-     "newest_ts": 1791952380.0,
+     "newest_ts": 1792090805.0,
      "items": [
+      {
+       "title": "In London, Young Curators Shine a Light on Parental Incarceration",
+       "link": "https://ocula.com/magazine/art-news/koestler-exhibition-london-southbank/",
+       "summary": "Works in this year’s Koestler Awards exhibition, showcasing art made in secure institutions, have been chosen by 18–35‑year‑olds with childhood experience of a parent in prison.",
+       "published": "2026-10-15T19:00:05Z",
+       "published_ts": 1792090805.0,
+       "source": "Ocula Magazine",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "From Urban Venues to Digital Worlds, Artists Explore Sexuality and Space at Frieze Focus",
+       "link": "https://ocula.com/magazine/art-news/frieze-focus-london-sexuality-space/",
+       "summary": "Reimagined as German sex cinemas, OnlyFans chatrooms and sites of queer commemoration, three booths at Frieze Focus explore how desire, community and labour shape facets of contemporary sexuality.",
+       "published": "2026-10-15T03:41:00Z",
+       "published_ts": 1792035660.0,
+       "source": "Ocula Magazine",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Despite ‘Time-Poor’ Collectors, Frieze London Brings Strong Sales for Galleries of All Sizes",
+       "link": "https://ocula.com/magazine/art-news/frieze-london-strong-sales-collectors-galleries/",
+       "summary": "Colourful, abstract works proved popular on Frieze London’s preview day—and, as Naomi Rea reports from the fair, sales point to a brighter outlook for the global market.",
+       "published": "2026-10-15T02:12:00Z",
+       "published_ts": 1792030320.0,
+       "source": "Ocula Magazine",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "William Kentridge: ‘Tragedy Isn’t a Good Way of Dealing with Social Disaster’",
+       "link": "https://ocula.com/magazine/conversations/william-kentridge-goodman-gallery-south-afric/",
+       "summary": "As the South African artist’s latest film premieres in London, he talks to John‑Baptiste Oduor about Rilke’s poem Orpheus. Eurydice. Hermes, the death drive and the importance of absurdity. .",
+       "published": "2026-10-15T00:06:16Z",
+       "published_ts": 1792022776.0,
+       "source": "Ocula Magazine",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Christie’s Frieze Week Sales Net More Than £218m, Including Single-Owner Collection Record",
+       "link": "https://ocula.com/magazine/art-news/christies-frieze-week-sales-london-auction/",
+       "summary": "The collection of Monsoon founder Peter Simon sold for a record‑setting £107.5 million, while the highest price across the evening’s two sales was achieved by a 1907 Kandinsky painting that went for £31.56 million.",
+       "published": "2026-10-14T23:38:34Z",
+       "published_ts": 1792021114.0,
+       "source": "Ocula Magazine",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
       {
        "title": "Lav Story: Gray Wielebinski Makes Scents of Frieze London",
        "link": "https://ocula.com/magazine/art-news/gray-wielebinski-toilets-frieze-london-scent/",
@@ -438,61 +493,6 @@
        "summary": "The artist’s 2026 painting Fame is a Gun, the first acquisition by the Dasha Shenkman Focus Fund, is one of eight artworks destined for UK spaces whose acquisitions were announced by three funds at the first day Frieze London.",
        "published": "2026-10-14T00:00:00Z",
        "published_ts": 1791936000.0,
-       "source": "Ocula Magazine",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "‘It’s Called Culture!’: A Reflection on Andrew Edmunds, the Restaurateur and Print Collector of ‘Old Soho’",
-       "link": "https://ocula.com/magazine/spotlight/andrew-edmunds-frieze-masters-october-2026/",
-       "summary": "As 10,000 satirical prints collected by Edmunds go on sale at Frieze Masters for £12 million, Phin Jennings speaks to family and friends of the late idiosyncratic restaurateur and gallerist about the collection—and the man himself.",
-       "published": "2026-10-13T22:18:58Z",
-       "published_ts": 1791929938.0,
-       "source": "Ocula Magazine",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "During London’s Busiest Art Week, £50k Initiative Champions City’s ‘Grass Roots’ Ecosystem",
-       "link": "https://ocula.com/magazine/art-news/frieze-hypha-studios-charity-exhibition-space-free/",
-       "summary": "Hypha Studios’ seven galleries, created in vacant buildings across the English capital, offer space for 150 exhibitors and will also be free for visitors.",
-       "published": "2026-10-13T19:00:05Z",
-       "published_ts": 1791918005.0,
-       "source": "Ocula Magazine",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Louise Giovanelli Receives ‘Gold Standard’ UK Government Art Award",
-       "link": "https://ocula.com/magazine/art-news/louise-giovanelli-government-art-collection-london/",
-       "summary": "The Manchester‑based artist says her winning commission, Media Luna, will act as a “site of reflection” in government buildings around the world.",
-       "published": "2026-10-13T01:47:02Z",
-       "published_ts": 1791856022.0,
-       "source": "Ocula Magazine",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Afternoon Tea with Evelyn Taocheng Wang",
-       "link": "https://ocula.com/magazine/conversations/evelyn-taocheng-wang-goldsmiths-cca-october-2026/",
-       "summary": "The artist’s show at Goldsmiths CCA unravels the class‑anchored literary‑England fantasies she learned about in 1980s China. Over fruit tarts at Soho’s Maison Bertaux, the artist talks about her alter ego, known as the Cultural Whore, Merchant Ivory films, and the question of who gets to be poetic.",
-       "published": "2026-10-13T01:22:00Z",
-       "published_ts": 1791854520.0,
-       "source": "Ocula Magazine",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "The Exhibitions Not to Miss During Frieze London",
-       "link": "https://ocula.com/magazine/spotlight/exhibitions-not-to-miss-during-frieze-london-2026/",
-       "summary": "A show all about complaining, a video work deemed too controversial for Venice and a new William Kentridge film are just some of the highlights of exhibitions in the English capital during Frieze Week. Ocula ’s editors round up the must‑see shows.",
-       "published": "2026-10-12T03:16:00Z",
-       "published_ts": 1791774960.0,
        "source": "Ocula Magazine",
        "category": "News & Market",
        "mena": false,
@@ -526,8 +526,30 @@
      "site": "https://canvasonline.com/",
      "feed_url": "https://canvasonline.com/feed/",
      "lang": "en",
-     "newest_ts": 1791983786.0,
+     "newest_ts": 1792061359.0,
      "items": [
+      {
+       "title": "A Life in Thread: Batima Zaurbekova at the Abylkhan Kasteyev National Museum of Arts of the Republic of Kazakhstan",
+       "link": "https://canvasonline.com/a-life-in-thread-batima-zaurbekova-at-the-abylkhan-kasteyev-national-museum-of-arts-of-the-republic-of-kazakhstan/?utm_source=rss&utm_medium=rss&utm_campaign=a-life-in-thread-batima-zaurbekova-at-the-abylkhan-kasteyev-national-museum-of-arts-of-the-republic-of-kazakhstan",
+       "summary": "For an artist celebrated as a founder of the Kazakh school of tapestry, Batima Zaurbekova...",
+       "published": "2026-10-15T10:49:19Z",
+       "published_ts": 1792061359.0,
+       "source": "Canvas",
+       "category": "MENA Magazines",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Public Art Abu Dhabi Biennial 2026 Announces Artists",
+       "link": "https://canvasonline.com/public-art-abu-dhabi-biennial-2026-announces-artists/?utm_source=rss&utm_medium=rss&utm_campaign=public-art-abu-dhabi-biennial-2026-announces-artists",
+       "summary": "The Department of Culture and Tourism – Abu Dhabi (DCT Abu Dhabi) has announced the...",
+       "published": "2026-10-15T09:46:44Z",
+       "published_ts": 1792057604.0,
+       "source": "Canvas",
+       "category": "MENA Magazines",
+       "mena": true,
+       "needs_translation": false
+      },
       {
        "title": "Inaugural Rubaiya Qatar Quadrennial Details Announced",
        "link": "https://canvasonline.com/inaugural-rubaiya-qatar-quadrennial-details-announced/?utm_source=rss&utm_medium=rss&utm_campaign=inaugural-rubaiya-qatar-quadrennial-details-announced",
@@ -589,28 +611,6 @@
        "summary": "Art D’Égypte has announced the final artists participating in its upcoming edition, Forever Is Now...",
        "published": "2026-10-06T08:32:46Z",
        "published_ts": 1791275566.0,
-       "source": "Canvas",
-       "category": "MENA Magazines",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Aseel AlYaqoub Awarded 7th Ithra Art Prize",
-       "link": "https://canvasonline.com/aseel-alyaqoub-awarded-7th-ithra-art-prize/?utm_source=rss&utm_medium=rss&utm_campaign=aseel-alyaqoub-awarded-7th-ithra-art-prize",
-       "summary": "Aseel AlYaqoub has been awarded the seventh Ithra Art Prize for Flora Incognita (2026), a speculative herbarium...",
-       "published": "2026-10-02T12:09:32Z",
-       "published_ts": 1790942972.0,
-       "source": "Canvas",
-       "category": "MENA Magazines",
-       "mena": true,
-       "needs_translation": false
-      },
-      {
-       "title": "The Years Between: Group Show at Galerist",
-       "link": "https://canvasonline.com/the-years-between-group-show-at-galerist/?utm_source=rss&utm_medium=rss&utm_campaign=the-years-between-group-show-at-galerist",
-       "summary": "2001 was a watershed year for Türkiye. An overnight collapse in the stock market sparked...",
-       "published": "2026-10-02T06:02:03Z",
-       "published_ts": 1790920923.0,
        "source": "Canvas",
        "category": "MENA Magazines",
        "mena": false,
@@ -794,7 +794,7 @@
      "name": "Persbook Annual of Contemporary Art",
      "site": "https://persbookart.com/",
      "lang": "en",
-     "age_days": 673,
+     "age_days": 674,
      "item": {
       "title": "«من اینجا هستم»ِ تمرینی برای مرکز زدایی | مهدیار جمشیدی و الهام پوریامهر",
       "link": "https://persbookart.com/4015/mahdyarjamshidi/",
@@ -805,14 +805,14 @@
       "category": "Iranian Art",
       "mena": false,
       "needs_translation": true,
-      "age_days": 673
+      "age_days": 674
      }
     },
     {
      "name": "Iranian.com Arts & Culture",
      "site": "https://iranian.com/",
      "lang": "en",
-     "age_days": 1841,
+     "age_days": 1842,
      "item": {
       "title": "We’re back",
       "link": "https://iranian.com/2021/09/29/were-back/",
@@ -823,7 +823,7 @@
       "category": "Iranian Art",
       "mena": true,
       "needs_translation": false,
-      "age_days": 1841
+      "age_days": 1842
      }
     }
    ],
@@ -977,7 +977,7 @@
      "name": "Barjeel Art Foundation",
      "site": "https://www.barjeelartfoundation.org/",
      "lang": "en",
-     "age_days": 217,
+     "age_days": 218,
      "item": {
       "title": "Palestinian Family",
       "link": "https://www.barjeelartfoundation.org/collection/palestinian-family/",
@@ -988,14 +988,14 @@
       "category": "Museums & Institutions",
       "mena": true,
       "needs_translation": false,
-      "age_days": 217
+      "age_days": 218
      }
     },
     {
      "name": "Institut du Monde Arabe",
      "site": "https://www.imarabe.org/",
      "lang": "fr",
-     "age_days": 996,
+     "age_days": 997,
      "item": {
       "title": "Étienne Dinet, passions algériennes",
       "link": "https://www.imarabe.org/fr/agenda/expositions-musee/etienne-dinet-passions-algeriennes",
@@ -1006,7 +1006,7 @@
       "category": "Museums & Institutions",
       "mena": true,
       "needs_translation": false,
-      "age_days": 996
+      "age_days": 997
      }
     }
    ],
@@ -1146,7 +1146,7 @@
      "name": "Art Dubai",
      "site": "https://www.artdubai.ae/",
      "lang": "en",
-     "age_days": 2002,
+     "age_days": 2003,
      "item": {
       "title": "Art Dubai 2021 leads the way back to normality",
       "link": "https://www.artdubai.ae/art-dubai-2021-leads-the-way-back-to-normality/",
@@ -1157,7 +1157,7 @@
       "category": "Fairs & Events",
       "mena": true,
       "needs_translation": false,
-      "age_days": 2002
+      "age_days": 2003
      }
     }
    ],
@@ -1407,7 +1407,7 @@
    "category": "MENA Magazines",
    "url": "https://mojeh.com/feed/",
    "stage": "parse",
-   "error": "feed returned zero entries (SAXParseException: <unknown>:2:112: not well-formed (invalid token))"
+   "error": "feed returned zero entries (SAXParseException: <unknown>:2:0: syntax error)"
   },
   {
    "source": "Honar Online",
@@ -1421,7 +1421,7 @@
    "category": "Iranian Art",
    "url": "https://persbookart.com/feed/",
    "stage": "window",
-   "error": "feed OK (10 entries) but nothing published in the last 180 days; newest is 673 days old",
+   "error": "feed OK (10 entries) but nothing published in the last 180 days; newest is 674 days old",
    "severity": "info"
   },
   {
@@ -1429,7 +1429,7 @@
    "category": "Iranian Art",
    "url": "https://iranian.com/feed/",
    "stage": "window",
-   "error": "feed OK (15 entries) but nothing published in the last 180 days; newest is 1841 days old",
+   "error": "feed OK (15 entries) but nothing published in the last 180 days; newest is 1842 days old",
    "severity": "info"
   },
   {
@@ -1437,7 +1437,7 @@
    "category": "Museums & Institutions",
    "url": "https://www.imarabe.org/fr/rss.xml",
    "stage": "window",
-   "error": "feed OK (3 entries) but nothing published in the last 180 days; newest is 996 days old",
+   "error": "feed OK (3 entries) but nothing published in the last 180 days; newest is 997 days old",
    "severity": "info"
   },
   {
@@ -1445,7 +1445,7 @@
    "category": "Museums & Institutions",
    "url": "https://www.barjeelartfoundation.org/feed/",
    "stage": "window",
-   "error": "feed OK (10 entries) but nothing published in the last 180 days; newest is 217 days old",
+   "error": "feed OK (10 entries) but nothing published in the last 180 days; newest is 218 days old",
    "severity": "info"
   },
   {
@@ -1453,7 +1453,7 @@
    "category": "Fairs & Events",
    "url": "https://www.artdubai.ae/feed/",
    "stage": "window",
-   "error": "feed OK (1 entries) but nothing published in the last 180 days; newest is 2002 days old",
+   "error": "feed OK (1 entries) but nothing published in the last 180 days; newest is 2003 days old",
    "severity": "info"
   }
  ],
