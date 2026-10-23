@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-10-22T09:55:06.284929Z",
+ "generated_at": "2026-10-23T09:49:09.965743Z",
  "window_days": 180,
  "max_items_per_feed": 8,
  "totals": {
   "feeds_configured": 21,
   "feeds_with_items": 13,
-  "feeds_failed": 3,
-  "feeds_quiet": 5,
+  "feeds_failed": 4,
+  "feeds_quiet": 4,
   "manual_sources": 42,
   "items": 75
  },
@@ -16,18 +16,353 @@
    "item_count": 40,
    "sources": [
     {
+     "name": "ArtNews",
+     "site": "https://www.artnews.com/",
+     "feed_url": "https://www.artnews.com/feed/",
+     "lang": "en",
+     "newest_ts": 1792746000.0,
+     "items": [
+      {
+       "title": "How Did ‘American Gothic’ Become So Iconic? This Art Historian Spent Five Decades Investigating.",
+       "link": "https://www.artnews.com/art-in-america/aia-reviews/american-gothic-wanda-corn-iconic-midwest-grant-wood-1234803480/",
+       "summary": "A portrait of a midwestern couple is hardly a promising candidate for global fame.",
+       "published": "2026-10-23T09:00:00Z",
+       "published_ts": 1792746000.0,
+       "source": "ArtNews",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "As Art Basel Paris Shutters for Weekend Protests, Satellite Fairs Keep Their Doors Open",
+       "link": "https://www.artnews.com/art-news/news/art-basel-paris-closing-early-satellite-fairs-ope-1234803619/",
+       "summary": "Here are some highlights from some of the smaller fairs all around Paris, and how they are responding to Saturday's planned protests.",
+       "published": "2026-10-22T23:43:30Z",
+       "published_ts": 1792712610.0,
+       "source": "ArtNews",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Louvre Heist Suspect Denied Release As Investigators Unravel Tangled Testimonies",
+       "link": "https://www.artnews.com/art-news/news/louvre-heist-suspect-denied-release-as-investigators-unravel-tangled-testimonies-1234803583/",
+       "summary": "The suspect, Rachid H., 40, has been detained since November 2025, and will remain in pre-trial detention, the Paris Court of Appeal ruled Wednesday.",
+       "published": "2026-10-22T21:32:38Z",
+       "published_ts": 1792704758.0,
+       "source": "ArtNews",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Monet Painting Sells for $56.2 M., Setting French Auction Record at Sotheby’s Paris",
+       "link": "https://www.artnews.com/art-news/market/claude-monet-iris-french-auction-record-sothebys-paris-1234803611/",
+       "summary": "Nearly three-quarters of the lots sold above their high estimates.",
+       "published": "2026-10-22T21:13:42Z",
+       "published_ts": 1792703622.0,
+       "source": "ArtNews",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Barbara Hepworth Sculpture Sells for $8.3 M., Leading Christie’s London Auction",
+       "link": "https://www.artnews.com/art-news/news/barbara-hepworth-sculpture-auction-record-christies-london-1234803600/",
+       "summary": "Wednesday's sale brought Christie’s running total for its October 20th- and 21st-century auctions in London to £278.6 million ($371.4 million).",
+       "published": "2026-10-22T20:14:55Z",
+       "published_ts": 1792700095.0,
+       "source": "ArtNews",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Turkish Authorities Seize 2000-Year-Old Marble Head of Zeus",
+       "link": "https://www.artnews.com/art-news/news/turkish-authorities-seize-2000-year-old-marble-head-of-zeus-1234803597/",
+       "summary": "Three unnamed suspects were detained",
+       "published": "2026-10-22T20:13:48Z",
+       "published_ts": 1792700028.0,
+       "source": "ArtNews",
+       "category": "News & Market",
+       "mena": true,
+       "needs_translation": false
+      },
+      {
+       "title": "An $80 M. Kandinsky, Once Owned by the Guggenheim, Is Guaranteed to Beat a Record at Christie’s",
+       "link": "https://www.artnews.com/art-news/market/80m-kandinsky-guggenheim-guaranteed-record-christies-1234803586/",
+       "summary": "The Russian-born artist’s high currently stands at $44.8 million.",
+       "published": "2026-10-22T20:00:00Z",
+       "published_ts": 1792699200.0,
+       "source": "ArtNews",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Mystery Skeleton in Roman Sarcophagus Beneath Westminster Abbey May Be a Medieval Abbot, Study Says",
+       "link": "https://www.artnews.com/art-news/news/skeleton-roman-sarcophagus-westminster-abbey-study-1234803556/",
+       "summary": "Whose skeleton lay inside a Roman sarcophagus beneath Westminster Abbey? Two Anglo-Saxon abbots are in the running.",
+       "published": "2026-10-22T18:56:19Z",
+       "published_ts": 1792695379.0,
+       "source": "ArtNews",
+       "category": "News & Market",
+       "mena": true,
+       "needs_translation": false
+      }
+     ]
+    },
+    {
+     "name": "Artnet News",
+     "site": "https://news.artnet.com/",
+     "feed_url": "https://news.artnet.com/feed",
+     "lang": "en",
+     "newest_ts": 1792737038.0,
+     "items": [
+      {
+       "title": "5 Thrilling Artworks and Shows From a Heady, Fraught Art Basel Paris",
+       "link": "https://news.artnet.com/artnet-bulletin/art-basel-paris-week-highlights-oct-23-2827321",
+       "summary": "Including: Martin Wong's paintbrushes, a Dan Flavin master class at Gagosian, and a lot more.",
+       "published": "2026-10-23T06:30:38Z",
+       "published_ts": 1792737038.0,
+       "source": "Artnet News",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Back to the Culture Wars",
+       "link": "https://news.artnet.com/multimedia/culture-wars-history-isaac-butler-2818399",
+       "summary": "Author Isaac Butler discusses his book on the 1980s culture wars and the echoes of that history today.",
+       "published": "2026-10-22T21:15:34Z",
+       "published_ts": 1792703734.0,
+       "source": "Artnet News",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "This Kandinsky Work Is Primed to Shatter the Artist’s Record",
+       "link": "https://news.artnet.com/market/kandinsky-betonte-ecken-christies-2827451",
+       "summary": "The painting is estimated to fetch between $60 million and $80 million—outstripping the artist's auction record of $44.8 million.",
+       "published": "2026-10-22T20:25:16Z",
+       "published_ts": 1792700716.0,
+       "source": "Artnet News",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Monet’s Long-Hidden ‘Iris’ Blooms to Record $56.2M at Auction",
+       "link": "https://news.artnet.com/market/schlumberger-monet-sothebys-auction-2812462",
+       "summary": "It is now the most expensive painting to sell at auction in France.",
+       "published": "2026-10-22T18:35:08Z",
+       "published_ts": 1792694108.0,
+       "source": "Artnet News",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "$34.3M Roman Marble Busts Through Antiquity Record at Sotheby’s",
+       "link": "https://news.artnet.com/market/roman-marble-sothebys-antiquity-record-2827333",
+       "summary": "The Roman sculpture smashed its presale estimate of $12 million.",
+       "published": "2026-10-22T17:43:59Z",
+       "published_ts": 1792691039.0,
+       "source": "Artnet News",
+       "category": "News & Market",
+       "mena": true,
+       "needs_translation": false
+      },
+      {
+       "title": "Paris Auction Houses Turn Up the Heat",
+       "link": "https://news.artnet.com/market/paris-auctions-october-2026-2827225",
+       "summary": "Monet's ‘Iris’ carries the highest estimate ever set for a painting at auction in France, at up to $33.7 million.",
+       "published": "2026-10-22T13:45:12Z",
+       "published_ts": 1792676712.0,
+       "source": "Artnet News",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Art Basel Paris to Close Early in Face of Weekend Protests",
+       "link": "https://news.artnet.com/market/art-basel-paris-art-fairs-saturday-protest-2827227",
+       "summary": "Some others fairs have not yet made announcements.",
+       "published": "2026-10-22T13:00:02Z",
+       "published_ts": 1792674002.0,
+       "source": "Artnet News",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "InScope Wants to Reinvent the Miami Art Week Experience",
+       "link": "https://news.artnet.com/art-world/inscope-miami-2826260",
+       "summary": "Produced by the same team behind Scope Art Show, InScope reimagines Miami Art Week as a single, continuous experience rather than a string of separate fairs and parties.",
+       "published": "2026-10-22T07:47:05Z",
+       "published_ts": 1792655225.0,
+       "source": "Artnet News",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      }
+     ]
+    },
+    {
+     "name": "Hyperallergic",
+     "site": "https://hyperallergic.com/",
+     "feed_url": "https://hyperallergic.com/feed/",
+     "lang": "en",
+     "newest_ts": 1792706903.0,
+     "items": [
+      {
+       "title": "Studio Museum Announces New Artists-in-Residence",
+       "link": "https://hyperallergic.com/studio-museum-announces-new-artists-in-residence/",
+       "summary": "Plus, this year's Prix Duchamp winners, a trove of Kiki Smith prints heads to NYPL, and more.",
+       "published": "2026-10-22T22:08:23Z",
+       "published_ts": 1792706903.0,
+       "source": "Hyperallergic",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "When Does a Woman Artist Reach Her \"Prime\"?",
+       "link": "https://hyperallergic.com/when-does-a-woman-artist-reach-her-prime/",
+       "summary": "\"The Prime of Your Life\" examines what recognition and market success mean for 18 women artists over 75.",
+       "published": "2026-10-22T21:23:40Z",
+       "published_ts": 1792704220.0,
+       "source": "Hyperallergic",
+       "category": "News & Market",
+       "mena": true,
+       "needs_translation": false
+      },
+      {
+       "title": "Louvre Among Major Paris Museums to Shutter During Saturday Protests",
+       "link": "https://hyperallergic.com/louvre-among-major-paris-museums-to-shutter-during-saturday-protests/",
+       "summary": "The Fondation Cartier, galleries including Gagosian and Perrotin, and Art Basel Paris will remain closed all weekend.",
+       "published": "2026-10-22T20:39:26Z",
+       "published_ts": 1792701566.0,
+       "source": "Hyperallergic",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Meet the Painter Adorning Phoebe Bridgers’s Guitars",
+       "link": "https://hyperallergic.com/meet-the-painter-adorning-phoebe-bridgerss-guitars/",
+       "summary": "The musician and indie darling was drawn to John Griswold's intimate tableaux evoking Renaissance and Baroque iconographies.",
+       "published": "2026-10-22T19:58:09Z",
+       "published_ts": 1792699089.0,
+       "source": "Hyperallergic",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Shuttering Early, Art Basel Paris Also Removes Public Sculptures",
+       "link": "https://hyperallergic.com/shuttering-early-art-basel-paris-also-removes-public-sculptures/",
+       "summary": "Works by Simone Fattal, Manfred Pernice, and Niki de Saint Phalle are among those that will be removed early from Winston Churchill Avenue ahead of the fair’s early closure.",
+       "published": "2026-10-22T18:03:47Z",
+       "published_ts": 1792692227.0,
+       "source": "Hyperallergic",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "The Cathedral of Learning Is Pittsburgh’s Secular Temple",
+       "link": "https://hyperallergic.com/the-cathedral-of-learning-is-pittsburghs-secular-temple/",
+       "summary": "This year marks the centennial of one of the most audacious projects in the history of American higher education.",
+       "published": "2026-10-22T17:58:11Z",
+       "published_ts": 1792691891.0,
+       "source": "Hyperallergic",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Apply Now for Fully Funded Interdisciplinary MFA Program",
+       "link": "https://hyperallergic.com/apply-now-for-fully-funded-interdisciplinary-mfa-program/",
+       "summary": "Upcoming deadline for MFA program applications at University at Buffalo",
+       "published": "2026-10-22T15:13:00Z",
+       "published_ts": 1792681980.0,
+       "source": "Hyperallergic",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Art Basel Paris to Close Two Days Early, Citing Protests",
+       "link": "https://hyperallergic.com/art-basel-paris-to-close-two-days-early-citing-protests/",
+       "summary": "Amid ongoing nationwide demonstrations for better living conditions in France, the fair said it will shutter over the weekend “in the interest of safeguarding our visitors.”",
+       "published": "2026-10-22T14:48:35Z",
+       "published_ts": 1792680515.0,
+       "source": "Hyperallergic",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      }
+     ]
+    },
+    {
      "name": "The Art Newspaper",
      "site": "https://www.theartnewspaper.com/",
      "feed_url": "https://www.theartnewspaper.com/rss.xml",
      "lang": "en",
-     "newest_ts": 1792661611.0,
+     "newest_ts": 1792698483.0,
      "items": [
       {
-       "title": "‘Between playfulness and intellectual depth’: artist Camille Provost brings her joyful, interactive art to Paris",
-       "link": "https://www.theartnewspaper.com/2026/10/22/between-playfulness-and-intellectual-depth-artist-camille-provost-brings-her-joyful-art-to-paris",
-       "summary": "The French-Ivorian artist is showing her puzzle-like sculptures at Acne Paper’s exhibition space in the Palais Royal",
-       "published": "2026-10-22T09:33:31Z",
-       "published_ts": 1792661611.0,
+       "title": "Alison Kuo’s homage to Cantonese opera at the New Museum",
+       "link": "https://www.theartnewspaper.com/2026/10/22/alison-kuo-pays-homage-to-cantonese-opera-at-the-new-museum",
+       "summary": "This weekend, the New York-based artist celebrates her family history and diaspora communities in the culmination of her museum residency",
+       "published": "2026-10-22T19:48:03Z",
+       "published_ts": 1792698483.0,
+       "source": "The Art Newspaper",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "October Book Bag: from Taryn Simon’s intriguing Guggenheim installation catalogue to a publication about Hans Arp’s paper sculptures",
+       "link": "https://www.theartnewspaper.com/2026/10/22/october-book-bag-from-taryn-simons-intriguing-guggenheim-installation-catalogue-to-a-publication-about-hans-arps-paper-sculptures",
+       "summary": "Our round-up of the latest art publications",
+       "published": "2026-10-22T15:32:50Z",
+       "published_ts": 1792683170.0,
+       "source": "The Art Newspaper",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Art Basel Paris to close early due to protests",
+       "link": "https://www.theartnewspaper.com/2026/10/22/art-basel-paris-closes-early-due-to-protests",
+       "summary": "Fifth edition of the fair will conclude on Friday evening, with demonstrations in Paris expected to resume this weekend",
+       "published": "2026-10-22T15:30:18Z",
+       "published_ts": 1792683018.0,
+       "source": "The Art Newspaper",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Could proposed bill give the French state too much control over privately owned art?",
+       "link": "https://www.theartnewspaper.com/2026/10/22/could-proposed-bill-give-the-french-state-too-much-control-over-privately-owned-art",
+       "summary": "Increasing the state’s power over works that are designated as “national treasures” runs the risk of damaging the art market",
+       "published": "2026-10-22T11:51:12Z",
+       "published_ts": 1792669872.0,
+       "source": "The Art Newspaper",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Anselm Kiefer painting too large to exhibit gets its own David Chipperfield pavilion",
+       "link": "https://www.theartnewspaper.com/2026/10/22/anselm-kiefer-painting-too-large-to-exhibit-gets-its-own-david-chipperfield-pavilion",
+       "summary": "Launch of the building in Germany coincides with reopening of Kunsthalle Würth, which is marking its 25th anniversary with a major exhibition exploring the German artist’s oeuvre",
+       "published": "2026-10-22T11:14:17Z",
+       "published_ts": 1792667657.0,
        "source": "The Art Newspaper",
        "category": "News & Market",
        "mena": false,
@@ -65,341 +400,6 @@
        "category": "News & Market",
        "mena": false,
        "needs_translation": false
-      },
-      {
-       "title": "Comment | Seabed heritage is facing catastrophic destruction on multiple fronts",
-       "link": "https://www.theartnewspaper.com/2026/10/21/comment-seabed-heritage-facing-catastrophic-destruction-multiple-fronts",
-       "summary": "From bottom-trawling fishing boats to increased ocean acidity, shipwrecks and other maritime heritage are in peril throughout the world",
-       "published": "2026-10-21T16:20:34Z",
-       "published_ts": 1792599634.0,
-       "source": "The Art Newspaper",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Miami dealer sentenced to almost 4 years in prison for selling fake Warhols",
-       "link": "https://www.theartnewspaper.com/2026/10/21/miami-dealer-sentenced-to-almost-4-years-in-prison-for-selling-fake-warhols",
-       "summary": "Leslie Roberts’s lawyer says the disgraced gallerist has been key to helping authorities uncover other art-fraud cases",
-       "published": "2026-10-21T14:57:48Z",
-       "published_ts": 1792594668.0,
-       "source": "The Art Newspaper",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Art Basel Paris dispatch: what to see beyond the fair this week",
-       "link": "https://www.theartnewspaper.com/2026/10/21/the-french-dispatch-what-to-see-beyond-the-grand-palais-during-art-basel-paris",
-       "summary": "Our reporters on the ground in Paris give their “around town” art highlights",
-       "published": "2026-10-21T12:57:46Z",
-       "published_ts": 1792587466.0,
-       "source": "The Art Newspaper",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Comment | How do we protect artists from gallery insolvency?",
-       "link": "https://www.theartnewspaper.com/2026/10/21/how-do-we-protect-artists-from-gallery-insolvency",
-       "summary": "A recent spate of closures has led to calls for legislation—but education is important, too",
-       "published": "2026-10-21T11:18:20Z",
-       "published_ts": 1792581500.0,
-       "source": "The Art Newspaper",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      }
-     ]
-    },
-    {
-     "name": "ArtNews",
-     "site": "https://www.artnews.com/",
-     "feed_url": "https://www.artnews.com/feed/",
-     "lang": "en",
-     "newest_ts": 1792659600.0,
-     "items": [
-      {
-       "title": "Elisa Nuyten’s Vega Foundation Is Quietly Reshaping the World of Moving-Image Art",
-       "link": "https://www.artnews.com/art-news/news/elisa-nuyten-vega-foundation-moving-image-art-1234802992/",
-       "summary": "\"Collectors often stay away from the medium,\" Nuyten said. \"That’s why we quickly rose in the art world.\"",
-       "published": "2026-10-22T09:00:00Z",
-       "published_ts": 1792659600.0,
-       "source": "ArtNews",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "New York Public Library Gets Over 250 Kiki Smith Prints, a Gift from the Artist’s Sister Seton Smith",
-       "link": "https://www.artnews.com/art-news/news/new-york-public-library-kiki-smith-prints-gift-seton-smith-1234803245/",
-       "summary": "Anyone with a library card will have access to the works.",
-       "published": "2026-10-22T09:00:00Z",
-       "published_ts": 1792659600.0,
-       "source": "ArtNews",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "The Best Booths at Art Basel Paris, From Tar Paintings to a Falling Knife",
-       "link": "https://www.artnews.com/list/art-news/market/art-basel-paris-2026-best-booths-1234803335/",
-       "summary": "The Swiss company’s French fair runs through Sunday at the Grand Palais.",
-       "published": "2026-10-22T04:30:00Z",
-       "published_ts": 1792643400.0,
-       "source": "ArtNews",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Florentina Holzinger Is Closing Out ‘Seaworld Venice’ With a ‘Final Dinner’ Made From Bodily Waste",
-       "link": "https://www.artnews.com/art-news/news/florentina-holzinger-seaworld-venice-final-dinner-1234803314/",
-       "summary": "\"Containing all the bodily waste collected from pavilion visitors over the past seven months, the distilled remains serve as a monument for the future,\" reads the announcement.",
-       "published": "2026-10-21T20:44:10Z",
-       "published_ts": 1792615450.0,
-       "source": "ArtNews",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Condemning Violent Protestors, Alicja Kwade to Remove Art Basel Paris Public Sculpture Early",
-       "link": "https://www.artnews.com/art-news/news/protestors-alicja-kwade-remove-art-basel-paris-sculpture-1234803329/",
-       "summary": "A monumental sculpture by artist Alicja Kwade will be removed early from public display in Paris, where it was installed part of the public program of the Art Basel Paris fair. The piece is situated on the Avenue Winston Churchill, on the doorstep of the Grand Palais, where the fair is taking place; it went […]",
-       "published": "2026-10-21T20:28:37Z",
-       "published_ts": 1792614517.0,
-       "source": "ArtNews",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "What’s Selling at Art Basel Paris? Reported Sales Top Out at $10 M. for a Richter and a Baselitz",
-       "link": "https://www.artnews.com/art-news/market/art-basel-paris-2026-sales-gerhard-richter-georg-baselitz-1234803317/",
-       "summary": "Dealers said the experience was like \"drinking from a fire hose.\"",
-       "published": "2026-10-21T20:22:49Z",
-       "published_ts": 1792614169.0,
-       "source": "ArtNews",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "V&A Workers to Strike at All Four Sites Over Pay, Conditions",
-       "link": "https://www.artnews.com/art-news/news/va-workers-to-strike-at-all-four-sites-over-pay-conditions-1234803233/",
-       "summary": "The museum union is set to strike on October 29 and 30, citing unfair pay and allegations of “Amazon-style” working conditions at the newly opened V&A East Storehouse.",
-       "published": "2026-10-21T17:04:46Z",
-       "published_ts": 1792602286.0,
-       "source": "ArtNews",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Melting Ron DeSantis Statue Makes a Point About Climate Change in Florida",
-       "link": "https://www.artnews.com/art-news/news/melting-ron-desantis-statue-florida-climate-change-1234803285/",
-       "summary": "Florida has plenty of reasons to worry about rising temperatures, including growing risks from sea-level rise and soaring insurance costs.",
-       "published": "2026-10-21T16:41:04Z",
-       "published_ts": 1792600864.0,
-       "source": "ArtNews",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      }
-     ]
-    },
-    {
-     "name": "Artnet News",
-     "site": "https://news.artnet.com/",
-     "feed_url": "https://news.artnet.com/feed",
-     "lang": "en",
-     "newest_ts": 1792655225.0,
-     "items": [
-      {
-       "title": "InScope Wants to Reinvent the Miami Art Week Experience",
-       "link": "https://news.artnet.com/art-world/inscope-miami-2826260",
-       "summary": "Produced by the same team behind Scope Art Show, InScope reimagines Miami Art Week as a single, continuous experience rather than a string of separate fairs and parties.",
-       "published": "2026-10-22T07:47:05Z",
-       "published_ts": 1792655225.0,
-       "source": "Artnet News",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Robert Rauschenberg’s Epic Digital Catalogue Raisonné Is Here",
-       "link": "https://news.artnet.com/artnet-bulletin/robert-rauschenberg-catalogue-raisonne-oct-22-2827051",
-       "summary": "Plus, the V&A faces strike trouble, the NFL taps Jammie Holmes in Paris, and other art world matters.",
-       "published": "2026-10-22T06:30:47Z",
-       "published_ts": 1792650647.0,
-       "source": "Artnet News",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Frank Lloyd Wright’s Only Planetarium Reopens After Major Restoration",
-       "link": "https://news.artnet.com/art-world/frank-lloyd-wright-miller-planetarium-restoration-2826965",
-       "summary": "A star is reborn!",
-       "published": "2026-10-21T21:19:57Z",
-       "published_ts": 1792617597.0,
-       "source": "Artnet News",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Colombia’s President Declared a Culture War. The National Museum Is the First Casualty",
-       "link": "https://news.artnet.com/art-world/national-museum-colombia-protests-2826893",
-       "summary": "A judge has ordered a halt to further exhibition changes, but experts warn the removals threaten protections enshrined in the constitution.",
-       "published": "2026-10-21T17:11:02Z",
-       "published_ts": 1792602662.0,
-       "source": "Artnet News",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "How Gershon Iskowitz Forged His Own Path to Abstraction",
-       "link": "https://news.artnet.com/art-world/gershon-iskowitz-caviar20-2826233",
-       "summary": "In Toronto, Caviar20 follow Iskowitz’s transformation from figurative painter processing Holocaust trauma to pioneer of Canadian abstraction in new career-spanning retrospective.",
-       "published": "2026-10-21T09:30:02Z",
-       "published_ts": 1792575002.0,
-       "source": "Artnet News",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Francis Bacon and Willem de Kooning Meet Again",
-       "link": "https://news.artnet.com/artnet-bulletin/bacon-de-kooning-oct-21-2826529",
-       "summary": "Plus, a Patti Smith photo show, a massive Anselm Kiefer finds a home, and other art world matters.",
-       "published": "2026-10-21T06:40:50Z",
-       "published_ts": 1792564850.0,
-       "source": "Artnet News",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "188-Year-Old Mystery of Photography’s First Human Subjects Solved",
-       "link": "https://news.artnet.com/art-world/daguerre-photograph-subjects-location-2826596",
-       "summary": "In 1838, Louis Daguerre snapped the first photograph. Now, a team of filmmakers has identified the exact location of that historic view.",
-       "published": "2026-10-20T21:55:48Z",
-       "published_ts": 1792533348.0,
-       "source": "Artnet News",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Art Basel Paris Comes Out Swinging With $100M-Plus Modigliani, Big-Dollar Sales",
-       "link": "https://news.artnet.com/market/art-basel-paris-2026-opening-day-2826583",
-       "summary": "The fair keeps 'getting more and more traction,' a dealer said. Everyone is here.",
-       "published": "2026-10-20T21:45:40Z",
-       "published_ts": 1792532740.0,
-       "source": "Artnet News",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      }
-     ]
-    },
-    {
-     "name": "Hyperallergic",
-     "site": "https://hyperallergic.com/",
-     "feed_url": "https://hyperallergic.com/feed/",
-     "lang": "en",
-     "newest_ts": 1792617643.0,
-     "items": [
-      {
-       "title": "The French Student Protesters Subverting Monuments Like It's May 68",
-       "link": "https://hyperallergic.com/the-french-student-protesters-subverting-monuments-like-its-may-68/",
-       "summary": "Demonstrators are upending the country’s public landmarks to denounce police violence, under-resourced schools, and a worsening cost-of-living crisis.",
-       "published": "2026-10-21T21:20:43Z",
-       "published_ts": 1792617643.0,
-       "source": "Hyperallergic",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "The Rise and Fall of My Wikipedia Page",
-       "link": "https://hyperallergic.com/the-rise-and-fall-of-my-wikipedia-page/",
-       "summary": "After a short entry about me mysteriously appeared, anonymous users who were seemingly men debated whether I was “credible enough” to justify my own page.",
-       "published": "2026-10-21T20:56:25Z",
-       "published_ts": 1792616185.0,
-       "source": "Hyperallergic",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Spirits Against the Patriarchy",
-       "link": "https://hyperallergic.com/spirits-against-the-patriarchy/",
-       "summary": "An exceptional exhibition that brings together 17 women artists whose work emerges through spirit communication.",
-       "published": "2026-10-21T20:32:21Z",
-       "published_ts": 1792614741.0,
-       "source": "Hyperallergic",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Is Germany's Far-Right AfD Co-Opting Joseph Beuys?",
-       "link": "https://hyperallergic.com/is-germanys-far-right-afd-co-opting-joseph-beuys/",
-       "summary": "Dozens of galleries from Düsseldorf and Cologne signed a letter condemning the anti-immigrant party's invocation of the postwar artist in promotions for an upcoming event.",
-       "published": "2026-10-21T20:21:40Z",
-       "published_ts": 1792614100.0,
-       "source": "Hyperallergic",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Man Killed by Falling Debris at Frank Lloyd Wright’s Arizona Home",
-       "link": "https://hyperallergic.com/man-killed-by-falling-debris-at-frank-lloyd-wrights-arizona-home/",
-       "summary": "Winds reportedly dislodged the piece of roofing material that struck Rogério Renato Mateucci, a Brazilian university rector.",
-       "published": "2026-10-21T18:48:30Z",
-       "published_ts": 1792608510.0,
-       "source": "Hyperallergic",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Peter Nagy, Artist and Gallerist Who Shaped Two Art Scenes, Dies at 66",
-       "link": "https://hyperallergic.com/peter-nagy-artist-and-gallerist-who-shaped-two-art-scenes-dies-at-66/",
-       "summary": "This week, we honor a fixture of New York and New Delhi art, a painter who folded the world into abstraction, and a champion of Denver’s scene.",
-       "published": "2026-10-21T17:47:25Z",
-       "published_ts": 1792604845.0,
-       "source": "Hyperallergic",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Ilana Savdie and Chaïm Soutine Shed the Skin",
-       "link": "https://hyperallergic.com/ilana-savdie-and-chaim-soutine-shed-the-skin/",
-       "summary": "An exhibition pairing paintings by the two artists guides us through the chambers of our own minds and bodies.",
-       "published": "2026-10-21T15:49:33Z",
-       "published_ts": 1792597773.0,
-       "source": "Hyperallergic",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "“Costume Art” Is a Bad Look for The Met",
-       "link": "https://hyperallergic.com/costume-art-is-a-bad-look-for-the-met/",
-       "summary": "The exhibition shapes a fashion canon based less on historical relevance than on the interests of those in charge.",
-       "published": "2026-10-21T15:35:54Z",
-       "published_ts": 1792596954.0,
-       "source": "Hyperallergic",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
       }
      ]
     },
@@ -408,8 +408,52 @@
      "site": "https://ocula.com/magazine/",
      "feed_url": "https://ocula.com/magazine/feed/",
      "lang": "en",
-     "newest_ts": 1792556040.0,
+     "newest_ts": 1792692006.0,
      "items": [
+      {
+       "title": "Is It Monstrous to Make Art About Your Family?",
+       "link": "https://ocula.com/magazine/opinion/fatherland-almodovar-joachim-trier-family-writing/",
+       "summary": "Novelist Ben Markovits explores the tensions between writing and personal relationships by looking at a trio of recent films: Fatherland by Pawel Pawlikowski, Bitter Christmas by Pedro Almodóvar, and Sentimental Value by Joachim Trier.",
+       "published": "2026-10-22T18:00:06Z",
+       "published_ts": 1792692006.0,
+       "source": "Ocula Magazine",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Chanel Becomes Lead Partner With Hong Kong’s M+ Museum",
+       "link": "https://ocula.com/magazine/art-news/chanel-m-museum-hong-kong-partnership-asia/",
+       "summary": "The renewed three‑year partnership continues the global luxury fashion brand’s support for Chinese and Asian art through research, commissions and acquisitions overseas.",
+       "published": "2026-10-22T05:08:00Z",
+       "published_ts": 1792645680.0,
+       "source": "Ocula Magazine",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Art Basel Paris to Shutter Early Ahead of Fresh Wave of Protests",
+       "link": "https://ocula.com/magazine/art-news/art-basel-paris-to-shutter-early-protests/",
+       "summary": "Citing the need to “safeguard our visitors, exhibitors, partners, staff and artworks”, organisers announced this afternoon that the mega‑fair will close at 7pm on Friday, in anticipation of further rioting in the French capital.",
+       "published": "2026-10-22T02:14:36Z",
+       "published_ts": 1792635276.0,
+       "source": "Ocula Magazine",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Preview Days at Art Basel Paris Saw Big Sales, but Could Fair Organisers Be ‘Even More Radical’?",
+       "link": "https://ocula.com/magazine/art-news/v-vip-art-basel-paris-big-sales-more-radical/",
+       "summary": "Art Basel Paris’ two preview days have seen strong, if not record‑breaking, sales. Although one gallerist suggests the Avant Première could be more intimate, as Naomi Rea reports, plenty of money is still being spent—especially when there’s a $100m Modigliani to see.",
+       "published": "2026-10-21T23:23:47Z",
+       "published_ts": 1792625027.0,
+       "source": "Ocula Magazine",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
       {
        "title": "‘The Floating World’, and the Logical Conclusion of the Art World",
        "link": "https://ocula.com/magazine/opinion/ben-eastham-the-floating-world-fitzcarraldo-2026/",
@@ -449,50 +493,6 @@
        "summary": "Amid ongoing tensions in cities across France and Europe, the mega art fair opened in the French capital earlier today with additional security—though galleries and dealers seemed undeterred.",
        "published": "2026-10-20T04:15:47Z",
        "published_ts": 1792469747.0,
-       "source": "Ocula Magazine",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Sex, War and Revolution in Beirut: The Photographs of Myriam Boulos",
-       "link": "https://ocula.com/magazine/conversations/myriam-boulos-foam-amsterdam-2026/",
-       "summary": "The Lebanese photographer talks to writer Róisín Tapponi about depicting strangers’ sexual fantasies, life in Beirut, the influence of Nan Goldin and her first solo museum exhibition in Amsterdam.",
-       "published": "2026-10-20T03:00:00Z",
-       "published_ts": 1792465200.0,
-       "source": "Ocula Magazine",
-       "category": "News & Market",
-       "mena": true,
-       "needs_translation": false
-      },
-      {
-       "title": "Slot Machines and Earl Grey Sours: Behaving Badly At Frieze London",
-       "link": "https://ocula.com/magazine/opinion/frieze-london-bad-habits-diary-2026/",
-       "summary": "Amid big sales, celebrity guests and talking‑point toilets, confidence was the prevailing mood at Frieze London. Izabella Scott shares her diary.",
-       "published": "2026-10-20T00:12:00Z",
-       "published_ts": 1792455120.0,
-       "source": "Ocula Magazine",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Third Time Lucky? Art Centre Opens on Paris’ Île Seguin Island",
-       "link": "https://ocula.com/magazine/art-news/art-centre-opens-paris-ile-seguin-island-large/",
-       "summary": "Following years of turbulence around the redevelopment of the former Renault factory island, Large, a new contemporary art venue, has opened with an exhibition exploring workers’ histories.",
-       "published": "2026-10-19T23:57:45Z",
-       "published_ts": 1792454265.0,
-       "source": "Ocula Magazine",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "In Paris, a New Exhibition Explores the Shared Convictions of Warhol, Basquiat and Haring",
-       "link": "https://ocula.com/magazine/art-news/paris-exhibition-warhol-basquiat-haring-art-basel/",
-       "summary": "Opera Gallery hopes to bring new connections and perspectives on the trio into view—no mean feat when exhibiting three of the world’s most ubiquitous artists.",
-       "published": "2026-10-18T23:52:44Z",
-       "published_ts": 1792367564.0,
        "source": "Ocula Magazine",
        "category": "News & Market",
        "mena": false,
@@ -794,7 +794,7 @@
      "name": "Persbook Annual of Contemporary Art",
      "site": "https://persbookart.com/",
      "lang": "en",
-     "age_days": 680,
+     "age_days": 681,
      "item": {
       "title": "«من اینجا هستم»ِ تمرینی برای مرکز زدایی | مهدیار جمشیدی و الهام پوریامهر",
       "link": "https://persbookart.com/4015/mahdyarjamshidi/",
@@ -805,25 +805,7 @@
       "category": "Iranian Art",
       "mena": false,
       "needs_translation": true,
-      "age_days": 680
-     }
-    },
-    {
-     "name": "Iranian.com Arts & Culture",
-     "site": "https://iranian.com/",
-     "lang": "en",
-     "age_days": 1848,
-     "item": {
-      "title": "We’re back",
-      "link": "https://iranian.com/2021/09/29/were-back/",
-      "summary": "In mid-summer 1995 I printed a thousand postcards to mail them to Iranians in the U.S. announcing the launch of iranian.com. It was the best way to get the word out since most people did not have email yet. On the back I wrote: \"THE IRANIAN Online! Your nightmare has come to the internet? Well, not exactly.\"",
-      "published": "2021-09-30T03:23:14Z",
-      "published_ts": 1632972194.0,
-      "source": "Iranian.com Arts & Culture",
-      "category": "Iranian Art",
-      "mena": true,
-      "needs_translation": false,
-      "age_days": 1848
+      "age_days": 681
      }
     }
    ],
@@ -977,7 +959,7 @@
      "name": "Barjeel Art Foundation",
      "site": "https://www.barjeelartfoundation.org/",
      "lang": "en",
-     "age_days": 224,
+     "age_days": 225,
      "item": {
       "title": "Palestinian Family",
       "link": "https://www.barjeelartfoundation.org/collection/palestinian-family/",
@@ -988,14 +970,14 @@
       "category": "Museums & Institutions",
       "mena": true,
       "needs_translation": false,
-      "age_days": 224
+      "age_days": 225
      }
     },
     {
      "name": "Institut du Monde Arabe",
      "site": "https://www.imarabe.org/",
      "lang": "fr",
-     "age_days": 1003,
+     "age_days": 1004,
      "item": {
       "title": "Étienne Dinet, passions algériennes",
       "link": "https://www.imarabe.org/fr/agenda/expositions-musee/etienne-dinet-passions-algeriennes",
@@ -1006,7 +988,7 @@
       "category": "Museums & Institutions",
       "mena": true,
       "needs_translation": false,
-      "age_days": 1003
+      "age_days": 1004
      }
     }
    ],
@@ -1146,7 +1128,7 @@
      "name": "Art Dubai",
      "site": "https://www.artdubai.ae/",
      "lang": "en",
-     "age_days": 2009,
+     "age_days": 2010,
      "item": {
       "title": "Art Dubai 2021 leads the way back to normality",
       "link": "https://www.artdubai.ae/art-dubai-2021-leads-the-way-back-to-normality/",
@@ -1157,7 +1139,7 @@
       "category": "Fairs & Events",
       "mena": true,
       "needs_translation": false,
-      "age_days": 2009
+      "age_days": 2010
      }
     }
    ],
@@ -1410,23 +1392,22 @@
    "category": "Iranian Art",
    "url": "https://persbookart.com/feed/",
    "stage": "window",
-   "error": "feed OK (10 entries) but nothing published in the last 180 days; newest is 680 days old",
+   "error": "feed OK (10 entries) but nothing published in the last 180 days; newest is 681 days old",
    "severity": "info"
   },
   {
    "source": "Iranian.com Arts & Culture",
    "category": "Iranian Art",
    "url": "https://iranian.com/feed/",
-   "stage": "window",
-   "error": "feed OK (15 entries) but nothing published in the last 180 days; newest is 1848 days old",
-   "severity": "info"
+   "stage": "fetch",
+   "error": "connection failed: [Errno 111] Connection refused"
   },
   {
    "source": "Institut du Monde Arabe",
    "category": "Museums & Institutions",
    "url": "https://www.imarabe.org/fr/rss.xml",
    "stage": "window",
-   "error": "feed OK (3 entries) but nothing published in the last 180 days; newest is 1003 days old",
+   "error": "feed OK (3 entries) but nothing published in the last 180 days; newest is 1004 days old",
    "severity": "info"
   },
   {
@@ -1434,7 +1415,7 @@
    "category": "Museums & Institutions",
    "url": "https://www.barjeelartfoundation.org/feed/",
    "stage": "window",
-   "error": "feed OK (10 entries) but nothing published in the last 180 days; newest is 224 days old",
+   "error": "feed OK (10 entries) but nothing published in the last 180 days; newest is 225 days old",
    "severity": "info"
   },
   {
@@ -1442,7 +1423,7 @@
    "category": "Fairs & Events",
    "url": "https://www.artdubai.ae/feed/",
    "stage": "window",
-   "error": "feed OK (1 entries) but nothing published in the last 180 days; newest is 2009 days old",
+   "error": "feed OK (1 entries) but nothing published in the last 180 days; newest is 2010 days old",
    "severity": "info"
   }
  ],
@@ -1522,7 +1503,7 @@
   {
    "source": "Iranian.com Arts & Culture",
    "category": "Iranian Art",
-   "fetched": 15,
+   "fetched": 0,
    "kept": 0
   },
   {
