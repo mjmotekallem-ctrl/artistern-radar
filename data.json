@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-24T09:21:20.163552Z",
+ "generated_at": "2026-10-25T09:38:39.716654Z",
  "window_days": 180,
  "max_items_per_feed": 8,
  "totals": {
@@ -16,109 +16,34 @@
    "item_count": 40,
    "sources": [
     {
-     "name": "Hyperallergic",
-     "site": "https://hyperallergic.com/",
-     "feed_url": "https://hyperallergic.com/feed/",
-     "lang": "en",
-     "newest_ts": 1792785372.0,
-     "items": [
-      {
-       "title": "Portrait of a Paris Art Week on Fire",
-       "link": "https://hyperallergic.com/portrait-of-a-paris-art-week-on-fire/",
-       "summary": "On protest, business as usual, and the surreal experience of attending an art fair while smelling burning plastic.",
-       "published": "2026-10-23T19:56:12Z",
-       "published_ts": 1792785372.0,
-       "source": "Hyperallergic",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "How Art Can Deliver Justice for Refugees",
-       "link": "https://hyperallergic.com/how-art-can-deliver-justice-for-refugees/",
-       "summary": "In the legal system, art created by refugees and incarcerated people can serve both as a form of therapy and as evidence of mass atrocities.",
-       "published": "2026-10-23T19:50:12Z",
-       "published_ts": 1792785012.0,
-       "source": "Hyperallergic",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "The War on Art Is Repeating Itself",
-       "link": "https://hyperallergic.com/the-war-on-art-is-repeating-itself/",
-       "summary": "As an artist who lived through the Reagan-era Culture Wars, I recommend Isaac Butler’s “The Perfect Moment” for the stories that parallel our current fight to defend creative expression.",
-       "published": "2026-10-23T19:24:34Z",
-       "published_ts": 1792783474.0,
-       "source": "Hyperallergic",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Kid Cudi to Write, Direct, and Star as Basquiat in New Biopic",
-       "link": "https://hyperallergic.com/kid-cudi-to-write-direct-and-star-as-basquiat-in-new-biopic/",
-       "summary": "The rapper called his forthcoming film, \"JEAN,\" a “love letter” to the late artist and ’80s New York in his announcement on October 21.",
-       "published": "2026-10-23T19:14:00Z",
-       "published_ts": 1792782840.0,
-       "source": "Hyperallergic",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "The Center Cannot Hold at the Toronto Biennial",
-       "link": "https://hyperallergic.com/the-center-cannot-hold-at-the-toronto-biennial/",
-       "summary": "It’s a provocative and discursive exploration of how artists respond to our late-capitalist epoch, but its focus on “rupture” raises questions.",
-       "published": "2026-10-23T19:01:25Z",
-       "published_ts": 1792782085.0,
-       "source": "Hyperallergic",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Scientists Contest Dating of Van Gogh’s \"The Starry Night\"",
-       "link": "https://hyperallergic.com/scientists-contest-dating-of-van-goghs-the-starry-night/",
-       "summary": "The researchers identified discrepancies between the celestial alignments in June 1889 and Vincent van Gogh’s painted night sky.",
-       "published": "2026-10-23T16:55:26Z",
-       "published_ts": 1792774526.0,
-       "source": "Hyperallergic",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "A View From the Easel: Gerardo Rosales",
-       "link": "https://hyperallergic.com/a-view-from-the-easel-360/",
-       "summary": "“I often say that my favorite material is the next one, the one I haven’t worked with yet.”",
-       "published": "2026-10-23T15:15:24Z",
-       "published_ts": 1792768524.0,
-       "source": "Hyperallergic",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Skirball Cultural Center presents “The 1960s — A Generation on Fire: Judy Baca’s Great Wall of Los Angeles”",
-       "link": "https://hyperallergic.com/skirball-cultural-center-presents-the-1960s-a-generation-on-fire-judy-bacas-great-wall-of-los-angeles/",
-       "summary": "The exhibition shares two new sections of the public art mural on view for the first time, featuring moments from an era of collective action that still resonates today.",
-       "published": "2026-10-23T14:30:00Z",
-       "published_ts": 1792765800.0,
-       "source": "Hyperallergic",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      }
-     ]
-    },
-    {
      "name": "ArtNews",
      "site": "https://www.artnews.com/",
      "feed_url": "https://www.artnews.com/feed/",
      "lang": "en",
-     "newest_ts": 1792785353.0,
+     "newest_ts": 1792918800.0,
      "items": [
+      {
+       "title": "Walid Raad’s Way of Working Is Inspired by the Mirrors in Vampire Movies",
+       "link": "https://www.artnews.com/art-in-america/features/walid-raad-icons-venice-biennale-paula-cooper-1234803667/",
+       "summary": "His work in the Venice Biennale and elsewhere turns history’s absences into artworks.",
+       "published": "2026-10-25T09:00:00Z",
+       "published_ts": 1792918800.0,
+       "source": "ArtNews",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "In a Historic Blunder, Wu-Tang Clan Sold an Album as a Unique Artwork—A New Doc Tells the Story of an Architect of the Sale",
+       "link": "https://www.artnews.com/art-news/reviews/wu-tang-clan-sold-album-artwork-once-upon-time-shaolin-film-1234803666/",
+       "summary": "Unfortunately, the architect of the project doesn’t prove a compelling presence on screen.",
+       "published": "2026-10-24T13:22:00Z",
+       "published_ts": 1792848120.0,
+       "source": "ArtNews",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
       {
        "title": "Prized Monet Paintings at the Center of Milwaukee Art Museum and MFA St. Petersburg’s World Series Wager",
        "link": "https://www.artnews.com/art-news/news/monet-milwaukee-art-museum-mfa-st-petersburgs-world-series-wager-1234803724/",
@@ -184,25 +109,197 @@
        "category": "News & Market",
        "mena": false,
        "needs_translation": false
-      },
+      }
+     ]
+    },
+    {
+     "name": "Hyperallergic",
+     "site": "https://hyperallergic.com/",
+     "feed_url": "https://hyperallergic.com/feed/",
+     "lang": "en",
+     "newest_ts": 1792871333.0,
+     "items": [
       {
-       "title": "Comcast Cofounder Gives $20 M. to Philadelphia Museum of Art, One of its Largest Gifts, To Greatly Expand Education Spaces",
-       "link": "https://www.artnews.com/art-news/news/comcast-cofounder-20m-philadelphia-museum-art-education-1234803636/",
-       "summary": "“We don’t have much in the way of dedicated space for education, so it’s been slightly improvisational,” said director and CEO Daniel Weiss.",
-       "published": "2026-10-23T15:15:00Z",
-       "published_ts": 1792768500.0,
-       "source": "ArtNews",
+       "title": "Artists Take to the Streets Amid Massive Protests in France",
+       "link": "https://hyperallergic.com/artists-take-to-the-streets-amid-massive-protests-in-france/",
+       "summary": "Tens of thousands gathered at Porte d’Italie in Paris for a march led in part by culture-sector coalitions demanding a better life for artists.",
+       "published": "2026-10-24T19:48:53Z",
+       "published_ts": 1792871333.0,
+       "source": "Hyperallergic",
        "category": "News & Market",
        "mena": false,
        "needs_translation": false
       },
       {
-       "title": "More Paris Museums Announce Closures Ahead of Saturday Protests, Winner of Marcel Duchamp Prize Announced, and More: Morning Links for October 23, 2026",
-       "link": "https://www.artnews.com/art-news/news/more-paris-museums-announce-closures-saturday-protests-1234803634/",
-       "summary": "Here's what we're reading this morning.",
-       "published": "2026-10-23T13:04:31Z",
-       "published_ts": 1792760671.0,
-       "source": "ArtNews",
+       "title": "This Is Class War",
+       "link": "https://hyperallergic.com/this-is-class-war/",
+       "summary": "The latest on the student protests in France, the art world’s AI problem, one-on-one with Rosana Paulino, and Beer With a Painter featuring Melissa Brown.",
+       "published": "2026-10-24T10:00:00Z",
+       "published_ts": 1792836000.0,
+       "source": "Hyperallergic",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Portrait of a Paris Art Week on Fire",
+       "link": "https://hyperallergic.com/portrait-of-a-paris-art-week-on-fire/",
+       "summary": "On protest, business as usual, and the surreal experience of attending an art fair while smelling burning plastic.",
+       "published": "2026-10-23T19:56:12Z",
+       "published_ts": 1792785372.0,
+       "source": "Hyperallergic",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "How Art Can Deliver Justice for Refugees",
+       "link": "https://hyperallergic.com/how-art-can-deliver-justice-for-refugees/",
+       "summary": "In the legal system, art created by refugees and incarcerated people can serve both as a form of therapy and as evidence of mass atrocities.",
+       "published": "2026-10-23T19:50:12Z",
+       "published_ts": 1792785012.0,
+       "source": "Hyperallergic",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "The War on Art Is Repeating Itself",
+       "link": "https://hyperallergic.com/the-war-on-art-is-repeating-itself/",
+       "summary": "As an artist who lived through the Reagan-era Culture Wars, I recommend Isaac Butler’s “The Perfect Moment” for the stories that parallel our current fight to defend creative expression.",
+       "published": "2026-10-23T19:24:34Z",
+       "published_ts": 1792783474.0,
+       "source": "Hyperallergic",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Kid Cudi to Write, Direct, and Star as Basquiat in New Biopic",
+       "link": "https://hyperallergic.com/kid-cudi-to-write-direct-and-star-as-basquiat-in-new-biopic/",
+       "summary": "The rapper called his forthcoming film, \"JEAN,\" a “love letter” to the late artist and ’80s New York in his announcement on October 21.",
+       "published": "2026-10-23T19:14:00Z",
+       "published_ts": 1792782840.0,
+       "source": "Hyperallergic",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "The Center Cannot Hold at the Toronto Biennial",
+       "link": "https://hyperallergic.com/the-center-cannot-hold-at-the-toronto-biennial/",
+       "summary": "It’s a provocative and discursive exploration of how artists respond to our late-capitalist epoch, but its focus on “rupture” raises questions.",
+       "published": "2026-10-23T19:01:25Z",
+       "published_ts": 1792782085.0,
+       "source": "Hyperallergic",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Scientists Contest Dating of Van Gogh’s \"The Starry Night\"",
+       "link": "https://hyperallergic.com/scientists-contest-dating-of-van-goghs-the-starry-night/",
+       "summary": "The researchers identified discrepancies between the celestial alignments in June 1889 and Vincent van Gogh’s painted night sky.",
+       "published": "2026-10-23T16:55:26Z",
+       "published_ts": 1792774526.0,
+       "source": "Hyperallergic",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      }
+     ]
+    },
+    {
+     "name": "Ocula Magazine",
+     "site": "https://ocula.com/magazine/",
+     "feed_url": "https://ocula.com/magazine/feed/",
+     "lang": "en",
+     "newest_ts": 1792868407.0,
+     "items": [
+      {
+       "title": "Firenze Lai, Chronicler of the Body in the Age of the iPhone",
+       "link": "https://ocula.com/magazine/conversations/firenze-lai-white-cube-london-october-2026/",
+       "summary": "As her first solo exhibition in the UK takes place at Mason’s Yard, the London‑based artist talks about how tech impacts the body, getting lost and why the figures in her paintings have big feet.",
+       "published": "2026-10-24T19:00:07Z",
+       "published_ts": 1792868407.0,
+       "source": "Ocula Magazine",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Conceptual Duo Brognon Rollin Bags €35,000 Marcel Duchamp Prize",
+       "link": "https://ocula.com/magazine/art-news/brognon-rollin-wins-marcel-duchamp-prize/",
+       "summary": "The award, first presented in 2000, has this year recognised the work of David Brognon and Stéphanie Rollin, whose installations and multidisciplinary practice consider both the passage of time and empowering people on the margins of society.",
+       "published": "2026-10-23T04:36:47Z",
+       "published_ts": 1792730207.0,
+       "source": "Ocula Magazine",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Protest Art in a Time of Protest: On Barbara Kruger and Jenny Holzer in Paris",
+       "link": "https://ocula.com/magazine/opinion/barbara-kruger-jenny-holzer-paris-protest-2026/",
+       "summary": "Both of these American artists, currently showing in Paris, use text to examine ideas of power and protest. What can their work tell us when viewed in the context of the messy reality of demonstration?",
+       "published": "2026-10-23T02:41:00Z",
+       "published_ts": 1792723260.0,
+       "source": "Ocula Magazine",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "‘Public Art Is Made for People’: Alicja Kwade on Protests and Art Basel Paris’ Closure",
+       "link": "https://ocula.com/magazine/art-news/alicja-kwade-protests-art-basel-paris/",
+       "summary": "Kwade’s installation outside the Grand Palais will be dismantled ahead of tomorrow’s expected unrest—but the artist wasn’t concerned for its safety.",
+       "published": "2026-10-23T01:15:00Z",
+       "published_ts": 1792718100.0,
+       "source": "Ocula Magazine",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "€50m Monet Becomes Most Expensive Artwork Ever Auctioned in France",
+       "link": "https://ocula.com/magazine/art-news/50m-monet-most-expensive-ever-auctioned-france/",
+       "summary": "The work, sold by Sotheby’s in Paris, set a new French auction record for Monet—toppling the previous record set just hours earlier at Christie’s.",
+       "published": "2026-10-22T22:48:39Z",
+       "published_ts": 1792709319.0,
+       "source": "Ocula Magazine",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Is It Monstrous to Make Art About Your Family?",
+       "link": "https://ocula.com/magazine/opinion/fatherland-almodovar-joachim-trier-family-writing/",
+       "summary": "Novelist Ben Markovits explores the tensions between writing and personal relationships by looking at a trio of recent films: Fatherland by Pawel Pawlikowski, Bitter Christmas by Pedro Almodóvar, and Sentimental Value by Joachim Trier.",
+       "published": "2026-10-22T18:00:06Z",
+       "published_ts": 1792692006.0,
+       "source": "Ocula Magazine",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Chanel Becomes Lead Partner With Hong Kong’s M+ Museum",
+       "link": "https://ocula.com/magazine/art-news/chanel-m-museum-hong-kong-partnership-asia/",
+       "summary": "The renewed three‑year partnership continues the global luxury fashion brand’s support for Chinese and Asian art through research, commissions and acquisitions overseas.",
+       "published": "2026-10-22T05:08:00Z",
+       "published_ts": 1792645680.0,
+       "source": "Ocula Magazine",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Art Basel Paris to Shutter Early Ahead of Fresh Wave of Protests",
+       "link": "https://ocula.com/magazine/art-news/art-basel-paris-to-shutter-early-protests/",
+       "summary": "Citing the need to “safeguard our visitors, exhibitors, partners, staff and artworks”, organisers announced this afternoon that the mega‑fair will close at 7pm on Friday, in anticipation of further rioting in the French capital.",
+       "published": "2026-10-22T02:14:36Z",
+       "published_ts": 1792635276.0,
+       "source": "Ocula Magazine",
        "category": "News & Market",
        "mena": false,
        "needs_translation": false
@@ -397,103 +494,6 @@
        "published": "2026-10-22T20:25:16Z",
        "published_ts": 1792700716.0,
        "source": "Artnet News",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      }
-     ]
-    },
-    {
-     "name": "Ocula Magazine",
-     "site": "https://ocula.com/magazine/",
-     "feed_url": "https://ocula.com/magazine/feed/",
-     "lang": "en",
-     "newest_ts": 1792730207.0,
-     "items": [
-      {
-       "title": "Conceptual Duo Brognon Rollin Bags €35,000 Marcel Duchamp Prize",
-       "link": "https://ocula.com/magazine/art-news/brognon-rollin-wins-marcel-duchamp-prize/",
-       "summary": "The award, first presented in 2000, has this year recognised the work of David Brognon and Stéphanie Rollin, whose installations and multidisciplinary practice consider both the passage of time and empowering people on the margins of society.",
-       "published": "2026-10-23T04:36:47Z",
-       "published_ts": 1792730207.0,
-       "source": "Ocula Magazine",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Protest Art in a Time of Protest: On Barbara Kruger and Jenny Holzer in Paris",
-       "link": "https://ocula.com/magazine/opinion/barbara-kruger-jenny-holzer-paris-protest-2026/",
-       "summary": "Both of these American artists, currently showing in Paris, use text to examine ideas of power and protest. What can their work tell us when viewed in the context of the messy reality of demonstration?",
-       "published": "2026-10-23T02:41:56Z",
-       "published_ts": 1792723316.0,
-       "source": "Ocula Magazine",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "‘Public Art Is Made for People’: Alicja Kwade on Protests and Art Basel Paris’ Closure",
-       "link": "https://ocula.com/magazine/art-news/alicja-kwade-protests-art-basel-paris/",
-       "summary": "Kwade’s installation outside the Grand Palais will be dismantled ahead of tomorrow’s expected unrest—but the artist wasn’t concerned for its safety.",
-       "published": "2026-10-23T01:15:00Z",
-       "published_ts": 1792718100.0,
-       "source": "Ocula Magazine",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "€50m Monet Becomes Most Expensive Artwork Ever Auctioned in France",
-       "link": "https://ocula.com/magazine/art-news/50m-monet-most-expensive-ever-auctioned-france/",
-       "summary": "The work, sold by Sotheby’s in Paris, set a new French auction record for Monet—toppling the previous record set just hours earlier at Christie’s.",
-       "published": "2026-10-22T22:48:39Z",
-       "published_ts": 1792709319.0,
-       "source": "Ocula Magazine",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Is It Monstrous to Make Art About Your Family?",
-       "link": "https://ocula.com/magazine/opinion/fatherland-almodovar-joachim-trier-family-writing/",
-       "summary": "Novelist Ben Markovits explores the tensions between writing and personal relationships by looking at a trio of recent films: Fatherland by Pawel Pawlikowski, Bitter Christmas by Pedro Almodóvar, and Sentimental Value by Joachim Trier.",
-       "published": "2026-10-22T18:00:06Z",
-       "published_ts": 1792692006.0,
-       "source": "Ocula Magazine",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Chanel Becomes Lead Partner With Hong Kong’s M+ Museum",
-       "link": "https://ocula.com/magazine/art-news/chanel-m-museum-hong-kong-partnership-asia/",
-       "summary": "The renewed three‑year partnership continues the global luxury fashion brand’s support for Chinese and Asian art through research, commissions and acquisitions overseas.",
-       "published": "2026-10-22T05:08:00Z",
-       "published_ts": 1792645680.0,
-       "source": "Ocula Magazine",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Art Basel Paris to Shutter Early Ahead of Fresh Wave of Protests",
-       "link": "https://ocula.com/magazine/art-news/art-basel-paris-to-shutter-early-protests/",
-       "summary": "Citing the need to “safeguard our visitors, exhibitors, partners, staff and artworks”, organisers announced this afternoon that the mega‑fair will close at 7pm on Friday, in anticipation of further rioting in the French capital.",
-       "published": "2026-10-22T02:14:36Z",
-       "published_ts": 1792635276.0,
-       "source": "Ocula Magazine",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Preview Days at Art Basel Paris Saw Big Sales, but Could Fair Organisers Be ‘Even More Radical’?",
-       "link": "https://ocula.com/magazine/art-news/v-vip-art-basel-paris-big-sales-more-radical/",
-       "summary": "Art Basel Paris’ two preview days have seen strong, if not record‑breaking, sales. Although one gallerist suggests the Avant Première could be more intimate, as Naomi Rea reports, plenty of money is still being spent—especially when there’s a $100m Modigliani to see.",
-       "published": "2026-10-21T23:23:47Z",
-       "published_ts": 1792625027.0,
-       "source": "Ocula Magazine",
        "category": "News & Market",
        "mena": false,
        "needs_translation": false
@@ -794,7 +794,7 @@
      "name": "Persbook Annual of Contemporary Art",
      "site": "https://persbookart.com/",
      "lang": "en",
-     "age_days": 682,
+     "age_days": 683,
      "item": {
       "title": "«من اینجا هستم»ِ تمرینی برای مرکز زدایی | مهدیار جمشیدی و الهام پوریامهر",
       "link": "https://persbookart.com/4015/mahdyarjamshidi/",
@@ -805,7 +805,7 @@
       "category": "Iranian Art",
       "mena": false,
       "needs_translation": true,
-      "age_days": 682
+      "age_days": 683
      }
     }
    ],
@@ -959,7 +959,7 @@
      "name": "Barjeel Art Foundation",
      "site": "https://www.barjeelartfoundation.org/",
      "lang": "en",
-     "age_days": 226,
+     "age_days": 227,
      "item": {
       "title": "Palestinian Family",
       "link": "https://www.barjeelartfoundation.org/collection/palestinian-family/",
@@ -970,14 +970,14 @@
       "category": "Museums & Institutions",
       "mena": true,
       "needs_translation": false,
-      "age_days": 226
+      "age_days": 227
      }
     },
     {
      "name": "Institut du Monde Arabe",
      "site": "https://www.imarabe.org/",
      "lang": "fr",
-     "age_days": 1005,
+     "age_days": 1006,
      "item": {
       "title": "Étienne Dinet, passions algériennes",
       "link": "https://www.imarabe.org/fr/agenda/expositions-musee/etienne-dinet-passions-algeriennes",
@@ -988,7 +988,7 @@
       "category": "Museums & Institutions",
       "mena": true,
       "needs_translation": false,
-      "age_days": 1005
+      "age_days": 1006
      }
     }
    ],
@@ -1128,7 +1128,7 @@
      "name": "Art Dubai",
      "site": "https://www.artdubai.ae/",
      "lang": "en",
-     "age_days": 2011,
+     "age_days": 2012,
      "item": {
       "title": "Art Dubai 2021 leads the way back to normality",
       "link": "https://www.artdubai.ae/art-dubai-2021-leads-the-way-back-to-normality/",
@@ -1139,7 +1139,7 @@
       "category": "Fairs & Events",
       "mena": true,
       "needs_translation": false,
-      "age_days": 2011
+      "age_days": 2012
      }
     }
    ],
@@ -1392,7 +1392,7 @@
    "category": "Iranian Art",
    "url": "https://persbookart.com/feed/",
    "stage": "window",
-   "error": "feed OK (10 entries) but nothing published in the last 180 days; newest is 682 days old",
+   "error": "feed OK (10 entries) but nothing published in the last 180 days; newest is 683 days old",
    "severity": "info"
   },
   {
@@ -1407,7 +1407,7 @@
    "category": "Museums & Institutions",
    "url": "https://www.imarabe.org/fr/rss.xml",
    "stage": "window",
-   "error": "feed OK (3 entries) but nothing published in the last 180 days; newest is 1005 days old",
+   "error": "feed OK (3 entries) but nothing published in the last 180 days; newest is 1006 days old",
    "severity": "info"
   },
   {
@@ -1415,7 +1415,7 @@
    "category": "Museums & Institutions",
    "url": "https://www.barjeelartfoundation.org/feed/",
    "stage": "window",
-   "error": "feed OK (10 entries) but nothing published in the last 180 days; newest is 226 days old",
+   "error": "feed OK (10 entries) but nothing published in the last 180 days; newest is 227 days old",
    "severity": "info"
   },
   {
@@ -1423,7 +1423,7 @@
    "category": "Fairs & Events",
    "url": "https://www.artdubai.ae/feed/",
    "stage": "window",
-   "error": "feed OK (1 entries) but nothing published in the last 180 days; newest is 2011 days old",
+   "error": "feed OK (1 entries) but nothing published in the last 180 days; newest is 2012 days old",
    "severity": "info"
   }
  ],
